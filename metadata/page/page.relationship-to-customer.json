@@ -1,52 +1,52 @@
 {
-  "_id": "page.your-role",
+  "_id": "page.relationship-to-customer",
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.your-role--radios.auto_name__2",
+      "_id": "page.relationship-to-customer--radios.auto_name__2",
       "_type": "radios",
       "items": [
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__1",
           "_type": "radio",
           "label": "Family member",
-          "value": "relationship_to_customer_family"
+          "value": "relationship_to_customer_family_member"
         },
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__2",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__2",
           "_type": "radio",
           "label": "Friend",
           "value": "relationship_to_customer_friend"
         },
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--2",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
           "label": "Councillor",
           "value": "relationship_to_customer_councillor"
         },
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--3",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__4",
           "_type": "radio",
           "label": "Advocacy service",
           "value": "relationship_to_customer_advocacy_service"
         },
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--4",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__5",
           "_type": "radio",
           "label": "MP",
           "value": "relationship_to_customer_mp"
         },
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--5",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__6",
           "_type": "radio",
           "label": "Solicitor or lawyer",
           "value": "relationship_to_customer_solicitor_lawyer"
         },
         {
-          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--6",
+          "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__7",
           "_type": "radio",
           "conditionalComponent": {
-            "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--6--textarea.auto_name__2",
+            "_id": "page.relationship-to-customer--radios.auto_name__2--radio.auto_value__7--textarea.auto_name__2",
             "_type": "textarea",
             "label": "Give more details",
             "name": "relationship_to_customer_other_more_details"
@@ -64,5 +64,5 @@
     "operator": "is",
     "value": "complaint_on_behalf_of_customer"
   },
-  "url": "your-role"
+  "url": "relationship-to-customer"
 }

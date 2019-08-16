@@ -23,5 +23,9 @@
       "name": "is_customer_complaining"
     }
   ],
+  "enableSteps": true,
+  "steps": [
+    "page.relationship-to-customer"
+  ],
   "url": "who-is-making-this-complaint"
 }
