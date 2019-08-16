@@ -25,7 +25,9 @@
     "page.complaint-details",
     "page.documents-to-support-your-complaint",
     "page.email",
-    "page.address"
+    "page.address",
+    "page.check-answers",
+    "page.complaint-sent"
   ],
   "url": "/"
 }
