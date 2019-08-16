@@ -1,0 +1,23 @@
+{
+  "_id": "page.name-and-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.name-and-address--text.auto_name__1",
+      "_type": "text",
+      "label": "Enter your full name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.name-and-address--content",
+      "_type": "content",
+      "html": "## Your home address"
+    }
+  ],
+  "heading": "Your name and address",
+  "url": "name-and-address"
+}
