@@ -10,17 +10,17 @@
           "_id": "page.case-complaint--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "complain_about_case_outcome_yes"
+          "value": "case_outcome_complaint_yes"
         },
         {
           "_id": "page.case-complaint--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "complain_about_case_outcome_no"
+          "value": "case_outcome_complaint_no"
         }
       ],
       "legend": "Do you want to complain about the outcome of a case?",
-      "name": "complain_about_case_outcome"
+      "name": "case_outcome_complaint"
     }
   ],
   "enableSteps": true,
