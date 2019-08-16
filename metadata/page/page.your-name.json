@@ -1,0 +1,13 @@
+{
+  "_id": "page.your-name",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-name--text.auto_name__1",
+      "_type": "text",
+      "label": "Enter your full name",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "your-name"
+}

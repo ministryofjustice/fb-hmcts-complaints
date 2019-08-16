@@ -21,10 +21,11 @@
     "page.case-complaint",
     "page.judge-complaint",
     "page.who-is-making-this-complaint",
+    "page.your-name",
     "page.complaint-details",
     "page.documents-to-support-your-complaint",
     "page.email",
-    "page.name-and-address"
+    "page.address"
   ],
   "url": "/"
 }

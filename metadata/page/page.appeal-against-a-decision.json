@@ -1,7 +1,13 @@
 {
   "_id": "page.appeal-against-a-decision",
   "_type": "page.exit",
-  "body": "You can appeal against a judge's decision, but you'll need to:\r\n\r\n* get legal advice first\r\n* [go through the appeals process](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)",
+  "components": [
+    {
+      "_id": "page.appeal-against-a-decision--inset",
+      "_type": "inset",
+      "html": "You can appeal against a judge's decision, but you'll need to:\r\n\r\n* get legal advice first\r\n* [go through the appeals process](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/)"
+    }
+  ],
   "heading": "You can't use this form to complain about the outcome of a case",
   "show": {
     "identifier": "case_outcome_complaint",
