@@ -20,7 +20,8 @@
   "steps": [
     "page.case-complaint",
     "page.judge-complaint",
-    "page.who-is-making-this-complaint"
+    "page.who-is-making-this-complaint",
+    "page.complaint-details"
   ],
   "url": "/"
 }

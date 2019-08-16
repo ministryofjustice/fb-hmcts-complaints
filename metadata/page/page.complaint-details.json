@@ -1,0 +1,30 @@
+{
+  "_id": "page.complaint-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.complaint-details--textarea.auto_name__1",
+      "_type": "textarea",
+      "label": "What happened?",
+      "name": "complaint_type"
+    },
+    {
+      "_id": "page.complaint-details--textarea.auto_name__1--2",
+      "_type": "textarea",
+      "label": "How can we resolve your issue?",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.complaint-details--text.auto_name__2",
+      "_type": "text",
+      "label": "Case number",
+      "name": "auto_name__2",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Complaint details",
+  "lede": "Give as much detail as you can, including dates if you know them.",
+  "url": "complaint-details"
+}
