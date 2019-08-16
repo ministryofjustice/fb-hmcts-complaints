@@ -21,7 +21,8 @@
     "page.case-complaint",
     "page.judge-complaint",
     "page.who-is-making-this-complaint",
-    "page.complaint-details"
+    "page.complaint-details",
+    "page.documents-to-support-your-complaint"
   ],
   "url": "/"
 }
