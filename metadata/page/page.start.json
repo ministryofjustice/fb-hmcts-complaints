@@ -17,6 +17,8 @@
   ],
   "heading": "Complain to HMCTS about a court or tribunal",
   "lede": "Use this form to complain if you're unhappy with your experience at a court or tribunal.",
-  "steps": [],
+  "steps": [
+    "page.case-complaint"
+  ],
   "url": "/"
 }

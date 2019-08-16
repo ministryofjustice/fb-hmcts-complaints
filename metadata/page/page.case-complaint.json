@@ -1,0 +1,27 @@
+{
+  "_id": "page.case-complaint",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.case-complaint--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.case-complaint--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.case-complaint--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you want to complain about the outcome of a case?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "case-complaint"
+}
