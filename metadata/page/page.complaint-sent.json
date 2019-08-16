@@ -1,7 +1,7 @@
 {
   "_id": "page.complaint-sent",
   "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\n## What happens next",
+  "body": "## What happens next\r\n\r\nWe try to respond to all complaints within 10 working days. \r\n\r\nTo see the progress of your complaint, contact [enter court or tribunal name] and give them reference number CDJ2123F.",
   "heading": "Complaint sent",
   "lede": "Your complaint reference is\r\n**CDJ2123F**",
   "url": "complaint-sent"
