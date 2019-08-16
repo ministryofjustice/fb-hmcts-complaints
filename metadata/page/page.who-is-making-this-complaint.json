@@ -28,7 +28,9 @@
     "page.relationship-to-customer",
     "page.representative-name",
     "page.representative-email-address",
-    "page.representative-address"
+    "page.representative-address",
+    "page.customer-name",
+    "page.representative-customer-address"
   ],
   "url": "who-is-making-this-complaint"
 }
