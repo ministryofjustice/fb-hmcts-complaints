@@ -6,7 +6,10 @@
       "_id": "page.your-name--text.auto_name__1",
       "_type": "text",
       "label": "Enter your full name",
-      "name": "customer_full_name"
+      "name": "customer_full_name",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "show": {
