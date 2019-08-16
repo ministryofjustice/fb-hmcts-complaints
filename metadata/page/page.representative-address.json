@@ -1,0 +1,31 @@
+{
+  "_id": "page.representative-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.representative-address--text.auto_name__2",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "representative_address_building",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__2--2",
+      "_type": "text",
+      "name": "representative_address_street",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__2--3",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "representative_address_town_city"
+    }
+  ],
+  "heading": "What's your address?",
+  "lede": "We'll only use this to contact you about your client's complaint.",
+  "url": "representative-address"
+}

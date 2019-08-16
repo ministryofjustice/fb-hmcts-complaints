@@ -28,7 +28,8 @@
     "page.email",
     "page.address",
     "page.check-answers",
-    "page.complaint-sent"
+    "page.complaint-sent",
+    "page.representative-address"
   ],
   "url": "/"
 }
