@@ -1,5 +1,8 @@
 {
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
-  "_type": "config.service"
+  "_type": "config.service",
+  "name": "Complain to HMCTS about a court or tribunal",
+  "pdfHeading": "Complain to HMCTS about a court or tribunal",
+  "phase": "none"
 }
