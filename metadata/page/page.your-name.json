@@ -6,8 +6,13 @@
       "_id": "page.your-name--text.auto_name__1",
       "_type": "text",
       "label": "Enter your full name",
-      "name": "auto_name__1"
+      "name": "customer_full_name"
     }
   ],
+  "show": {
+    "identifier": "is_customer_complaining",
+    "operator": "is",
+    "value": "customer_complaining_yes"
+  },
   "url": "your-name"
 }

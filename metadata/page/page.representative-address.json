@@ -1,0 +1,49 @@
+{
+  "_id": "page.representative-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.representative-address--text.auto_name__1",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "representative_address_building",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__2",
+      "_type": "text",
+      "name": "representative_address_street",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__3",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "representative_address_town_city",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__4",
+      "_type": "text",
+      "label": "County",
+      "name": "representative_address_county",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.representative-address--text.auto_name__5",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "representative_address_postcode",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "What's your address?",
+  "lede": "We'll only use this to contact you about the customer's complaint.",
+  "url": "representative-address"
+}
