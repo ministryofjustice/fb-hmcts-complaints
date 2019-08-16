@@ -1,0 +1,68 @@
+{
+  "_id": "page.your-role",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-role--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Family member",
+          "value": "relationship_to_customer_family"
+        },
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Friend",
+          "value": "relationship_to_customer_friend"
+        },
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Councillor",
+          "value": "relationship_to_customer_councillor"
+        },
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Advocacy service",
+          "value": "relationship_to_customer_advocacy_service"
+        },
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "MP",
+          "value": "relationship_to_customer_mp"
+        },
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--5",
+          "_type": "radio",
+          "label": "Solicitor or lawyer",
+          "value": "relationship_to_customer_solicitor_lawyer"
+        },
+        {
+          "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--6",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.your-role--radios.auto_name__2--radio.auto_value__1--6--textarea.auto_name__2",
+            "_type": "textarea",
+            "label": "Give more details",
+            "name": "relationship_to_customer_other_more_details"
+          },
+          "label": "Other",
+          "value": "relationship_to_customer_other"
+        }
+      ],
+      "legend": "What's your relationship to the customer?",
+      "name": "relationship_to_customer"
+    }
+  ],
+  "show": {
+    "identifier": "is_customer_complaining",
+    "operator": "is",
+    "value": "complaint_on_behalf_of_customer"
+  },
+  "url": "your-role"
+}
