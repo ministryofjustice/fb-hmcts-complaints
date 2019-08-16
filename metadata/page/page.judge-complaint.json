@@ -1,0 +1,31 @@
+{
+  "_id": "page.judge-complaint",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.judge-complaint--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.judge-complaint--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.judge-complaint--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you want to complain about a judge?",
+      "name": "auto_name__1"
+    }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page.complain-about-a-judge"
+  ],
+  "url": "judge-complaint"
+}
