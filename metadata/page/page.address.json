@@ -44,5 +44,10 @@
     }
   ],
   "heading": "What's your home address?",
+  "show": {
+    "identifier": "is_customer_complaining",
+    "operator": "is",
+    "value": "customer_complaining_yes"
+  },
   "url": "address"
 }

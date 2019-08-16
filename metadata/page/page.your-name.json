@@ -8,7 +8,7 @@
       "label": "Enter your full name",
       "name": "customer_full_name",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],
