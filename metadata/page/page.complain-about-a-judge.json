@@ -4,9 +4,9 @@
   "body": "You can complain about a:\r\n\r\n* judge\r\n* magistrate\r\n* tribunal member\r\n* coroner\r\n\r\nYou must [make your complaint](https://www.gov.uk/complain-judge-magistrate-tribunal-coroner) within 3 months.",
   "heading": "Complain about a judge",
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "judge_complaint",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "judge_complaint_yes"
   },
   "url": "complain-about-a-judge"
 }

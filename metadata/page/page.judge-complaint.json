@@ -10,17 +10,17 @@
           "_id": "page.judge-complaint--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "judge_complaint_yes"
         },
         {
           "_id": "page.judge-complaint--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__2"
+          "value": "judge_complaint_no"
         }
       ],
       "legend": "Do you want to complain about a judge?",
-      "name": "auto_name__1"
+      "name": "judge_complaint"
     }
   ],
   "enableSteps": true,
