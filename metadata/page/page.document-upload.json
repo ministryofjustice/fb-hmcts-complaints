@@ -1,0 +1,21 @@
+{
+  "_id": "page.document-upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.document-upload--fileupload.auto_name__1",
+      "_type": "fileupload",
+      "hint": "You can upload your documents as scanned copies or photos of the originals.",
+      "label": "Upload supporting documents or photos",
+      "maxFiles": 20,
+      "minFiles": 1,
+      "name": "upload_supporting_documents"
+    }
+  ],
+  "show": {
+    "identifier": "supporting_documents_available",
+    "operator": "is",
+    "value": "supporting_documents_yes"
+  },
+  "url": "document-upload"
+}
