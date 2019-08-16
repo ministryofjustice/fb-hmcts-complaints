@@ -25,7 +25,8 @@
   ],
   "enableSteps": true,
   "steps": [
-    "page.relationship-to-customer"
+    "page.relationship-to-customer",
+    "page.representative-name"
   ],
   "url": "who-is-making-this-complaint"
 }
