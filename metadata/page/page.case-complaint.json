@@ -7,12 +7,18 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.case-complaint--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
           "value": "case_outcome_complaint_yes"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.case-complaint--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
