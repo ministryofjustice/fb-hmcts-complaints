@@ -19,7 +19,7 @@
           "value": "complaint_on_behalf_of_customer"
         }
       ],
-      "legend": "Are you making this complaint yourself?",
+      "legend": "Are you complaining for yourself?",
       "name": "is_customer_complaining"
     }
   ],
