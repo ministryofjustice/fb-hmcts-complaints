@@ -44,7 +44,7 @@
     }
   ],
   "heading": "What's your address?",
-  "lede": "We'll only use this to contact you about the customer's complaint.",
+  "lede": "We'll only use this to contact you about the person's complaint.",
   "show": {
     "identifier": "is_customer_complaining",
     "operator": "is",

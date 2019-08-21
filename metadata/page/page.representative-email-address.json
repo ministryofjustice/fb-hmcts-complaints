@@ -5,6 +5,7 @@
     {
       "_id": "page.representative-email-address--email.auto_name__2",
       "_type": "email",
+      "hint": "We'll only use this to contact you about the person's complaint",
       "label": "Your email address",
       "name": "representative_email_address"
     }
