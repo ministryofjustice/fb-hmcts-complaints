@@ -42,7 +42,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "What's the customer's address?",
+  "heading": "What's the person's home address?",
   "show": {
     "identifier": "is_customer_complaining",
     "operator": "is",
