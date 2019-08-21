@@ -48,5 +48,5 @@
     "operator": "is",
     "value": "complaint_on_behalf_of_customer"
   },
-  "url": "representative-customer-address"
+  "url": "/customer-address-on-behalf"
 }

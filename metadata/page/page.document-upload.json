@@ -17,5 +17,5 @@
     "operator": "is",
     "value": "supporting_documents_yes"
   },
-  "url": "document-upload"
+  "url": "/upload-supporting-documents"
 }

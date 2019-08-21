@@ -50,5 +50,5 @@
     "operator": "is",
     "value": "complaint_on_behalf_of_customer"
   },
-  "url": "representative-address"
+  "url": "/representative-contact-address"
 }
