@@ -55,7 +55,7 @@
           "value": "relationship_to_customer_other"
         }
       ],
-      "legend": "What's your relationship to the customer?",
+      "legend": "What's your relationship to the person complaining?",
       "name": "relationship_to_customer"
     }
   ],
