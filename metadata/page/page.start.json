@@ -12,8 +12,6 @@
   "heading": "Complain about a court or tribunal service",
   "lede": "Use this form to complain about a bad experience at a court or tribunal.",
   "steps": [
-    "page.case-complaint",
-    "page.judge-complaint",
     "page.who-is-making-this-complaint",
     "page.your-name",
     "page.complaint-details",
