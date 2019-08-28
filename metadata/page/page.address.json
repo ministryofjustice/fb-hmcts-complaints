@@ -5,13 +5,14 @@
     {
       "_id": "page.address--text.auto_name__2",
       "_type": "text",
-      "label": "Building and street",
+      "label": "Building",
       "name": "home_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.address--text.auto_name__3",
       "_type": "text",
+      "label": "Street",
       "name": "home_address_street",
       "validation": {
         "required": false
@@ -43,7 +44,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "Your address",
+  "heading": "Contact address",
   "show": true,
   "url": "address"
 }
