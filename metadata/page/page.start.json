@@ -15,6 +15,8 @@
     "page.your-name",
     "page.email",
     "page.address",
+    "page.do-you-have-a-case-number",
+    "page.case-number",
     "page.documents-to-support-your-complaint",
     "page.check-answers",
     "page.complaint-sent"
