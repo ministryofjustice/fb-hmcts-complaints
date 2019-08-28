@@ -10,17 +10,17 @@
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "case_number_yes"
         },
         {
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__2"
+          "value": "case_number_no"
         }
       ],
       "legend": "Do you have a case number?",
-      "name": "auto_name__1"
+      "name": "case_number"
     }
   ],
   "url": "do-you-have-a-case-number"

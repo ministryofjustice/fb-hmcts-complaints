@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Give as much detail about your complaint as you can. Include dates if you know them.",
       "label": "What happened",
-      "name": "auto_name__3"
+      "name": "complaint_details"
     }
   ],
   "url": "complaint"

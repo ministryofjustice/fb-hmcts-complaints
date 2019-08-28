@@ -6,13 +6,13 @@
       "_id": "page.case-number--text.auto_name__2",
       "_type": "text",
       "label": "Case number",
-      "name": "auto_name__2"
+      "name": "case_number_details"
     }
   ],
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "case_number",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "case_number_yes"
   },
   "url": "case-number"
 }

@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal name if you know it.",
       "label": "Where this happened",
-      "name": "auto_name__4"
+      "name": "complaint_location"
     }
   ],
   "url": "location"

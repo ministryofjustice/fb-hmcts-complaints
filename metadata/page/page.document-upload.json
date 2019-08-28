@@ -9,13 +9,13 @@
       "label": "Upload documents or photos",
       "maxFiles": 20,
       "minFiles": 1,
-      "name": "upload_supporting_documents"
+      "name": "evidence_upload"
     }
   ],
   "show": {
-    "identifier": "supporting_documents_available",
+    "identifier": "complaint_evidence",
     "operator": "is",
-    "value": "supporting_documents_yes"
+    "value": "complaint_evidence_yes"
   },
   "url": "/upload-documents"
 }
