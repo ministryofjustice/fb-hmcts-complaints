@@ -9,5 +9,10 @@
       "name": "auto_name__2"
     }
   ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
   "url": "case-number"
 }
