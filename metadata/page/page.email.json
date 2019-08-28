@@ -7,7 +7,7 @@
       "_type": "email",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your email address",
-      "name": "your_email_address"
+      "name": "email_address"
     }
   ],
   "show": true,

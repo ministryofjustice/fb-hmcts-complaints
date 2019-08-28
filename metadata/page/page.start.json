@@ -13,9 +13,9 @@
   "lede": "Use this form to complain about a bad experience at a court or tribunal.",
   "steps": [
     "page.your-name",
-    "page.documents-to-support-your-complaint",
     "page.email",
     "page.address",
+    "page.documents-to-support-your-complaint",
     "page.check-answers",
     "page.complaint-sent"
   ],

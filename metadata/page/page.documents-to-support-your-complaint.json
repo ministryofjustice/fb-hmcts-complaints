@@ -19,7 +19,7 @@
           "value": "supporting_documents_no"
         }
       ],
-      "legend": "Do you have any documents or photos to support your complaint?",
+      "legend": "Do you want to send documents or photos to support your complaint?",
       "name": "supporting_documents_available"
     }
   ],

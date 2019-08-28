@@ -43,7 +43,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "What's your home address?",
+  "heading": "Your address",
   "show": true,
   "url": "address"
 }
