@@ -1,0 +1,14 @@
+{
+  "_id": "page.complaint",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.complaint--textarea.auto_name__3",
+      "_type": "textarea",
+      "hint": "Give as much detail about your complaint as you can. Include dates if you know them.",
+      "label": "What happened",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "complaint"
+}

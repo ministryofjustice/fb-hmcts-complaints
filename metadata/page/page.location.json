@@ -1,0 +1,14 @@
+{
+  "_id": "page.location",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.location--text.auto_name__4",
+      "_type": "text",
+      "hint": "Start by typing a location, for example, Aberystwyth, or the court or tribunal name if you know it.",
+      "label": "Where this happened",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "location"
+}
