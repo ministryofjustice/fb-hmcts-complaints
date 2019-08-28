@@ -5,17 +5,13 @@
     {
       "_id": "page.your-name--text.auto_name__1",
       "_type": "text",
-      "label": "Enter your full name",
-      "name": "customer_full_name",
+      "label": "Your full name",
+      "name": "full_name",
       "validation": {
         "required": true
       }
     }
   ],
-  "show": {
-    "identifier": "is_customer_complaining",
-    "operator": "is",
-    "value": "customer_complaining_yes"
-  },
+  "show": true,
   "url": "your-name"
 }

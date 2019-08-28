@@ -10,10 +10,6 @@
       "name": "your_email_address"
     }
   ],
-  "show": {
-    "identifier": "is_customer_complaining",
-    "operator": "is",
-    "value": "customer_complaining_yes"
-  },
+  "show": true,
   "url": "email"
 }

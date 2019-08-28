@@ -12,10 +12,6 @@
       "name": "upload_supporting_documents"
     }
   ],
-  "show": {
-    "identifier": "supporting_documents_available",
-    "operator": "is",
-    "value": "supporting_documents_yes"
-  },
+  "show": true,
   "url": "/upload-supporting-documents"
 }
