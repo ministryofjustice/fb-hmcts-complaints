@@ -2,7 +2,7 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "Complain to HMCTS about a court or tribunal",
-  "pdfHeading": "Complain to HMCTS about a court or tribunal",
+  "name": "Complain about a court or tribunal service",
+  "pdfHeading": "Complain about a court or tribunal service",
   "phase": "none"
 }

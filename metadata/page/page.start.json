@@ -1,22 +1,16 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "components": [
-    {
-      "_id": "page.start--inset",
-      "_type": "inset",
-      "html": "## Important information\r\n\r\nYou can't use this form to complain about:\r\n\r\n* the outcome of a case\r\n* a judge, tribunal member, magistrate or coroner"
-    }
-  ],
+  "body": "You cannot use this form to complain about:\r\n\r\n* the result of a case\r\n* a judge, magistrate, coroner or member of a tribunal",
   "extraComponents": [
     {
       "_id": "page.start--content",
       "_type": "content",
-      "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
+      "html": "Your complaint will not affect the result of your case."
     }
   ],
-  "heading": "Complain to HMCTS about a court or tribunal",
-  "lede": "Use this form to complain if you're unhappy with your experience at a court or tribunal.",
+  "heading": "Complain about a court or tribunal service",
+  "lede": "Use this form to complain about a bad experience at a court or tribunal.",
   "steps": [
     "page.case-complaint",
     "page.judge-complaint",
