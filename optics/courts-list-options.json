@@ -2,3607 +2,3571 @@
   {
     "_id": "court_code__default",
     "_type": "option",
-    "text": "Select a court",
+    "text": "Select a court or tribunal",
     "value": ""
   },
   {
     "_id": "court_code_982",
     "_type": "option",
-    "value": "982",
-    "text": "ASC Hagley Road"
+    "text": "ASC Hagley Road",
+    "value": "982"
   },
   {
     "_id": "court_code_932",
     "_type": "option",
-    "value": "932",
-    "text": "ASC Leicestershire Charity"
+    "text": "ASC Leicestershire Charity",
+    "value": "932"
   },
   {
     "_id": "court_code_934",
     "_type": "option",
-    "value": "934",
-    "text": "ASC Leicestershire Environment"
+    "text": "ASC Leicestershire Environment",
+    "value": "934"
   },
   {
     "_id": "court_code_935",
     "_type": "option",
-    "value": "935",
-    "text": "ASC Leicestershire Estate Agents Appeals"
+    "text": "ASC Leicestershire Estate Agents Appeals",
+    "value": "935"
   },
   {
     "_id": "court_code_936",
     "_type": "option",
-    "value": "936",
-    "text": "ASC Leicestershire Gambling Appeals"
+    "text": "ASC Leicestershire Gambling Appeals",
+    "value": "936"
   },
   {
     "_id": "court_code_937",
     "_type": "option",
-    "value": "937",
-    "text": "ASC Leicestershire Gender Recognition"
+    "text": "ASC Leicestershire Gender Recognition",
+    "value": "937"
   },
   {
     "_id": "court_code_940",
     "_type": "option",
-    "value": "940",
-    "text": "ASC Leicestershire IA"
+    "text": "ASC Leicestershire IA",
+    "value": "940"
   },
   {
     "_id": "court_code_938",
     "_type": "option",
-    "value": "938",
-    "text": "ASC Leicestershire Information Rights"
+    "text": "ASC Leicestershire Information Rights",
+    "value": "938"
   },
   {
     "_id": "court_code_939",
     "_type": "option",
-    "value": "939",
-    "text": "ASC Leicestershire Mental Health"
+    "text": "ASC Leicestershire Mental Health",
+    "value": "939"
   },
   {
     "_id": "court_code_941",
     "_type": "option",
-    "value": "941",
-    "text": "ASC Leicestershire SSCS"
+    "text": "ASC Leicestershire SSCS",
+    "value": "941"
   },
   {
     "_id": "court_code_973",
     "_type": "option",
-    "value": "973",
-    "text": "Aberdeen ET"
+    "text": "Aberdeen ET",
+    "value": "973"
   },
   {
     "_id": "court_code_102",
     "_type": "option",
-    "value": "102",
-    "text": "Aberystwyth County"
+    "text": "Aberystwyth County",
+    "value": "102"
   },
   {
     "_id": "court_code_10004",
     "_type": "option",
-    "value": "10004",
-    "text": "Aberystwyth Magistrates'"
+    "text": "Aberystwyth Magistrates'",
+    "value": "10004"
   },
   {
     "_id": "court_code_601",
     "_type": "option",
-    "value": "601",
-    "text": "Administrative Court"
+    "text": "Administrative Court",
+    "value": "601"
   },
   {
     "_id": "court_code_603",
     "_type": "option",
-    "value": "603",
-    "text": "Admiralty and Commercial Courts"
+    "text": "Admiralty and Commercial Courts",
+    "value": "603"
   },
   {
     "_id": "court_code_986",
     "_type": "option",
-    "value": "986",
-    "text": "Agricultural Land and Drainage Tribunal"
+    "text": "Agricultural Land and Drainage Tribunal",
+    "value": "986"
   },
   {
     "_id": "court_code_104",
     "_type": "option",
-    "value": "104",
-    "text": "Aldershot County"
+    "text": "Aldershot County",
+    "value": "104"
   },
   {
     "_id": "court_code_10007",
     "_type": "option",
-    "value": "10007",
-    "text": "Aldershot Magistrates'"
+    "text": "Aldershot Magistrates'",
+    "value": "10007"
   },
   {
     "_id": "court_code_967",
     "_type": "option",
-    "value": "967",
-    "text": "Anchorage House SSCS"
+    "text": "Anchorage House SSCS",
+    "value": "967"
   },
   {
     "_id": "court_code_901",
     "_type": "option",
-    "value": "901",
-    "text": "Asylum Support "
+    "text": "Asylum Support ",
+    "value": "901"
   },
   {
     "_id": "court_code_6000",
     "_type": "option",
-    "value": "6000",
-    "text": "Avon & Somerset Central Enforcement"
+    "text": "Avon & Somerset Central Enforcement",
+    "value": "6000"
   },
   {
     "_id": "court_code_401",
     "_type": "option",
-    "value": "401",
-    "text": "Aylesbury Crown"
+    "text": "Aylesbury Crown",
+    "value": "401"
   },
   {
     "_id": "court_code_114",
     "_type": "option",
-    "value": "114",
-    "text": "Banbury County"
+    "text": "Banbury County",
+    "value": "114"
   },
   {
     "_id": "court_code_10017",
     "_type": "option",
-    "value": "10017",
-    "text": "Banbury Magistrates'"
+    "text": "Banbury Magistrates'",
+    "value": "10017"
   },
   {
     "_id": "court_code_605",
     "_type": "option",
-    "value": "605",
-    "text": "Bankruptcy and Companies' Court"
+    "text": "Bankruptcy and Companies' Court",
+    "value": "605"
   },
   {
     "_id": "court_code_10281",
     "_type": "option",
-    "value": "10281",
-    "text": "Barkingside (Redbridge) Magistrates'"
+    "text": "Barkingside (Redbridge) Magistrates'",
+    "value": "10281"
   },
   {
     "_id": "court_code_117",
     "_type": "option",
-    "value": "117",
-    "text": "Barnet County"
+    "text": "Barnet County",
+    "value": "117"
   },
   {
     "_id": "court_code_118",
     "_type": "option",
-    "value": "118",
-    "text": "Barnsley County"
+    "text": "Barnsley County",
+    "value": "118"
   },
   {
     "_id": "court_code_10022",
     "_type": "option",
-    "value": "10022",
-    "text": "Barnsley Magistrates'"
+    "text": "Barnsley Magistrates'",
+    "value": "10022"
   },
   {
     "_id": "court_code_119",
     "_type": "option",
-    "value": "119",
-    "text": "Barnstaple County"
+    "text": "Barnstaple County",
+    "value": "119"
   },
   {
     "_id": "court_code_10023",
     "_type": "option",
-    "value": "10023",
-    "text": "Barnstaple Magistrates'"
+    "text": "Barnstaple Magistrates'",
+    "value": "10023"
   },
   {
     "_id": "court_code_120-A",
     "_type": "option",
-    "value": "120-A",
-    "text": "Barrow Crown"
+    "text": "Barrow Crown",
+    "value": "120-A"
   },
   {
     "_id": "court_code_120",
     "_type": "option",
-    "value": "120",
-    "text": "Barrow In Furness County"
+    "text": "Barrow In Furness County",
+    "value": "120"
   },
   {
     "_id": "court_code_10024",
     "_type": "option",
-    "value": "10024",
-    "text": "Barrow in Furness Magistrates'"
+    "text": "Barrow in Furness Magistrates'",
+    "value": "10024"
   },
   {
     "_id": "court_code_153",
     "_type": "option",
-    "value": "153",
-    "text": "Basildon County"
+    "text": "Basildon County",
+    "value": "153"
   },
   {
     "_id": "court_code_461",
     "_type": "option",
-    "value": "461",
-    "text": "Basildon Crown"
+    "text": "Basildon Crown",
+    "value": "461"
   },
   {
     "_id": "court_code_10026",
     "_type": "option",
-    "value": "10026",
-    "text": "Basildon Magistrates'"
+    "text": "Basildon Magistrates'",
+    "value": "10026"
   },
   {
     "_id": "court_code_122",
     "_type": "option",
-    "value": "122",
-    "text": "Basingstoke County"
+    "text": "Basingstoke County",
+    "value": "122"
   },
   {
     "_id": "court_code_10027",
     "_type": "option",
-    "value": "10027",
-    "text": "Basingstoke Magistrates'"
+    "text": "Basingstoke Magistrates'",
+    "value": "10027"
   },
   {
     "_id": "court_code_123",
     "_type": "option",
-    "value": "123",
-    "text": "Bath Law Courts"
+    "text": "Bath Law Courts",
+    "value": "123"
   },
   {
     "_id": "court_code_10028",
     "_type": "option",
-    "value": "10028",
-    "text": "Bath Magistrates'"
+    "text": "Bath Magistrates'",
+    "value": "10028"
   },
   {
     "_id": "court_code_124",
     "_type": "option",
-    "value": "124",
-    "text": "Bedford County"
+    "text": "Bedford County",
+    "value": "124"
   },
   {
     "_id": "court_code_946",
     "_type": "option",
-    "value": "946",
-    "text": "Bedford ET"
+    "text": "Bedford ET",
+    "value": "946"
   },
   {
     "_id": "court_code_10030",
     "_type": "option",
-    "value": "10030",
-    "text": "Bedford Magistrates'"
+    "text": "Bedford Magistrates'",
+    "value": "10030"
   },
   {
     "_id": "court_code_10033",
     "_type": "option",
-    "value": "10033",
-    "text": "Berwick upon Tweed Magistrates'"
+    "text": "Berwick upon Tweed Magistrates'",
+    "value": "10033"
   },
   {
     "_id": "court_code_10034",
     "_type": "option",
-    "value": "10034",
-    "text": "Beverley Magistrates'"
+    "text": "Beverley Magistrates'",
+    "value": "10034"
   },
   {
     "_id": "court_code_10035",
     "_type": "option",
-    "value": "10035",
-    "text": "Bexley Magistrates'"
+    "text": "Bexley Magistrates'",
+    "value": "10035"
   },
   {
     "_id": "court_code_126",
     "_type": "option",
-    "value": "126",
-    "text": "Birkenhead County"
+    "text": "Birkenhead County",
+    "value": "126"
   },
   {
     "_id": "court_code_10038",
     "_type": "option",
-    "value": "10038",
-    "text": "Birkenhead Magistrates'"
+    "text": "Birkenhead Magistrates'",
+    "value": "10038"
   },
   {
     "_id": "court_code_127",
     "_type": "option",
-    "value": "127",
-    "text": "Birmingham County"
+    "text": "Birmingham County",
+    "value": "127"
   },
   {
     "_id": "court_code_779434",
     "_type": "option",
-    "value": "779434",
-    "text": "Birmingham Courts and Tribunal Service Centre"
+    "text": "Birmingham Courts and Tribunal Service Centre",
+    "value": "779434"
   },
   {
     "_id": "court_code_404",
     "_type": "option",
-    "value": "404",
-    "text": "Birmingham Crown"
+    "text": "Birmingham Crown",
+    "value": "404"
   },
   {
     "_id": "court_code_928",
     "_type": "option",
-    "value": "928",
-    "text": "Birmingham ET"
+    "text": "Birmingham ET",
+    "value": "928"
   },
   {
     "_id": "court_code_929",
     "_type": "option",
-    "value": "929",
-    "text": "Birmingham IAC"
+    "text": "Birmingham IAC",
+    "value": "929"
   },
   {
     "_id": "court_code_10039",
     "_type": "option",
-    "value": "10039",
-    "text": "Birmingham Magistrates' (Corporation St)"
+    "text": "Birmingham Magistrates' (Corporation St)",
+    "value": "10039"
   },
   {
     "_id": "court_code_5003",
     "_type": "option",
-    "value": "5003",
-    "text": "Birmingham Probate"
+    "text": "Birmingham Probate",
+    "value": "5003"
   },
   {
     "_id": "court_code_930",
     "_type": "option",
-    "value": "930",
-    "text": "Birmingham SSCS"
+    "text": "Birmingham SSCS",
+    "value": "930"
   },
   {
     "_id": "court_code_130",
     "_type": "option",
-    "value": "130",
-    "text": "Blackburn County"
+    "text": "Blackburn County",
+    "value": "130"
   },
   {
     "_id": "court_code_10043",
     "_type": "option",
-    "value": "10043",
-    "text": "Blackburn Magistrates'"
+    "text": "Blackburn Magistrates'",
+    "value": "10043"
   },
   {
     "_id": "court_code_428",
     "_type": "option",
-    "value": "428",
-    "text": "Blackfriars Crown"
+    "text": "Blackfriars Crown",
+    "value": "428"
   },
   {
     "_id": "court_code_131",
     "_type": "option",
-    "value": "131",
-    "text": "Blackpool County"
+    "text": "Blackpool County",
+    "value": "131"
   },
   {
     "_id": "court_code_10044",
     "_type": "option",
-    "value": "10044",
-    "text": "Blackpool Magistrates'"
+    "text": "Blackpool Magistrates'",
+    "value": "10044"
   },
   {
     "_id": "court_code_132",
     "_type": "option",
-    "value": "132",
-    "text": "Blackwood County and Family Court"
+    "text": "Blackwood County and Family Court",
+    "value": "132"
   },
   {
     "_id": "court_code_136",
     "_type": "option",
-    "value": "136",
-    "text": "Bodmin County"
+    "text": "Bodmin County",
+    "value": "136"
   },
   {
     "_id": "court_code_10048",
     "_type": "option",
-    "value": "10048",
-    "text": "Bodmin Magistrates'"
+    "text": "Bodmin Magistrates'",
+    "value": "10048"
   },
   {
     "_id": "court_code_470",
     "_type": "option",
-    "value": "470",
-    "text": "Bolton Crown"
+    "text": "Bolton Crown",
+    "value": "470"
   },
   {
     "_id": "court_code_10049",
     "_type": "option",
-    "value": "10049",
-    "text": "Bolton Magistrates'"
+    "text": "Bolton Magistrates'",
+    "value": "10049"
   },
   {
     "_id": "court_code_10050",
     "_type": "option",
-    "value": "10050",
-    "text": "Bootle Magistrates'"
+    "text": "Bootle Magistrates'",
+    "value": "10050"
   },
   {
     "_id": "court_code_138",
     "_type": "option",
-    "value": "138",
-    "text": "Boston County"
+    "text": "Boston County",
+    "value": "138"
   },
   {
     "_id": "court_code_10051",
     "_type": "option",
-    "value": "10051",
-    "text": "Boston Magistrates'"
+    "text": "Boston Magistrates'",
+    "value": "10051"
   },
   {
     "_id": "court_code_139",
     "_type": "option",
-    "value": "139",
-    "text": "Bournemouth County"
+    "text": "Bournemouth County",
+    "value": "139"
   },
   {
     "_id": "court_code_406",
     "_type": "option",
-    "value": "406",
-    "text": "Bournemouth Crown"
+    "text": "Bournemouth Crown",
+    "value": "406"
   },
   {
     "_id": "court_code_141",
     "_type": "option",
-    "value": "141",
-    "text": "Bradford County"
+    "text": "Bradford County",
+    "value": "141"
   },
   {
     "_id": "court_code_402",
     "_type": "option",
-    "value": "402",
-    "text": "Bradford Crown"
+    "text": "Bradford Crown",
+    "value": "402"
   },
   {
     "_id": "court_code_995",
     "_type": "option",
-    "value": "995",
-    "text": "Bradford Direct Lodgement Centre"
+    "text": "Bradford Direct Lodgement Centre",
+    "value": "995"
   },
   {
     "_id": "court_code_905",
     "_type": "option",
-    "value": "905",
-    "text": "Bradford IAC"
+    "text": "Bradford IAC",
+    "value": "905"
   },
   {
     "_id": "court_code_10056",
     "_type": "option",
-    "value": "10056",
-    "text": "Bradford Magistrates'"
+    "text": "Bradford Magistrates'",
+    "value": "10056"
   },
   {
     "_id": "court_code_144",
     "_type": "option",
-    "value": "144",
-    "text": "Brentford County"
+    "text": "Brentford County",
+    "value": "144"
   },
   {
     "_id": "court_code_10062",
     "_type": "option",
-    "value": "10062",
-    "text": "Bridlington Magistrates'"
+    "text": "Bridlington Magistrates'",
+    "value": "10062"
   },
   {
     "_id": "court_code_150",
     "_type": "option",
-    "value": "150",
-    "text": "Brighton County"
+    "text": "Brighton County",
+    "value": "150"
   },
   {
     "_id": "court_code_148",
     "_type": "option",
-    "value": "148",
-    "text": "Brighton Family Centre"
+    "text": "Brighton Family Centre",
+    "value": "148"
   },
   {
     "_id": "court_code_10064",
     "_type": "option",
-    "value": "10064",
-    "text": "Brighton Magistrates'"
+    "text": "Brighton Magistrates'",
+    "value": "10064"
   },
   {
     "_id": "court_code_5004",
     "_type": "option",
-    "value": "5004",
-    "text": "Brighton Probate"
+    "text": "Brighton Probate",
+    "value": "5004"
   },
   {
     "_id": "court_code_151",
     "_type": "option",
-    "value": "151",
-    "text": "Bristol County"
+    "text": "Bristol County",
+    "value": "151"
   },
   {
     "_id": "court_code_408",
     "_type": "option",
-    "value": "408",
-    "text": "Bristol Crown"
+    "text": "Bristol Crown",
+    "value": "408"
   },
   {
     "_id": "court_code_923",
     "_type": "option",
-    "value": "923",
-    "text": "Bristol ET"
+    "text": "Bristol ET",
+    "value": "923"
   },
   {
     "_id": "court_code_10065",
     "_type": "option",
-    "value": "10065",
-    "text": "Bristol Magistrates'"
+    "text": "Bristol Magistrates'",
+    "value": "10065"
   },
   {
     "_id": "court_code_5005",
     "_type": "option",
-    "value": "5005",
-    "text": "Bristol Probate"
+    "text": "Bristol Probate",
+    "value": "5005"
   },
   {
     "_id": "court_code_152",
     "_type": "option",
-    "value": "152",
-    "text": "Bromley County"
+    "text": "Bromley County",
+    "value": "152"
   },
   {
     "_id": "court_code_10066",
     "_type": "option",
-    "value": "10066",
-    "text": "Bromley Magistrates' (London Road)"
+    "text": "Bromley Magistrates' (London Road)",
+    "value": "10066"
   },
   {
     "_id": "court_code_154",
     "_type": "option",
-    "value": "154",
-    "text": "Burnley County"
+    "text": "Burnley County",
+    "value": "154"
   },
   {
     "_id": "court_code_409",
     "_type": "option",
-    "value": "409",
-    "text": "Burnley Crown"
+    "text": "Burnley Crown",
+    "value": "409"
   },
   {
     "_id": "court_code_10068",
     "_type": "option",
-    "value": "10068",
-    "text": "Burnley Magistrates'"
+    "text": "Burnley Magistrates'",
+    "value": "10068"
   },
   {
     "_id": "court_code_157",
     "_type": "option",
-    "value": "157",
-    "text": "Bury St Edmunds County"
+    "text": "Bury St Edmunds County",
+    "value": "157"
   },
   {
     "_id": "court_code_949",
     "_type": "option",
-    "value": "949",
-    "text": "Bury St Edmunds ET"
+    "text": "Bury St Edmunds ET",
+    "value": "949"
   },
   {
     "_id": "court_code_390",
     "_type": "option",
-    "value": "390",
-    "text": "CCMCC"
+    "text": "CCMCC",
+    "value": "390"
   },
   {
     "_id": "court_code_804664",
     "_type": "option",
-    "value": "804664",
-    "text": "CCMCC (CHO)"
+    "text": "CCMCC (CHO)",
+    "value": "804664"
   },
   {
     "_id": "court_code_804794",
     "_type": "option",
-    "value": "804794",
-    "text": "CCMCC(AOE)"
+    "text": "CCMCC(AOE)",
+    "value": "804794"
   },
   {
     "_id": "court_code_804679",
     "_type": "option",
-    "value": "804679",
-    "text": "CCMCC(HWF)"
+    "text": "CCMCC(HWF)",
+    "value": "804679"
   },
   {
     "_id": "court_code_6001",
     "_type": "option",
-    "value": "6001",
-    "text": "CDN Enforcement"
+    "text": "CDN Enforcement",
+    "value": "6001"
   },
   {
     "_id": "court_code_6037",
     "_type": "option",
-    "value": "6037",
-    "text": "CENS National Compliance and Enforcemnent Services"
+    "text": "CENS National Compliance and Enforcemnent Services",
+    "value": "6037"
   },
   {
     "_id": "court_code_755",
     "_type": "option",
-    "value": "755",
-    "text": "Caernarfon Crown"
+    "text": "Caernarfon Crown",
+    "value": "755"
   },
   {
     "_id": "court_code_159",
     "_type": "option",
-    "value": "159",
-    "text": "Caernarfon Justice Centre"
+    "text": "Caernarfon Justice Centre",
+    "value": "159"
   },
   {
     "_id": "court_code_10073",
     "_type": "option",
-    "value": "10073",
-    "text": "Caernarfon Magistrates'"
+    "text": "Caernarfon Magistrates'",
+    "value": "10073"
   },
   {
     "_id": "court_code_10077",
     "_type": "option",
-    "value": "10077",
-    "text": "Camberwell Green Magistrates' "
+    "text": "Camberwell Green Magistrates' ",
+    "value": "10077"
   },
   {
     "_id": "court_code_162",
     "_type": "option",
-    "value": "162",
-    "text": "Cambridge County"
+    "text": "Cambridge County",
+    "value": "162"
   },
   {
     "_id": "court_code_410",
     "_type": "option",
-    "value": "410",
-    "text": "Cambridge Crown"
+    "text": "Cambridge Crown",
+    "value": "410"
   },
   {
     "_id": "court_code_10079",
     "_type": "option",
-    "value": "10079",
-    "text": "Cambridge Magistrates'"
+    "text": "Cambridge Magistrates'",
+    "value": "10079"
   },
   {
     "_id": "court_code_10080",
     "_type": "option",
-    "value": "10080",
-    "text": "Cannock Magistrates'"
+    "text": "Cannock Magistrates'",
+    "value": "10080"
   },
   {
     "_id": "court_code_163",
     "_type": "option",
-    "value": "163",
-    "text": "Canterbury County"
+    "text": "Canterbury County",
+    "value": "163"
   },
   {
     "_id": "court_code_479",
     "_type": "option",
-    "value": "479",
-    "text": "Canterbury Crown"
+    "text": "Canterbury Crown",
+    "value": "479"
   },
   {
     "_id": "court_code_10081",
     "_type": "option",
-    "value": "10081",
-    "text": "Canterbury Magistrates'"
+    "text": "Canterbury Magistrates'",
+    "value": "10081"
   },
   {
     "_id": "court_code_164",
     "_type": "option",
-    "value": "164",
-    "text": "Cardiff Civil and Family Justice Centre"
+    "text": "Cardiff Civil and Family Justice Centre",
+    "value": "164"
   },
   {
     "_id": "court_code_411",
     "_type": "option",
-    "value": "411",
-    "text": "Cardiff Crown"
+    "text": "Cardiff Crown",
+    "value": "411"
   },
   {
     "_id": "court_code_10082",
     "_type": "option",
-    "value": "10082",
-    "text": "Cardiff Magistrates'"
+    "text": "Cardiff Magistrates'",
+    "value": "10082"
   },
   {
     "_id": "court_code_920",
     "_type": "option",
-    "value": "920",
-    "text": "Cardiff Social Security & Child Support Tribunal "
+    "text": "Cardiff Social Security & Child Support Tribunal ",
+    "value": "920"
   },
   {
     "_id": "court_code_908",
     "_type": "option",
-    "value": "908",
-    "text": "Care Standards"
+    "text": "Care Standards",
+    "value": "908"
   },
   {
     "_id": "court_code_165",
     "_type": "option",
-    "value": "165",
-    "text": "Carlisle County"
+    "text": "Carlisle County",
+    "value": "165"
   },
   {
     "_id": "court_code_412",
     "_type": "option",
-    "value": "412",
-    "text": "Carlisle Crown"
+    "text": "Carlisle Crown",
+    "value": "412"
   },
   {
     "_id": "court_code_10084",
     "_type": "option",
-    "value": "10084",
-    "text": "Carlisle Magistrates'"
+    "text": "Carlisle Magistrates'",
+    "value": "10084"
   },
   {
     "_id": "court_code_166",
     "_type": "option",
-    "value": "166",
-    "text": "Carmarthen County and Family Court"
+    "text": "Carmarthen County and Family Court",
+    "value": "166"
   },
   {
     "_id": "court_code_413",
     "_type": "option",
-    "value": "413",
-    "text": "Central Criminal Court"
+    "text": "Central Criminal Court",
+    "value": "413"
   },
   {
     "_id": "court_code_115",
     "_type": "option",
-    "value": "115",
-    "text": "Central Family"
+    "text": "Central Family",
+    "value": "115"
   },
   {
     "_id": "court_code_630",
     "_type": "option",
-    "value": "630",
-    "text": "Central London Bankruptcy"
+    "text": "Central London Bankruptcy",
+    "value": "630"
   },
   {
     "_id": "court_code_372",
     "_type": "option",
-    "value": "372",
-    "text": "Central London County"
+    "text": "Central London County",
+    "value": "372"
   },
   {
     "_id": "court_code_608",
     "_type": "option",
-    "value": "608",
-    "text": "Chancery Associates"
+    "text": "Chancery Associates",
+    "value": "608"
   },
   {
     "_id": "court_code_607",
     "_type": "option",
-    "value": "607",
-    "text": "Chancery Chambers"
+    "text": "Chancery Chambers",
+    "value": "607"
   },
   {
     "_id": "court_code_606",
     "_type": "option",
-    "value": "606",
-    "text": "Chancery Listing"
+    "text": "Chancery Listing",
+    "value": "606"
   },
   {
     "_id": "court_code_779629",
     "_type": "option",
-    "value": "779629",
-    "text": "Chelmsford Administration Centre"
+    "text": "Chelmsford Administration Centre",
+    "value": "779629"
   },
   {
     "_id": "court_code_167",
     "_type": "option",
-    "value": "167",
-    "text": "Chelmsford County"
+    "text": "Chelmsford County",
+    "value": "167"
   },
   {
     "_id": "court_code_414",
     "_type": "option",
-    "value": "414",
-    "text": "Chelmsford Crown"
+    "text": "Chelmsford Crown",
+    "value": "414"
   },
   {
     "_id": "court_code_10088",
     "_type": "option",
-    "value": "10088",
-    "text": "Chelmsford Magistrates'"
+    "text": "Chelmsford Magistrates'",
+    "value": "10088"
   },
   {
     "_id": "court_code_10089",
     "_type": "option",
-    "value": "10089",
-    "text": "Cheltenham Magistrates' (St George's Road)"
+    "text": "Cheltenham Magistrates' (St George's Road)",
+    "value": "10089"
   },
   {
     "_id": "court_code_6003",
     "_type": "option",
-    "value": "6003",
-    "text": "Cheshire & Merseyside Payments & Enforcement Centre"
+    "text": "Cheshire & Merseyside Payments & Enforcement Centre",
+    "value": "6003"
   },
   {
     "_id": "court_code_170",
     "_type": "option",
-    "value": "170",
-    "text": "Chester County"
+    "text": "Chester County",
+    "value": "170"
   },
   {
     "_id": "court_code_415",
     "_type": "option",
-    "value": "415",
-    "text": "Chester Crown"
+    "text": "Chester Crown",
+    "value": "415"
   },
   {
     "_id": "court_code_10092",
     "_type": "option",
-    "value": "10092",
-    "text": "Chester Magistrates'"
+    "text": "Chester Magistrates'",
+    "value": "10092"
   },
   {
     "_id": "court_code_171",
     "_type": "option",
-    "value": "171",
-    "text": "Chesterfield County"
+    "text": "Chesterfield County",
+    "value": "171"
   },
   {
     "_id": "court_code_10397",
     "_type": "option",
-    "value": "10397",
-    "text": "Chesterfield Magistrates'"
+    "text": "Chesterfield Magistrates'",
+    "value": "10397"
   },
   {
     "_id": "court_code_10097",
     "_type": "option",
-    "value": "10097",
-    "text": "Chippenham Magistrates'"
+    "text": "Chippenham Magistrates'",
+    "value": "10097"
   },
   {
     "_id": "court_code_353",
     "_type": "option",
-    "value": "353",
-    "text": "Chippenham and Trowbridge County"
+    "text": "Chippenham and Trowbridge County",
+    "value": "353"
   },
   {
     "_id": "court_code_10098",
     "_type": "option",
-    "value": "10098",
-    "text": "Chorley Magistrates'"
+    "text": "Chorley Magistrates'",
+    "value": "10098"
   },
   {
     "_id": "court_code_10100",
     "_type": "option",
-    "value": "10100",
-    "text": "City of London Magistrates'"
+    "text": "City of London Magistrates'",
+    "value": "10100"
   },
   {
     "_id": "court_code_609",
     "_type": "option",
-    "value": "609",
-    "text": "Civil Appeals Office"
+    "text": "Civil Appeals Office",
+    "value": "609"
   },
   {
     "_id": "court_code_990",
     "_type": "option",
-    "value": "990",
-    "text": "Claims Management Services"
+    "text": "Claims Management Services",
+    "value": "990"
   },
   {
     "_id": "court_code_321",
     "_type": "option",
-    "value": "321",
-    "text": "Clerkenwell & Shoreditch County"
+    "text": "Clerkenwell & Shoreditch County",
+    "value": "321"
   },
   {
     "_id": "court_code_176",
     "_type": "option",
-    "value": "176",
-    "text": "Colchester County"
+    "text": "Colchester County",
+    "value": "176"
   },
   {
     "_id": "court_code_10103",
     "_type": "option",
-    "value": "10103",
-    "text": "Colchester Magistrates'"
+    "text": "Colchester Magistrates'",
+    "value": "10103"
   },
   {
     "_id": "court_code_989",
     "_type": "option",
-    "value": "989",
-    "text": "Community Right to Bid"
+    "text": "Community Right to Bid",
+    "value": "989"
   },
   {
     "_id": "court_code_250",
     "_type": "option",
-    "value": "250",
-    "text": "Contact Centre Loughborough"
+    "text": "Contact Centre Loughborough",
+    "value": "250"
   },
   {
     "_id": "court_code_997",
     "_type": "option",
-    "value": "997",
-    "text": "Copyright Licensing"
+    "text": "Copyright Licensing",
+    "value": "997"
   },
   {
     "_id": "court_code_335",
     "_type": "option",
-    "value": "335",
-    "text": "County Court Business Centre"
+    "text": "County Court Business Centre",
+    "value": "335"
   },
   {
     "_id": "court_code_624",
     "_type": "option",
-    "value": "624",
-    "text": "Court Recording and Transcription Unit"
+    "text": "Court Recording and Transcription Unit",
+    "value": "624"
   },
   {
     "_id": "court_code_199",
     "_type": "option",
-    "value": "199",
-    "text": "Court of Protection"
+    "text": "Court of Protection",
+    "value": "199"
   },
   {
     "_id": "court_code_180",
     "_type": "option",
-    "value": "180",
-    "text": "Coventry County"
+    "text": "Coventry County",
+    "value": "180"
   },
   {
     "_id": "court_code_417",
     "_type": "option",
-    "value": "417",
-    "text": "Coventry Crown"
+    "text": "Coventry Crown",
+    "value": "417"
   },
   {
     "_id": "court_code_10107",
     "_type": "option",
-    "value": "10107",
-    "text": "Coventry Magistrates'"
+    "text": "Coventry Magistrates'",
+    "value": "10107"
   },
   {
     "_id": "court_code_10108",
     "_type": "option",
-    "value": "10108",
-    "text": "Crawley Magistrates'"
+    "text": "Crawley Magistrates'",
+    "value": "10108"
   },
   {
     "_id": "court_code_181",
     "_type": "option",
-    "value": "181",
-    "text": "Crewe County"
+    "text": "Crewe County",
+    "value": "181"
   },
   {
     "_id": "court_code_10109",
     "_type": "option",
-    "value": "10109",
-    "text": "Crewe Magistrates'"
+    "text": "Crewe Magistrates'",
+    "value": "10109"
   },
   {
     "_id": "court_code_613",
     "_type": "option",
-    "value": "613",
-    "text": "Criminal Appeals Office"
+    "text": "Criminal Appeals Office",
+    "value": "613"
   },
   {
     "_id": "court_code_974",
     "_type": "option",
-    "value": "974",
-    "text": "Criminal Injuries Compensation"
+    "text": "Criminal Injuries Compensation",
+    "value": "974"
   },
   {
     "_id": "court_code_182",
     "_type": "option",
-    "value": "182",
-    "text": "Croydon County"
+    "text": "Croydon County",
+    "value": "182"
   },
   {
     "_id": "court_code_418",
     "_type": "option",
-    "value": "418",
-    "text": "Croydon Crown"
+    "text": "Croydon Crown",
+    "value": "418"
   },
   {
     "_id": "court_code_972",
     "_type": "option",
-    "value": "972",
-    "text": "Croydon ET"
+    "text": "Croydon ET",
+    "value": "972"
   },
   {
     "_id": "court_code_10111",
     "_type": "option",
-    "value": "10111",
-    "text": "Croydon Magistrates'"
-  },
-  {
-    "_id": "court_code_MODELCT478747",
-    "_type": "option",
-    "value": "MODELCT478747",
-    "text": "Customer Investigation Team"
+    "text": "Croydon Magistrates'",
+    "value": "10111"
   },
   {
     "_id": "court_code_10113",
     "_type": "option",
-    "value": "10113",
-    "text": "Cwmbran Magistrates'"
+    "text": "Cwmbran Magistrates'",
+    "value": "10113"
   },
   {
     "_id": "court_code_183",
     "_type": "option",
-    "value": "183",
-    "text": "Darlington County"
+    "text": "Darlington County",
+    "value": "183"
   },
   {
     "_id": "court_code_10114",
     "_type": "option",
-    "value": "10114",
-    "text": "Darlington Magistrates'"
+    "text": "Darlington Magistrates'",
+    "value": "10114"
   },
   {
     "_id": "court_code_184",
     "_type": "option",
-    "value": "184",
-    "text": "Dartford County"
-  },
-  {
-    "_id": "court_code_DATAINCIDENT",
-    "_type": "option",
-    "value": "DATAINCIDENT",
-    "text": "Data Incident Team"
+    "text": "Dartford County",
+    "value": "184"
   },
   {
     "_id": "court_code_185",
     "_type": "option",
-    "value": "185",
-    "text": "Derby County"
+    "text": "Derby County",
+    "value": "185"
   },
   {
     "_id": "court_code_419",
     "_type": "option",
-    "value": "419",
-    "text": "Derby Crown"
+    "text": "Derby Crown",
+    "value": "419"
   },
   {
     "_id": "court_code_10398",
     "_type": "option",
-    "value": "10398",
-    "text": "Derby Magistrates'"
+    "text": "Derby Magistrates'",
+    "value": "10398"
   },
   {
     "_id": "court_code_6005",
     "_type": "option",
-    "value": "6005",
-    "text": "Derbyshire Enforcement Unit"
+    "text": "Derbyshire Enforcement Unit",
+    "value": "6005"
   },
   {
     "_id": "court_code_6006",
     "_type": "option",
-    "value": "6006",
-    "text": "Devon & Cornwall Central Fines & Enforcement"
+    "text": "Devon & Cornwall Central Fines & Enforcement",
+    "value": "6006"
   },
   {
     "_id": "court_code_187",
     "_type": "option",
-    "value": "187",
-    "text": "Doncaster County"
+    "text": "Doncaster County",
+    "value": "187"
   },
   {
     "_id": "court_code_420",
     "_type": "option",
-    "value": "420",
-    "text": "Doncaster Crown"
+    "text": "Doncaster Crown",
+    "value": "420"
   },
   {
     "_id": "court_code_10125",
     "_type": "option",
-    "value": "10125",
-    "text": "Doncaster Magistrates'"
+    "text": "Doncaster Magistrates'",
+    "value": "10125"
   },
   {
     "_id": "court_code_6007",
     "_type": "option",
-    "value": "6007",
-    "text": "Dorset Fines and Enforcement - Central Finance Office"
+    "text": "Dorset Fines and Enforcement - Central Finance Office",
+    "value": "6007"
   },
   {
     "_id": "court_code_987",
     "_type": "option",
-    "value": "987",
-    "text": "Driving Standards Agency"
+    "text": "Driving Standards Agency",
+    "value": "987"
   },
   {
     "_id": "court_code_189",
     "_type": "option",
-    "value": "189",
-    "text": "Dudley County"
+    "text": "Dudley County",
+    "value": "189"
   },
   {
     "_id": "court_code_10130",
     "_type": "option",
-    "value": "10130",
-    "text": "Dudley Magistrates'"
+    "text": "Dudley Magistrates'",
+    "value": "10130"
   },
   {
     "_id": "court_code_975",
     "_type": "option",
-    "value": "975",
-    "text": "Dundee ET"
+    "text": "Dundee ET",
+    "value": "975"
   },
   {
     "_id": "court_code_190",
     "_type": "option",
-    "value": "190",
-    "text": "Durham County"
+    "text": "Durham County",
+    "value": "190"
   },
   {
     "_id": "court_code_422",
     "_type": "option",
-    "value": "422",
-    "text": "Durham Crown"
+    "text": "Durham Crown",
+    "value": "422"
   },
   {
     "_id": "court_code_6046",
     "_type": "option",
-    "value": "6046",
-    "text": "ET - EAT Fees CPU Leicester"
+    "text": "ET - EAT Fees CPU Leicester",
+    "value": "6046"
   },
   {
     "_id": "court_code_10133",
     "_type": "option",
-    "value": "10133",
-    "text": "Ealing Magistrates'"
+    "text": "Ealing Magistrates'",
+    "value": "10133"
   },
   {
     "_id": "court_code_192",
     "_type": "option",
-    "value": "192",
-    "text": "East London Family"
+    "text": "East London Family",
+    "value": "192"
   },
   {
     "_id": "court_code_134",
     "_type": "option",
-    "value": "134",
-    "text": "East Midlands Divorce Unit"
+    "text": "East Midlands Divorce Unit",
+    "value": "134"
   },
   {
     "_id": "court_code_1002",
     "_type": "option",
-    "value": "1002",
-    "text": "Eat Fleetbank House"
+    "text": "Eat Fleetbank House",
+    "value": "1002"
   },
   {
     "_id": "court_code_976",
     "_type": "option",
-    "value": "976",
-    "text": "Edinburgh ET"
+    "text": "Edinburgh ET",
+    "value": "976"
   },
   {
     "_id": "court_code_194",
     "_type": "option",
-    "value": "194",
-    "text": "Edmonton County"
+    "text": "Edmonton County",
+    "value": "194"
   },
   {
     "_id": "court_code_996",
     "_type": "option",
-    "value": "996",
-    "text": "Electronic Communications & Postal Services"
+    "text": "Electronic Communications & Postal Services",
+    "value": "996"
   },
   {
     "_id": "court_code_992",
     "_type": "option",
-    "value": "992",
-    "text": "Examination Board"
+    "text": "Examination Board",
+    "value": "992"
   },
   {
     "_id": "court_code_198",
     "_type": "option",
-    "value": "198",
-    "text": "Exeter County"
+    "text": "Exeter County",
+    "value": "198"
   },
   {
     "_id": "court_code_423",
     "_type": "option",
-    "value": "423",
-    "text": "Exeter Crown"
+    "text": "Exeter Crown",
+    "value": "423"
   },
   {
     "_id": "court_code_10141",
     "_type": "option",
-    "value": "10141",
-    "text": "Exeter Magistrates'"
+    "text": "Exeter Magistrates'",
+    "value": "10141"
   },
   {
     "_id": "court_code_907026",
     "_type": "option",
-    "value": "907026",
-    "text": "Exeter Tribunals"
+    "text": "Exeter Tribunals",
+    "value": "907026"
   },
   {
     "_id": "court_code_952",
     "_type": "option",
-    "value": "952",
-    "text": "Field House Utiac"
+    "text": "Field House Utiac",
+    "value": "952"
   },
   {
     "_id": "court_code_985",
     "_type": "option",
-    "value": "985",
-    "text": "Financial Services and Markets and Pensions Regulator"
+    "text": "Financial Services and Markets and Pensions Regulator",
+    "value": "985"
   },
   {
     "_id": "court_code_984",
     "_type": "option",
-    "value": "984",
-    "text": "First Tier Tax"
+    "text": "First Tier Tax",
+    "value": "984"
   },
   {
     "_id": "court_code_988",
     "_type": "option",
-    "value": "988",
-    "text": "First Tier Transport Tribunal"
+    "text": "First Tier Transport Tribunal",
+    "value": "988"
   },
   {
     "_id": "court_code_6009",
     "_type": "option",
-    "value": "6009",
-    "text": "Fixed Penalty Unit, Ailsa House, Leeds"
+    "text": "Fixed Penalty Unit, Ailsa House, Leeds",
+    "value": "6009"
   },
   {
     "_id": "court_code_6010",
     "_type": "option",
-    "value": "6010",
-    "text": "Fixed Penalty Unit, Loughborough Magistrates' Court"
+    "text": "Fixed Penalty Unit, Loughborough Magistrates' Court",
+    "value": "6010"
   },
   {
     "_id": "court_code_6011",
     "_type": "option",
-    "value": "6011",
-    "text": "Fixed Penalty Unit, Southend Magistrates' Court"
+    "text": "Fixed Penalty Unit, Southend Magistrates' Court",
+    "value": "6011"
   },
   {
     "_id": "court_code_1992",
     "_type": "option",
-    "value": "1992",
-    "text": "Fleetwood Family Hearing Centre"
+    "text": "Fleetwood Family Hearing Centre",
+    "value": "1992"
   },
   {
     "_id": "court_code_10148",
     "_type": "option",
-    "value": "10148",
-    "text": "Folkestone Magistrates'"
+    "text": "Folkestone Magistrates'",
+    "value": "10148"
   },
   {
     "_id": "court_code_955",
     "_type": "option",
-    "value": "955",
-    "text": "Fox Court SSCS"
+    "text": "Fox Court SSCS",
+    "value": "955"
   },
   {
     "_id": "court_code_993",
     "_type": "option",
-    "value": "993",
-    "text": "GRC Food"
+    "text": "GRC Food",
+    "value": "993"
   },
   {
     "_id": "court_code_915",
     "_type": "option",
-    "value": "915",
-    "text": "Gangmasters Licensing Authority"
+    "text": "Gangmasters Licensing Authority",
+    "value": "915"
   },
   {
     "_id": "court_code_202",
     "_type": "option",
-    "value": "202",
-    "text": "Gateshead County"
+    "text": "Gateshead County",
+    "value": "202"
   },
   {
     "_id": "court_code_10151",
     "_type": "option",
-    "value": "10151",
-    "text": "Gateshead Magistrates'"
+    "text": "Gateshead Magistrates'",
+    "value": "10151"
   },
   {
     "_id": "court_code_1000",
     "_type": "option",
-    "value": "1000",
-    "text": "General Regulatory Chamber"
+    "text": "General Regulatory Chamber",
+    "value": "1000"
   },
   {
     "_id": "court_code_977",
     "_type": "option",
-    "value": "977",
-    "text": "Glasgow ET"
+    "text": "Glasgow ET",
+    "value": "977"
   },
   {
     "_id": "court_code_978",
     "_type": "option",
-    "value": "978",
-    "text": "Glasgow IA"
+    "text": "Glasgow IA",
+    "value": "978"
   },
   {
     "_id": "court_code_979",
     "_type": "option",
-    "value": "979",
-    "text": "Glasgow SSCS"
+    "text": "Glasgow SSCS",
+    "value": "979"
   },
   {
     "_id": "court_code_203",
     "_type": "option",
-    "value": "203",
-    "text": "Gloucester County"
+    "text": "Gloucester County",
+    "value": "203"
   },
   {
     "_id": "court_code_424",
     "_type": "option",
-    "value": "424",
-    "text": "Gloucester Crown "
+    "text": "Gloucester Crown ",
+    "value": "424"
   },
   {
     "_id": "court_code_6012",
     "_type": "option",
-    "value": "6012",
-    "text": "Gloucestershire Fines & Enforcement Office"
+    "text": "Gloucestershire Fines & Enforcement Office",
+    "value": "6012"
   },
   {
     "_id": "court_code_208",
     "_type": "option",
-    "value": "208",
-    "text": "Great Grimsby County"
+    "text": "Great Grimsby County",
+    "value": "208"
   },
   {
     "_id": "court_code_10159",
     "_type": "option",
-    "value": "10159",
-    "text": "Great Yarmouth Magistrates'"
+    "text": "Great Yarmouth Magistrates'",
+    "value": "10159"
   },
   {
     "_id": "court_code_6013",
     "_type": "option",
-    "value": "6013",
-    "text": "Greater Manchester Accounts and Enforcement Unit"
+    "text": "Greater Manchester Accounts and Enforcement Unit",
+    "value": "6013"
   },
   {
     "_id": "court_code_425",
     "_type": "option",
-    "value": "425",
-    "text": "Grimsby Crown"
+    "text": "Grimsby Crown",
+    "value": "425"
   },
   {
     "_id": "court_code_10161",
     "_type": "option",
-    "value": "10161",
-    "text": "Grimsby Magistrates'"
+    "text": "Grimsby Magistrates'",
+    "value": "10161"
   },
   {
     "_id": "court_code_211",
     "_type": "option",
-    "value": "211",
-    "text": "Guildford County"
+    "text": "Guildford County",
+    "value": "211"
   },
   {
     "_id": "court_code_474",
     "_type": "option",
-    "value": "474",
-    "text": "Guildford Crown"
+    "text": "Guildford Crown",
+    "value": "474"
   },
   {
     "_id": "court_code_10162",
     "_type": "option",
-    "value": "10162",
-    "text": "Guildford Magistrates'"
+    "text": "Guildford Magistrates'",
+    "value": "10162"
   },
   {
     "_id": "court_code_10166",
     "_type": "option",
-    "value": "10166",
-    "text": "Harlow Magistrates'"
+    "text": "Harlow Magistrates'",
+    "value": "10166"
   },
   {
     "_id": "court_code_214",
     "_type": "option",
-    "value": "214",
-    "text": "Harrogate County"
+    "text": "Harrogate County",
+    "value": "214"
   },
   {
     "_id": "court_code_10167",
     "_type": "option",
-    "value": "10167",
-    "text": "Harrogate and Skipton Magistrates'"
+    "text": "Harrogate and Skipton Magistrates'",
+    "value": "10167"
   },
   {
     "_id": "court_code_468",
     "_type": "option",
-    "value": "468",
-    "text": "Harrow Crown"
+    "text": "Harrow Crown",
+    "value": "468"
   },
   {
     "_id": "court_code_216",
     "_type": "option",
-    "value": "216",
-    "text": "Hastings County"
+    "text": "Hastings County",
+    "value": "216"
   },
   {
     "_id": "court_code_10171",
     "_type": "option",
-    "value": "10171",
-    "text": "Hastings Magistrates'"
+    "text": "Hastings Magistrates'",
+    "value": "10171"
   },
   {
     "_id": "court_code_10532",
     "_type": "option",
-    "value": "10532",
-    "text": "Hatfield Magistrates'"
+    "text": "Hatfield Magistrates'",
+    "value": "10532"
   },
   {
     "_id": "court_code_969",
     "_type": "option",
-    "value": "969",
-    "text": "Hatton Cross AIT"
+    "text": "Hatton Cross AIT",
+    "value": "969"
   },
   {
     "_id": "court_code_10276-A",
     "_type": "option",
-    "value": "10276-A",
-    "text": "Havant Tribunals"
+    "text": "Havant Tribunals",
+    "value": "10276-A"
   },
   {
     "_id": "court_code_217",
     "_type": "option",
-    "value": "217",
-    "text": "Haverfordwest County & Family Court"
+    "text": "Haverfordwest County & Family Court",
+    "value": "217"
   },
   {
     "_id": "court_code_10173",
     "_type": "option",
-    "value": "10173",
-    "text": "Haverfordwest Magistrates'"
+    "text": "Haverfordwest Magistrates'",
+    "value": "10173"
   },
   {
     "_id": "court_code_10021",
     "_type": "option",
-    "value": "10021",
-    "text": "Hendon Magistrates'"
+    "text": "Hendon Magistrates'",
+    "value": "10021"
   },
   {
     "_id": "court_code_220",
     "_type": "option",
-    "value": "220",
-    "text": "Hereford County"
+    "text": "Hereford County",
+    "value": "220"
   },
   {
     "_id": "court_code_762",
     "_type": "option",
-    "value": "762",
-    "text": "Hereford Crown"
+    "text": "Hereford Crown",
+    "value": "762"
   },
   {
     "_id": "court_code_10177",
     "_type": "option",
-    "value": "10177",
-    "text": "Hereford Magistrates'"
+    "text": "Hereford Magistrates'",
+    "value": "10177"
   },
   {
     "_id": "court_code_221",
     "_type": "option",
-    "value": "221",
-    "text": "Hertford County"
+    "text": "Hertford County",
+    "value": "221"
   },
   {
     "_id": "court_code_10178",
     "_type": "option",
-    "value": "10178",
-    "text": "Hertford Magistrates'"
+    "text": "Hertford Magistrates'",
+    "value": "10178"
   },
   {
     "_id": "court_code_6014",
     "_type": "option",
-    "value": "6014",
-    "text": "Hertfordshire, Bedfordshire and TV Enforcement"
+    "text": "Hertfordshire, Bedfordshire and TV Enforcement",
+    "value": "6014"
   },
   {
     "_id": "court_code_612",
     "_type": "option",
-    "value": "612",
-    "text": "High Court Family"
+    "text": "High Court Family",
+    "value": "612"
   },
   {
     "_id": "court_code_615",
     "_type": "option",
-    "value": "615",
-    "text": "High Court Fees Office"
+    "text": "High Court Fees Office",
+    "value": "615"
   },
   {
     "_id": "court_code_223",
     "_type": "option",
-    "value": "223",
-    "text": "High Wycombe County"
+    "text": "High Wycombe County",
+    "value": "223"
   },
   {
     "_id": "court_code_10180",
     "_type": "option",
-    "value": "10180",
-    "text": "Highbury Corner Magistrates'"
+    "text": "Highbury Corner Magistrates'",
+    "value": "10180"
   },
   {
     "_id": "court_code_227",
     "_type": "option",
-    "value": "227",
-    "text": "Horsham County"
+    "text": "Horsham County",
+    "value": "227"
   },
   {
     "_id": "court_code_10187",
     "_type": "option",
-    "value": "10187",
-    "text": "Horsham Magistrates'"
+    "text": "Horsham Magistrates'",
+    "value": "10187"
   },
   {
     "_id": "court_code_228",
     "_type": "option",
-    "value": "228",
-    "text": "Huddersfield County"
+    "text": "Huddersfield County",
+    "value": "228"
   },
   {
     "_id": "court_code_403",
     "_type": "option",
-    "value": "403",
-    "text": "Hull Crown"
+    "text": "Hull Crown",
+    "value": "403"
   },
   {
     "_id": "court_code_10190",
     "_type": "option",
-    "value": "10190",
-    "text": "Hull and Holderness Magistrates'"
+    "text": "Hull and Holderness Magistrates'",
+    "value": "10190"
   },
   {
     "_id": "court_code_6015",
     "_type": "option",
-    "value": "6015",
-    "text": "Humber & South Yorkshire Enforcement"
+    "text": "Humber & South Yorkshire Enforcement",
+    "value": "6015"
   },
   {
     "_id": "court_code_10191",
     "_type": "option",
-    "value": "10191",
-    "text": "Huntingdon Magistrates'"
+    "text": "Huntingdon Magistrates'",
+    "value": "10191"
   },
   {
     "_id": "court_code_440",
     "_type": "option",
-    "value": "440",
-    "text": "I.L.S.H. Crown"
+    "text": "I.L.S.H. Crown",
+    "value": "440"
   },
   {
     "_id": "court_code_1001",
     "_type": "option",
-    "value": "1001",
-    "text": "IAC Hatton Cross & Harmondsworth"
+    "text": "IAC Hatton Cross & Harmondsworth",
+    "value": "1001"
   },
   {
     "_id": "court_code_961",
     "_type": "option",
-    "value": "961",
-    "text": "Immigration Services"
+    "text": "Immigration Services",
+    "value": "961"
   },
   {
     "_id": "court_code_968",
     "_type": "option",
-    "value": "968",
-    "text": "Import Building (was Anchorage House)"
+    "text": "Import Building (was Anchorage House)",
+    "value": "968"
   },
   {
     "_id": "court_code_998",
     "_type": "option",
-    "value": "998",
-    "text": "Individual Electoral Registration Appeals"
+    "text": "Individual Electoral Registration Appeals",
+    "value": "998"
   },
   {
     "_id": "court_code_6049",
     "_type": "option",
-    "value": "6049",
-    "text": "Information Tribunal Leicester"
+    "text": "Information Tribunal Leicester",
+    "value": "6049"
   },
   {
     "_id": "court_code_233",
     "_type": "option",
-    "value": "233",
-    "text": "Ipswich County"
+    "text": "Ipswich County",
+    "value": "233"
   },
   {
     "_id": "court_code_426",
     "_type": "option",
-    "value": "426",
-    "text": "Ipswich Crown"
+    "text": "Ipswich Crown",
+    "value": "426"
   },
   {
     "_id": "court_code_10194",
     "_type": "option",
-    "value": "10194",
-    "text": "Ipswich Magistrates'"
+    "text": "Ipswich Magistrates'",
+    "value": "10194"
   },
   {
     "_id": "court_code_5006",
     "_type": "option",
-    "value": "5006",
-    "text": "Ipswich Probate"
+    "text": "Ipswich Probate",
+    "value": "5006"
   },
   {
     "_id": "court_code_933722",
     "_type": "option",
-    "value": "933722",
-    "text": "Ipswich SSCS"
+    "text": "Ipswich SSCS",
+    "value": "933722"
   },
   {
     "_id": "court_code_475",
     "_type": "option",
-    "value": "475",
-    "text": "Isleworth Crown"
+    "text": "Isleworth Crown",
+    "value": "475"
   },
   {
     "_id": "court_code_799",
     "_type": "option",
-    "value": "799",
-    "text": "Jury Central Summoning Bureau"
+    "text": "Jury Central Summoning Bureau",
+    "value": "799"
   },
   {
     "_id": "court_code_778529",
     "_type": "option",
-    "value": "778529",
-    "text": "Kent Ashford Tribunal"
+    "text": "Kent Ashford Tribunal",
+    "value": "778529"
   },
   {
     "_id": "court_code_10198",
     "_type": "option",
-    "value": "10198",
-    "text": "Kidderminster Magistrates'"
+    "text": "Kidderminster Magistrates'",
+    "value": "10198"
   },
   {
     "_id": "court_code_10199",
     "_type": "option",
-    "value": "10199",
-    "text": "King's Lynn Magistrates'"
+    "text": "King's Lynn Magistrates'",
+    "value": "10199"
   },
   {
     "_id": "court_code_933737",
     "_type": "option",
-    "value": "933737",
-    "text": "Kings Lynn SSCS"
+    "text": "Kings Lynn SSCS",
+    "value": "933737"
   },
   {
     "_id": "court_code_239",
     "_type": "option",
-    "value": "239",
-    "text": "Kingston Upon Hull County"
+    "text": "Kingston Upon Hull County",
+    "value": "239"
   },
   {
     "_id": "court_code_240",
     "_type": "option",
-    "value": "240",
-    "text": "Kingston Upon Thames County"
+    "text": "Kingston Upon Thames County",
+    "value": "240"
   },
   {
     "_id": "court_code_427",
     "_type": "option",
-    "value": "427",
-    "text": "Kingston Upon Thames Crown"
+    "text": "Kingston Upon Thames Crown",
+    "value": "427"
   },
   {
     "_id": "court_code_10189",
     "_type": "option",
-    "value": "10189",
-    "text": "Kirklees Magistrates'"
+    "text": "Kirklees Magistrates'",
+    "value": "10189"
   },
   {
     "_id": "court_code_241-A",
     "_type": "option",
-    "value": "241-A",
-    "text": "Lambeth County"
+    "text": "Lambeth County",
+    "value": "241-A"
   },
   {
     "_id": "court_code_6016",
     "_type": "option",
-    "value": "6016",
-    "text": "Lancashire and Cumbria Enforcement Office"
+    "text": "Lancashire and Cumbria Enforcement Office",
+    "value": "6016"
   },
   {
     "_id": "court_code_768",
     "_type": "option",
-    "value": "768",
-    "text": "Lancaster Castle Crown"
+    "text": "Lancaster Castle Crown",
+    "value": "768"
   },
   {
     "_id": "court_code_242",
     "_type": "option",
-    "value": "242",
-    "text": "Lancaster County"
+    "text": "Lancaster County",
+    "value": "242"
   },
   {
     "_id": "court_code_10203",
     "_type": "option",
-    "value": "10203",
-    "text": "Lancaster Magistrates'"
+    "text": "Lancaster Magistrates'",
+    "value": "10203"
   },
   {
     "_id": "court_code_959",
     "_type": "option",
-    "value": "959",
-    "text": "Land Registration Tribunal"
+    "text": "Land Registration Tribunal",
+    "value": "959"
   },
   {
     "_id": "court_code_10314",
     "_type": "option",
-    "value": "10314",
-    "text": "Lavender Hill Magistrates' (South Western)"
+    "text": "Lavender Hill Magistrates' (South Western)",
+    "value": "10314"
   },
   {
     "_id": "court_code_10205",
     "_type": "option",
-    "value": "10205",
-    "text": "Leamington Spa Magistrates' "
+    "text": "Leamington Spa Magistrates' ",
+    "value": "10205"
   },
   {
     "_id": "court_code_243-A",
     "_type": "option",
-    "value": "243-A",
-    "text": "Leeds Civil & Family Hearing Centre"
+    "text": "Leeds Civil & Family Hearing Centre",
+    "value": "243-A"
   },
   {
     "_id": "court_code_243",
     "_type": "option",
-    "value": "243",
-    "text": "Leeds County"
+    "text": "Leeds County",
+    "value": "243"
   },
   {
     "_id": "court_code_429",
     "_type": "option",
-    "value": "429",
-    "text": "Leeds Crown"
+    "text": "Leeds Crown",
+    "value": "429"
   },
   {
     "_id": "court_code_903",
     "_type": "option",
-    "value": "903",
-    "text": "Leeds ET"
+    "text": "Leeds ET",
+    "value": "903"
   },
   {
     "_id": "court_code_10206",
     "_type": "option",
-    "value": "10206",
-    "text": "Leeds Magistrates'"
+    "text": "Leeds Magistrates'",
+    "value": "10206"
   },
   {
     "_id": "court_code_5007",
     "_type": "option",
-    "value": "5007",
-    "text": "Leeds Probate"
+    "text": "Leeds Probate",
+    "value": "5007"
   },
   {
     "_id": "court_code_904",
     "_type": "option",
-    "value": "904",
-    "text": "Leeds SSCS"
+    "text": "Leeds SSCS",
+    "value": "904"
   },
   {
     "_id": "court_code_244",
     "_type": "option",
-    "value": "244",
-    "text": "Leicester County"
+    "text": "Leicester County",
+    "value": "244"
   },
   {
     "_id": "court_code_430",
     "_type": "option",
-    "value": "430",
-    "text": "Leicester Crown"
+    "text": "Leicester Crown",
+    "value": "430"
   },
   {
     "_id": "court_code_927",
     "_type": "option",
-    "value": "927",
-    "text": "Leicester ET"
+    "text": "Leicester ET",
+    "value": "927"
   },
   {
     "_id": "court_code_6047",
     "_type": "option",
-    "value": "6047",
-    "text": "Leicester Immigration and Asylum Chamber"
+    "text": "Leicester Immigration and Asylum Chamber",
+    "value": "6047"
   },
   {
     "_id": "court_code_10207",
     "_type": "option",
-    "value": "10207",
-    "text": "Leicester Magistrates'"
+    "text": "Leicester Magistrates'",
+    "value": "10207"
   },
   {
     "_id": "court_code_6017",
     "_type": "option",
-    "value": "6017",
-    "text": "Leicestershire Enforcement Office"
+    "text": "Leicestershire Enforcement Office",
+    "value": "6017"
   },
   {
     "_id": "court_code_247",
     "_type": "option",
-    "value": "247",
-    "text": "Lewes County"
+    "text": "Lewes County",
+    "value": "247"
   },
   {
     "_id": "court_code_431",
     "_type": "option",
-    "value": "431",
-    "text": "Lewes Crown"
+    "text": "Lewes Crown",
+    "value": "431"
   },
   {
     "_id": "court_code_303-A",
     "_type": "option",
-    "value": "303-A",
-    "text": "Leyland Family Hearing Centre"
+    "text": "Leyland Family Hearing Centre",
+    "value": "303-A"
   },
   {
     "_id": "court_code_249",
     "_type": "option",
-    "value": "249",
-    "text": "Lincoln County"
+    "text": "Lincoln County",
+    "value": "249"
   },
   {
     "_id": "court_code_432",
     "_type": "option",
-    "value": "432",
-    "text": "Lincoln Crown"
+    "text": "Lincoln Crown",
+    "value": "432"
   },
   {
     "_id": "court_code_10210",
     "_type": "option",
-    "value": "10210",
-    "text": "Lincoln Magistrates'"
+    "text": "Lincoln Magistrates'",
+    "value": "10210"
   },
   {
     "_id": "court_code_6018",
     "_type": "option",
-    "value": "6018",
-    "text": "Lincolnshire Enforcement Office"
+    "text": "Lincolnshire Enforcement Office",
+    "value": "6018"
   },
   {
     "_id": "court_code_251",
     "_type": "option",
-    "value": "251",
-    "text": "Liverpool County"
+    "text": "Liverpool County",
+    "value": "251"
   },
   {
     "_id": "court_code_433",
     "_type": "option",
-    "value": "433",
-    "text": "Liverpool Crown"
+    "text": "Liverpool Crown",
+    "value": "433"
   },
   {
     "_id": "court_code_917",
     "_type": "option",
-    "value": "917",
-    "text": "Liverpool ET"
+    "text": "Liverpool ET",
+    "value": "917"
   },
   {
     "_id": "court_code_10213",
     "_type": "option",
-    "value": "10213",
-    "text": "Liverpool Magistrates'"
+    "text": "Liverpool Magistrates'",
+    "value": "10213"
   },
   {
     "_id": "court_code_5008",
     "_type": "option",
-    "value": "5008",
-    "text": "Liverpool Probate"
+    "text": "Liverpool Probate",
+    "value": "5008"
   },
   {
     "_id": "court_code_918",
     "_type": "option",
-    "value": "918",
-    "text": "Liverpool SSCS"
+    "text": "Liverpool SSCS",
+    "value": "918"
   },
   {
     "_id": "court_code_5009",
     "_type": "option",
-    "value": "5009",
-    "text": "Llandaff Probate"
+    "text": "Llandaff Probate",
+    "value": "5009"
   },
   {
     "_id": "court_code_10215",
     "_type": "option",
-    "value": "10215",
-    "text": "Llandrindod Wells Magistrates' & Family Court"
+    "text": "Llandrindod Wells Magistrates' & Family Court",
+    "value": "10215"
   },
   {
     "_id": "court_code_10216",
     "_type": "option",
-    "value": "10216",
-    "text": "Llandudno Magistrates'"
+    "text": "Llandudno Magistrates'",
+    "value": "10216"
   },
   {
     "_id": "court_code_253",
     "_type": "option",
-    "value": "253",
-    "text": "Llanelli County"
+    "text": "Llanelli County",
+    "value": "253"
   },
   {
     "_id": "court_code_10217",
     "_type": "option",
-    "value": "10217",
-    "text": "Llanelli Magistrates'"
+    "text": "Llanelli Magistrates'",
+    "value": "10217"
   },
   {
     "_id": "court_code_107",
     "_type": "option",
-    "value": "107",
-    "text": "London & SE Divorce Centre"
+    "text": "London & SE Divorce Centre",
+    "value": "107"
   },
   {
     "_id": "court_code_6019",
     "_type": "option",
-    "value": "6019",
-    "text": "London Collection and Compliance Centre"
+    "text": "London Collection and Compliance Centre",
+    "value": "6019"
   },
   {
     "_id": "court_code_6020",
     "_type": "option",
-    "value": "6020",
-    "text": "London Confiscation Unit"
+    "text": "London Confiscation Unit",
+    "value": "6020"
   },
   {
     "_id": "court_code_6038",
     "_type": "option",
-    "value": "6038",
-    "text": "London Contact Centre"
+    "text": "London Contact Centre",
+    "value": "6038"
   },
   {
     "_id": "court_code_934621",
     "_type": "option",
-    "value": "934621",
-    "text": "London Maintenance Enforcement Business Centre (LMEBC)"
+    "text": "London Maintenance Enforcement Business Centre (LMEBC)",
+    "value": "934621"
   },
   {
     "_id": "court_code_5002",
     "_type": "option",
-    "value": "5002",
-    "text": "London Probate"
+    "text": "London Probate",
+    "value": "5002"
   },
   {
     "_id": "court_code_10221",
     "_type": "option",
-    "value": "10221",
-    "text": "Loughborough Magistrates' "
+    "text": "Loughborough Magistrates' ",
+    "value": "10221"
   },
   {
     "_id": "court_code_258",
     "_type": "option",
-    "value": "258",
-    "text": "Luton County"
+    "text": "Luton County",
+    "value": "258"
   },
   {
     "_id": "court_code_476",
     "_type": "option",
-    "value": "476",
-    "text": "Luton Crown"
+    "text": "Luton Crown",
+    "value": "476"
   },
   {
     "_id": "court_code_10225",
     "_type": "option",
-    "value": "10225",
-    "text": "Luton Magistrates'"
+    "text": "Luton Magistrates'",
+    "value": "10225"
   },
   {
     "_id": "court_code_10228",
     "_type": "option",
-    "value": "10228",
-    "text": "Maidenhead Magistrates'"
+    "text": "Maidenhead Magistrates'",
+    "value": "10228"
   },
   {
     "_id": "court_code_261",
     "_type": "option",
-    "value": "261",
-    "text": "Maidstone County"
+    "text": "Maidstone County",
+    "value": "261"
   },
   {
     "_id": "court_code_434",
     "_type": "option",
-    "value": "434",
-    "text": "Maidstone Crown"
+    "text": "Maidstone Crown",
+    "value": "434"
   },
   {
     "_id": "court_code_10229",
     "_type": "option",
-    "value": "10229",
-    "text": "Maidstone Magistrates'"
+    "text": "Maidstone Magistrates'",
+    "value": "10229"
   },
   {
     "_id": "court_code_779129",
     "_type": "option",
-    "value": "779129",
-    "text": "Maintenance Enforcement Business Centre (Except London)"
+    "text": "Maintenance Enforcement Business Centre (Except London)",
+    "value": "779129"
   },
   {
     "_id": "court_code_435",
     "_type": "option",
-    "value": "435",
-    "text": "Manchester (Crown Sq) Crown"
+    "text": "Manchester (Crown Sq) Crown",
+    "value": "435"
   },
   {
     "_id": "court_code_436",
     "_type": "option",
-    "value": "436",
-    "text": "Manchester (Minshull St) Crown"
+    "text": "Manchester (Minshull St) Crown",
+    "value": "436"
   },
   {
     "_id": "court_code_10401",
     "_type": "option",
-    "value": "10401",
-    "text": "Manchester City Magistrates'"
+    "text": "Manchester City Magistrates'",
+    "value": "10401"
   },
   {
     "_id": "court_code_262",
     "_type": "option",
-    "value": "262",
-    "text": "Manchester County"
+    "text": "Manchester County",
+    "value": "262"
   },
   {
     "_id": "court_code_913",
     "_type": "option",
-    "value": "913",
-    "text": "Manchester ET"
+    "text": "Manchester ET",
+    "value": "913"
   },
   {
     "_id": "court_code_914",
     "_type": "option",
-    "value": "914",
-    "text": "Manchester IAC"
+    "text": "Manchester IAC",
+    "value": "914"
   },
   {
     "_id": "court_code_5010",
     "_type": "option",
-    "value": "5010",
-    "text": "Manchester Probate"
+    "text": "Manchester Probate",
+    "value": "5010"
   },
   {
     "_id": "court_code_263",
     "_type": "option",
-    "value": "263",
-    "text": "Mansfield County"
+    "text": "Mansfield County",
+    "value": "263"
   },
   {
     "_id": "court_code_10231",
     "_type": "option",
-    "value": "10231",
-    "text": "Mansfield Magistrates'"
+    "text": "Mansfield Magistrates'",
+    "value": "10231"
   },
   {
     "_id": "court_code_266",
     "_type": "option",
-    "value": "266",
-    "text": "Mayors & City County"
+    "text": "Mayors & City County",
+    "value": "266"
   },
   {
     "_id": "court_code_10087",
     "_type": "option",
-    "value": "10087",
-    "text": "Medway (Chatham) Magistrates'"
+    "text": "Medway (Chatham) Magistrates'",
+    "value": "10087"
   },
   {
     "_id": "court_code_267",
     "_type": "option",
-    "value": "267",
-    "text": "Medway County"
+    "text": "Medway County",
+    "value": "267"
   },
   {
     "_id": "court_code_269",
     "_type": "option",
-    "value": "269",
-    "text": "Merthyr Tydfil County Court"
+    "text": "Merthyr Tydfil County Court",
+    "value": "269"
   },
   {
     "_id": "court_code_437",
     "_type": "option",
-    "value": "437",
-    "text": "Merthyr Tydfil Crown"
+    "text": "Merthyr Tydfil Crown",
+    "value": "437"
   },
   {
     "_id": "court_code_10238",
     "_type": "option",
-    "value": "10238",
-    "text": "Merthyr Tydfil Magistrates'"
+    "text": "Merthyr Tydfil Magistrates'",
+    "value": "10238"
   },
   {
     "_id": "court_code_10031",
     "_type": "option",
-    "value": "10031",
-    "text": "Mid and South East Northumberland Magistrates'"
+    "text": "Mid and South East Northumberland Magistrates'",
+    "value": "10031"
   },
   {
     "_id": "court_code_6021",
     "_type": "option",
-    "value": "6021",
-    "text": "Midlands Regional Confiscation Unit"
+    "text": "Midlands Regional Confiscation Unit",
+    "value": "6021"
   },
   {
     "_id": "court_code_388",
     "_type": "option",
-    "value": "388",
-    "text": "Milton Keynes County"
+    "text": "Milton Keynes County",
+    "value": "388"
   },
   {
     "_id": "court_code_10241",
     "_type": "option",
-    "value": "10241",
-    "text": "Milton Keynes Magistrates'"
+    "text": "Milton Keynes Magistrates'",
+    "value": "10241"
   },
   {
     "_id": "court_code_271",
     "_type": "option",
-    "value": "271",
-    "text": "Mold County"
+    "text": "Mold County",
+    "value": "271"
   },
   {
     "_id": "court_code_438",
     "_type": "option",
-    "value": "438",
-    "text": "Mold Crown"
+    "text": "Mold Crown",
+    "value": "438"
   },
   {
     "_id": "court_code_6002-A",
     "_type": "option",
-    "value": "6002-A",
-    "text": "NCES Contact Centre Cwmbran"
+    "text": "NCES Contact Centre Cwmbran",
+    "value": "6002-A"
   },
   {
     "_id": "court_code_779144",
     "_type": "option",
-    "value": "779144",
-    "text": "National Maintenance Business Centre (Englans & Wales)"
-  },
-  {
-    "_id": "court_code_714",
-    "_type": "option",
-    "value": "714",
-    "text": "National Taxing Team - Birmingham "
-  },
-  {
-    "_id": "court_code_715",
-    "_type": "option",
-    "value": "715",
-    "text": "National Taxing Team - Manchester"
+    "text": "National Maintenance Business Centre (Englans & Wales)",
+    "value": "779144"
   },
   {
     "_id": "court_code_910",
     "_type": "option",
-    "value": "910",
-    "text": "Newcastle ET"
+    "text": "Newcastle ET",
+    "value": "910"
   },
   {
     "_id": "court_code_911",
     "_type": "option",
-    "value": "911",
-    "text": "Newcastle SSCS"
+    "text": "Newcastle SSCS",
+    "value": "911"
   },
   {
     "_id": "court_code_278",
     "_type": "option",
-    "value": "278",
-    "text": "Newcastle Upon Tyne County"
+    "text": "Newcastle Upon Tyne County",
+    "value": "278"
   },
   {
     "_id": "court_code_439",
     "_type": "option",
-    "value": "439",
-    "text": "Newcastle Upon Tyne Crown"
+    "text": "Newcastle Upon Tyne Crown",
+    "value": "439"
   },
   {
     "_id": "court_code_10248",
     "_type": "option",
-    "value": "10248",
-    "text": "Newcastle Upon Tyne Magistrates'"
+    "text": "Newcastle Upon Tyne Magistrates'",
+    "value": "10248"
   },
   {
     "_id": "court_code_10247",
     "_type": "option",
-    "value": "10247",
-    "text": "Newcastle under Lyme Magistrates'"
+    "text": "Newcastle under Lyme Magistrates'",
+    "value": "10247"
   },
   {
     "_id": "court_code_5011",
     "_type": "option",
-    "value": "5011",
-    "text": "Newcastle upon Tyne Probate"
+    "text": "Newcastle upon Tyne Probate",
+    "value": "5011"
   },
   {
     "_id": "court_code_279",
     "_type": "option",
-    "value": "279",
-    "text": "Newport (IoW) County"
+    "text": "Newport (IoW) County",
+    "value": "279"
   },
   {
     "_id": "court_code_478",
     "_type": "option",
-    "value": "478",
-    "text": "Newport (IoW) Crown"
+    "text": "Newport (IoW) Crown",
+    "value": "478"
   },
   {
     "_id": "court_code_10249",
     "_type": "option",
-    "value": "10249",
-    "text": "Newport (Isle of Wight) Magistrates'"
+    "text": "Newport (Isle of Wight) Magistrates'",
+    "value": "10249"
   },
   {
     "_id": "court_code_280",
     "_type": "option",
-    "value": "280",
-    "text": "Newport (South Wales) County & Family Court"
+    "text": "Newport (South Wales) County & Family Court",
+    "value": "280"
   },
   {
     "_id": "court_code_441",
     "_type": "option",
-    "value": "441",
-    "text": "Newport (South Wales) Crown"
+    "text": "Newport (South Wales) Crown",
+    "value": "441"
   },
   {
     "_id": "court_code_921",
     "_type": "option",
-    "value": "921",
-    "text": "Newport (South Wales) Immigration & Asylum Tribunal "
+    "text": "Newport (South Wales) Immigration & Asylum Tribunal ",
+    "value": "921"
   },
   {
     "_id": "court_code_10722",
     "_type": "option",
-    "value": "10722",
-    "text": "Newport (South Wales) Magistrates'"
+    "text": "Newport (South Wales) Magistrates'",
+    "value": "10722"
   },
   {
     "_id": "court_code_280-A",
     "_type": "option",
-    "value": "280-A",
-    "text": "Newport Divorce Unit"
+    "text": "Newport Divorce Unit",
+    "value": "280-A"
   },
   {
     "_id": "court_code_10252",
     "_type": "option",
-    "value": "10252",
-    "text": "Newton Abbot Magistrates'"
+    "text": "Newton Abbot Magistrates'",
+    "value": "10252"
   },
   {
     "_id": "court_code_10253",
     "_type": "option",
-    "value": "10253",
-    "text": "Newton Aycliffe Magistrates'"
+    "text": "Newton Aycliffe Magistrates'",
+    "value": "10253"
   },
   {
     "_id": "court_code_1012",
     "_type": "option",
-    "value": "1012",
-    "text": "Nitrates Vulnerable Zones"
+    "text": "Nitrates Vulnerable Zones",
+    "value": "1012"
   },
   {
     "_id": "court_code_141-A",
     "_type": "option",
-    "value": "141-A",
-    "text": "North East Divorce Unit"
+    "text": "North East Divorce Unit",
+    "value": "141-A"
   },
   {
     "_id": "court_code_6023",
     "_type": "option",
-    "value": "6023",
-    "text": "North East Regional Confiscation Unit"
+    "text": "North East Regional Confiscation Unit",
+    "value": "6023"
   },
   {
     "_id": "court_code_6024",
     "_type": "option",
-    "value": "6024",
-    "text": "North East Regional Payment Unit"
+    "text": "North East Regional Payment Unit",
+    "value": "6024"
   },
   {
     "_id": "court_code_283",
     "_type": "option",
-    "value": "283",
-    "text": "North Shields County"
+    "text": "North Shields County",
+    "value": "283"
   },
   {
     "_id": "court_code_912",
     "_type": "option",
-    "value": "912",
-    "text": "North Shields IA"
+    "text": "North Shields IA",
+    "value": "912"
   },
   {
     "_id": "court_code_10254",
     "_type": "option",
-    "value": "10254",
-    "text": "North Tyneside Magistrates'"
+    "text": "North Tyneside Magistrates'",
+    "value": "10254"
   },
   {
     "_id": "court_code_251-A",
     "_type": "option",
-    "value": "251-A",
-    "text": "North West Divorce Unit"
+    "text": "North West Divorce Unit",
+    "value": "251-A"
   },
   {
     "_id": "court_code_6025",
     "_type": "option",
-    "value": "6025",
-    "text": "North West Regional Confiscation Unit"
+    "text": "North West Regional Confiscation Unit",
+    "value": "6025"
   },
   {
     "_id": "court_code_10255",
     "_type": "option",
-    "value": "10255",
-    "text": "Northallerton Magistrates'"
+    "text": "Northallerton Magistrates'",
+    "value": "10255"
   },
   {
     "_id": "court_code_282",
     "_type": "option",
-    "value": "282",
-    "text": "Northampton County"
+    "text": "Northampton County",
+    "value": "282"
   },
   {
     "_id": "court_code_442",
     "_type": "option",
-    "value": "442",
-    "text": "Northampton Crown"
+    "text": "Northampton Crown",
+    "value": "442"
   },
   {
     "_id": "court_code_10256",
     "_type": "option",
-    "value": "10256",
-    "text": "Northampton Magistrates'"
+    "text": "Northampton Magistrates'",
+    "value": "10256"
   },
   {
     "_id": "court_code_6027",
     "_type": "option",
-    "value": "6027",
-    "text": "Northamptonshire Enforcement Office"
+    "text": "Northamptonshire Enforcement Office",
+    "value": "6027"
   },
   {
     "_id": "court_code_285",
     "_type": "option",
-    "value": "285",
-    "text": "Norwich County"
+    "text": "Norwich County",
+    "value": "285"
   },
   {
     "_id": "court_code_443",
     "_type": "option",
-    "value": "443",
-    "text": "Norwich Crown"
+    "text": "Norwich Crown",
+    "value": "443"
   },
   {
     "_id": "court_code_10258",
     "_type": "option",
-    "value": "10258",
-    "text": "Norwich Magistrates'"
+    "text": "Norwich Magistrates'",
+    "value": "10258"
   },
   {
     "_id": "court_code_933022",
     "_type": "option",
-    "value": "933022",
-    "text": "Norwich SSC"
+    "text": "Norwich SSC",
+    "value": "933022"
   },
   {
     "_id": "court_code_286",
     "_type": "option",
-    "value": "286",
-    "text": "Nottingham County"
+    "text": "Nottingham County",
+    "value": "286"
   },
   {
     "_id": "court_code_444",
     "_type": "option",
-    "value": "444",
-    "text": "Nottingham Crown"
+    "text": "Nottingham Crown",
+    "value": "444"
   },
   {
     "_id": "court_code_925",
     "_type": "option",
-    "value": "925",
-    "text": "Nottingham ET"
+    "text": "Nottingham ET",
+    "value": "925"
   },
   {
     "_id": "court_code_10259",
     "_type": "option",
-    "value": "10259",
-    "text": "Nottingham Magistrates'"
+    "text": "Nottingham Magistrates'",
+    "value": "10259"
   },
   {
     "_id": "court_code_926",
     "_type": "option",
-    "value": "926",
-    "text": "Nottingham SSCS"
+    "text": "Nottingham SSCS",
+    "value": "926"
   },
   {
     "_id": "court_code_6029",
     "_type": "option",
-    "value": "6029",
-    "text": "Nottinghamshire Enforcement Unit"
+    "text": "Nottinghamshire Enforcement Unit",
+    "value": "6029"
   },
   {
     "_id": "court_code_287",
     "_type": "option",
-    "value": "287",
-    "text": "Nuneaton County"
+    "text": "Nuneaton County",
+    "value": "287"
   },
   {
     "_id": "court_code_10260",
     "_type": "option",
-    "value": "10260",
-    "text": "Nuneaton Magistrates'"
+    "text": "Nuneaton Magistrates'",
+    "value": "10260"
   },
   {
     "_id": "court_code_779229",
     "_type": "option",
-    "value": "779229",
-    "text": "Online County Court (OCMC)"
+    "text": "Online County Court (OCMC)",
+    "value": "779229"
   },
   {
     "_id": "court_code_291",
     "_type": "option",
-    "value": "291",
-    "text": "Oxford County"
+    "text": "Oxford County",
+    "value": "291"
   },
   {
     "_id": "court_code_445",
     "_type": "option",
-    "value": "445",
-    "text": "Oxford Crown"
+    "text": "Oxford Crown",
+    "value": "445"
   },
   {
     "_id": "court_code_10265",
     "_type": "option",
-    "value": "10265",
-    "text": "Oxford Magistrates'"
+    "text": "Oxford Magistrates'",
+    "value": "10265"
   },
   {
     "_id": "court_code_5012",
     "_type": "option",
-    "value": "5012",
-    "text": "Oxford Probate"
+    "text": "Oxford Probate",
+    "value": "5012"
   },
   {
     "_id": "court_code_110",
     "_type": "option",
-    "value": "110",
-    "text": "PCOL"
-  },
-  {
-    "_id": "court_code_PECS",
-    "_type": "option",
-    "value": "PECS",
-    "text": "PECS Team"
+    "text": "PCOL",
+    "value": "110"
   },
   {
     "_id": "court_code_999",
     "_type": "option",
-    "value": "999",
-    "text": "Pensions Regulations"
+    "text": "Pensions Regulations",
+    "value": "999"
   },
   {
     "_id": "court_code_294",
     "_type": "option",
-    "value": "294",
-    "text": "Peterborough County"
+    "text": "Peterborough County",
+    "value": "294"
   },
   {
     "_id": "court_code_473",
     "_type": "option",
-    "value": "473",
-    "text": "Peterborough Crown"
+    "text": "Peterborough Crown",
+    "value": "473"
   },
   {
     "_id": "court_code_10268",
     "_type": "option",
-    "value": "10268",
-    "text": "Peterborough Magistrates'"
+    "text": "Peterborough Magistrates'",
+    "value": "10268"
   },
   {
     "_id": "court_code_10269",
     "_type": "option",
-    "value": "10269",
-    "text": "Peterlee Magistrates'"
+    "text": "Peterlee Magistrates'",
+    "value": "10269"
   },
   {
     "_id": "court_code_296",
     "_type": "option",
-    "value": "296",
-    "text": "Plymouth County"
+    "text": "Plymouth County",
+    "value": "296"
   },
   {
     "_id": "court_code_446",
     "_type": "option",
-    "value": "446",
-    "text": "Plymouth Crown"
+    "text": "Plymouth Crown",
+    "value": "446"
   },
   {
     "_id": "court_code_10271",
     "_type": "option",
-    "value": "10271",
-    "text": "Plymouth Magistrates'"
+    "text": "Plymouth Magistrates'",
+    "value": "10271"
   },
   {
     "_id": "court_code_1271-A",
     "_type": "option",
-    "value": "1271-A",
-    "text": "Plymouth Tribunals"
+    "text": "Plymouth Tribunals",
+    "value": "1271-A"
   },
   {
     "_id": "court_code_299",
     "_type": "option",
-    "value": "299",
-    "text": "Pontypridd County and Family Court"
+    "text": "Pontypridd County and Family Court",
+    "value": "299"
   },
   {
     "_id": "court_code_10274",
     "_type": "option",
-    "value": "10274",
-    "text": "Poole Magistrates'"
+    "text": "Poole Magistrates'",
+    "value": "10274"
   },
   {
     "_id": "court_code_6030",
     "_type": "option",
-    "value": "6030",
-    "text": "Port Talbot Historic Debt"
+    "text": "Port Talbot Historic Debt",
+    "value": "6030"
   },
   {
     "_id": "court_code_274",
     "_type": "option",
-    "value": "274",
-    "text": "Port Talbot Justice Centre"
+    "text": "Port Talbot Justice Centre",
+    "value": "274"
   },
   {
     "_id": "court_code_936260",
     "_type": "option",
-    "value": "936260",
-    "text": "Port Talbot Maintenance Enforcement Business Centre"
+    "text": "Port Talbot Maintenance Enforcement Business Centre",
+    "value": "936260"
   },
   {
     "_id": "court_code_302",
     "_type": "option",
-    "value": "302",
-    "text": "Portsmouth County"
+    "text": "Portsmouth County",
+    "value": "302"
   },
   {
     "_id": "court_code_447",
     "_type": "option",
-    "value": "447",
-    "text": "Portsmouth Crown"
+    "text": "Portsmouth Crown",
+    "value": "447"
   },
   {
     "_id": "court_code_10276",
     "_type": "option",
-    "value": "10276",
-    "text": "Portsmouth Magistrates'"
+    "text": "Portsmouth Magistrates'",
+    "value": "10276"
   },
   {
     "_id": "court_code_308",
     "_type": "option",
-    "value": "308",
-    "text": "Prestatyn Justice Centre"
+    "text": "Prestatyn Justice Centre",
+    "value": "308"
   },
   {
     "_id": "court_code_303",
     "_type": "option",
-    "value": "303",
-    "text": "Preston County"
+    "text": "Preston County",
+    "value": "303"
   },
   {
     "_id": "court_code_448",
     "_type": "option",
-    "value": "448",
-    "text": "Preston Crown"
+    "text": "Preston Crown",
+    "value": "448"
   },
   {
     "_id": "court_code_448-A",
     "_type": "option",
-    "value": "448-A",
-    "text": "Preston DFC"
+    "text": "Preston DFC",
+    "value": "448-A"
   },
   {
     "_id": "court_code_10278",
     "_type": "option",
-    "value": "10278",
-    "text": "Preston Magistrates'"
+    "text": "Preston Magistrates'",
+    "value": "10278"
   },
   {
     "_id": "court_code_909",
     "_type": "option",
-    "value": "909",
-    "text": "Primary Health Lists"
+    "text": "Primary Health Lists",
+    "value": "909"
   },
   {
     "_id": "court_code_5001",
     "_type": "option",
-    "value": "5001",
-    "text": "Probate GBO"
+    "text": "Probate GBO",
+    "value": "5001"
   },
   {
     "_id": "court_code_991",
     "_type": "option",
-    "value": "991",
-    "text": "Professional Regulation"
+    "text": "Professional Regulation",
+    "value": "991"
   },
   {
     "_id": "court_code_618",
     "_type": "option",
-    "value": "618",
-    "text": "Queen's Bench Action Department"
+    "text": "Queen's Bench Action Department",
+    "value": "618"
   },
   {
     "_id": "court_code_611",
     "_type": "option",
-    "value": "611",
-    "text": "Queen's Bench Listing"
+    "text": "Queen's Bench Listing",
+    "value": "611"
   },
   {
     "_id": "court_code_626",
     "_type": "option",
-    "value": "626",
-    "text": "RCJ Judges' Clerks"
+    "text": "RCJ Judges' Clerks",
+    "value": "626"
   },
   {
     "_id": "court_code_619",
     "_type": "option",
-    "value": "619",
-    "text": "RCJ Security"
+    "text": "RCJ Security",
+    "value": "619"
   },
   {
     "_id": "court_code_627",
     "_type": "option",
-    "value": "627",
-    "text": "RCJ Superintendent's Office"
+    "text": "RCJ Superintendent's Office",
+    "value": "627"
   },
   {
     "_id": "court_code_620",
     "_type": "option",
-    "value": "620",
-    "text": "RCJ Tipstaff"
+    "text": "RCJ Tipstaff",
+    "value": "620"
   },
   {
     "_id": "court_code_305",
     "_type": "option",
-    "value": "305",
-    "text": "Reading County"
+    "text": "Reading County",
+    "value": "305"
   },
   {
     "_id": "court_code_449",
     "_type": "option",
-    "value": "449",
-    "text": "Reading Crown"
+    "text": "Reading Crown",
+    "value": "449"
   },
   {
     "_id": "court_code_950",
     "_type": "option",
-    "value": "950",
-    "text": "Reading ET"
+    "text": "Reading ET",
+    "value": "950"
   },
   {
     "_id": "court_code_10280",
     "_type": "option",
-    "value": "10280",
-    "text": "Reading Magistrates'"
+    "text": "Reading Magistrates'",
+    "value": "10280"
   },
   {
     "_id": "court_code_10282",
     "_type": "option",
-    "value": "10282",
-    "text": "Redditch Magistrates'"
+    "text": "Redditch Magistrates'",
+    "value": "10282"
   },
   {
     "_id": "court_code_2014",
     "_type": "option",
-    "value": "2014",
-    "text": "Reedley Family Hearing Centre"
+    "text": "Reedley Family Hearing Centre",
+    "value": "2014"
   },
   {
     "_id": "court_code_916",
     "_type": "option",
-    "value": "916",
-    "text": "Reserve Forces"
+    "text": "Reserve Forces",
+    "value": "916"
   },
   {
     "_id": "court_code_1006",
     "_type": "option",
-    "value": "1006",
-    "text": "Residential Property - Birmingham (Midlands)"
+    "text": "Residential Property - Birmingham (Midlands)",
+    "value": "1006"
   },
   {
     "_id": "court_code_1005",
     "_type": "option",
-    "value": "1005",
-    "text": "Residential Property - Cambridge (South East)"
+    "text": "Residential Property - Cambridge (South East)",
+    "value": "1005"
   },
   {
     "_id": "court_code_1004",
     "_type": "option",
-    "value": "1004",
-    "text": "Residential Property - Havant (South West)"
+    "text": "Residential Property - Havant (South West)",
+    "value": "1004"
   },
   {
     "_id": "court_code_964",
     "_type": "option",
-    "value": "964",
-    "text": "Residential Property - London"
+    "text": "Residential Property - London",
+    "value": "964"
   },
   {
     "_id": "court_code_1007",
     "_type": "option",
-    "value": "1007",
-    "text": "Residential Property - Manchester (North West)"
+    "text": "Residential Property - Manchester (North West)",
+    "value": "1007"
   },
   {
     "_id": "court_code_10290",
     "_type": "option",
-    "value": "10290",
-    "text": "Romford (Havering) Magistrates'"
+    "text": "Romford (Havering) Magistrates'",
+    "value": "10290"
   },
   {
     "_id": "court_code_387",
     "_type": "option",
-    "value": "387",
-    "text": "Romford County"
+    "text": "Romford County",
+    "value": "387"
   },
   {
     "_id": "court_code_6031",
     "_type": "option",
-    "value": "6031",
-    "text": "Rugeley Central Finance Office"
+    "text": "Rugeley Central Finance Office",
+    "value": "6031"
   },
   {
     "_id": "court_code_133-A",
     "_type": "option",
-    "value": "133-A",
-    "text": "SW Regional Divorce Centre"
+    "text": "SW Regional Divorce Centre",
+    "value": "133-A"
   },
   {
     "_id": "court_code_10299",
     "_type": "option",
-    "value": "10299",
-    "text": "Salisbury (Guildhall) Magistrates'"
+    "text": "Salisbury (Guildhall) Magistrates'",
+    "value": "10299"
   },
   {
     "_id": "court_code_317",
     "_type": "option",
-    "value": "317",
-    "text": "Salisbury County"
+    "text": "Salisbury County",
+    "value": "317"
   },
   {
     "_id": "court_code_480",
     "_type": "option",
-    "value": "480",
-    "text": "Salisbury Crown"
+    "text": "Salisbury Crown",
+    "value": "480"
   },
   {
     "_id": "court_code_318",
     "_type": "option",
-    "value": "318",
-    "text": "Scarborough County"
+    "text": "Scarborough County",
+    "value": "318"
   },
   {
     "_id": "court_code_10300",
     "_type": "option",
-    "value": "10300",
-    "text": "Scarborough Magistrates'"
+    "text": "Scarborough Magistrates'",
+    "value": "10300"
   },
   {
     "_id": "court_code_779529",
     "_type": "option",
-    "value": "779529",
-    "text": "Sefton Magistrates'"
+    "text": "Sefton Magistrates'",
+    "value": "779529"
   },
   {
     "_id": "court_code_623",
     "_type": "option",
-    "value": "623",
-    "text": "Senior Courts Costs Office"
-  },
-  {
-    "_id": "court_code_SERVASSURANCE",
-    "_type": "option",
-    "value": "SERVASSURANCE",
-    "text": "Service Assurance Team"
+    "text": "Senior Courts Costs Office",
+    "value": "623"
   },
   {
     "_id": "court_code_10303",
     "_type": "option",
-    "value": "10303",
-    "text": "Sevenoaks Magistrates'"
+    "text": "Sevenoaks Magistrates'",
+    "value": "10303"
   },
   {
     "_id": "court_code_320",
     "_type": "option",
-    "value": "320",
-    "text": "Sheffield County"
+    "text": "Sheffield County",
+    "value": "320"
   },
   {
     "_id": "court_code_451",
     "_type": "option",
-    "value": "451",
-    "text": "Sheffield Crown"
+    "text": "Sheffield Crown",
+    "value": "451"
   },
   {
     "_id": "court_code_320-A",
     "_type": "option",
-    "value": "320-A",
-    "text": "Sheffield DFC"
+    "text": "Sheffield DFC",
+    "value": "320-A"
   },
   {
     "_id": "court_code_10304",
     "_type": "option",
-    "value": "10304",
-    "text": "Sheffield Magistrates'"
+    "text": "Sheffield Magistrates'",
+    "value": "10304"
   },
   {
     "_id": "court_code_452",
     "_type": "option",
-    "value": "452",
-    "text": "Shrewsbury Crown"
+    "text": "Shrewsbury Crown",
+    "value": "452"
   },
   {
     "_id": "court_code_325",
     "_type": "option",
-    "value": "325",
-    "text": "Skipton County"
+    "text": "Skipton County",
+    "value": "325"
   },
   {
     "_id": "court_code_327",
     "_type": "option",
-    "value": "327",
-    "text": "Slough County"
+    "text": "Slough County",
+    "value": "327"
   },
   {
     "_id": "court_code_10311",
     "_type": "option",
-    "value": "10311",
-    "text": "Slough Magistrates'"
+    "text": "Slough Magistrates'",
+    "value": "10311"
   },
   {
     "_id": "court_code_323",
     "_type": "option",
-    "value": "323",
-    "text": "Small Claims Mediation"
+    "text": "Small Claims Mediation",
+    "value": "323"
   },
   {
     "_id": "court_code_453",
     "_type": "option",
-    "value": "453",
-    "text": "Snaresbrook Crown"
+    "text": "Snaresbrook Crown",
+    "value": "453"
   },
   {
     "_id": "court_code_6032",
     "_type": "option",
-    "value": "6032",
-    "text": "South East Central Finance Unit"
+    "text": "South East Central Finance Unit",
+    "value": "6032"
   },
   {
     "_id": "court_code_6033",
     "_type": "option",
-    "value": "6033",
-    "text": "South East Regional Confiscation Unit"
+    "text": "South East Regional Confiscation Unit",
+    "value": "6033"
   },
   {
     "_id": "court_code_331",
     "_type": "option",
-    "value": "331",
-    "text": "South Shields County"
+    "text": "South Shields County",
+    "value": "331"
   },
   {
     "_id": "court_code_10313",
     "_type": "option",
-    "value": "10313",
-    "text": "South Tyneside Law Courts"
+    "text": "South Tyneside Law Courts",
+    "value": "10313"
   },
   {
     "_id": "court_code_10316",
     "_type": "option",
-    "value": "10316",
-    "text": "Southampton (The Avenue) Magistrates'"
+    "text": "Southampton (The Avenue) Magistrates'",
+    "value": "10316"
   },
   {
     "_id": "court_code_328",
     "_type": "option",
-    "value": "328",
-    "text": "Southampton County"
+    "text": "Southampton County",
+    "value": "328"
   },
   {
     "_id": "court_code_454",
     "_type": "option",
-    "value": "454",
-    "text": "Southampton Crown"
+    "text": "Southampton Crown",
+    "value": "454"
   },
   {
     "_id": "court_code_329",
     "_type": "option",
-    "value": "329",
-    "text": "Southend On Sea County"
+    "text": "Southend On Sea County",
+    "value": "329"
   },
   {
     "_id": "court_code_10317",
     "_type": "option",
-    "value": "10317",
-    "text": "Southend on Sea Magistrates'"
+    "text": "Southend on Sea Magistrates'",
+    "value": "10317"
   },
   {
     "_id": "court_code_471",
     "_type": "option",
-    "value": "471",
-    "text": "Southwark Crown"
+    "text": "Southwark Crown",
+    "value": "471"
   },
   {
     "_id": "court_code_902",
     "_type": "option",
-    "value": "902",
-    "text": "Special Educational Needs and Disability"
+    "text": "Special Educational Needs and Disability",
+    "value": "902"
   },
   {
     "_id": "court_code_450",
     "_type": "option",
-    "value": "450",
-    "text": "St Albans Crown"
+    "text": "St Albans Crown",
+    "value": "450"
   },
   {
     "_id": "court_code_10320",
     "_type": "option",
-    "value": "10320",
-    "text": "St Albans Magistrates'"
+    "text": "St Albans Magistrates'",
+    "value": "10320"
   },
   {
     "_id": "court_code_315",
     "_type": "option",
-    "value": "315",
-    "text": "St.Helens County"
+    "text": "St.Helens County",
+    "value": "315"
   },
   {
     "_id": "court_code_333",
     "_type": "option",
-    "value": "333",
-    "text": "Stafford County"
+    "text": "Stafford County",
+    "value": "333"
   },
   {
     "_id": "court_code_455",
     "_type": "option",
-    "value": "455",
-    "text": "Stafford Crown"
+    "text": "Stafford Crown",
+    "value": "455"
   },
   {
     "_id": "court_code_6034",
     "_type": "option",
-    "value": "6034",
-    "text": "Staffordshire Enforcement Unit"
+    "text": "Staffordshire Enforcement Unit",
+    "value": "6034"
   },
   {
     "_id": "court_code_334",
     "_type": "option",
-    "value": "334",
-    "text": "Staines County"
+    "text": "Staines County",
+    "value": "334"
   },
   {
     "_id": "court_code_10323",
     "_type": "option",
-    "value": "10323",
-    "text": "Staines Magistrates'"
+    "text": "Staines Magistrates'",
+    "value": "10323"
   },
   {
     "_id": "court_code_10325",
     "_type": "option",
-    "value": "10325",
-    "text": "Stevenage Magistrates'"
+    "text": "Stevenage Magistrates'",
+    "value": "10325"
   },
   {
     "_id": "court_code_336",
     "_type": "option",
-    "value": "336",
-    "text": "Stockport County"
+    "text": "Stockport County",
+    "value": "336"
   },
   {
     "_id": "court_code_10326",
     "_type": "option",
-    "value": "10326",
-    "text": "Stockport Magistrates'"
+    "text": "Stockport Magistrates'",
+    "value": "10326"
   },
   {
     "_id": "court_code_779450",
     "_type": "option",
-    "value": "779450",
-    "text": "Stoke Courts and Tribunal Service Centre"
+    "text": "Stoke Courts and Tribunal Service Centre",
+    "value": "779450"
   },
   {
     "_id": "court_code_456",
     "_type": "option",
-    "value": "456",
-    "text": "Stoke On Trent Crown"
+    "text": "Stoke On Trent Crown",
+    "value": "456"
   },
   {
     "_id": "court_code_338",
     "_type": "option",
-    "value": "338",
-    "text": "Stoke-On-Trent County"
+    "text": "Stoke-On-Trent County",
+    "value": "338"
   },
   {
     "_id": "court_code_6048",
     "_type": "option",
-    "value": "6048",
-    "text": "Storage Centre AIT"
+    "text": "Storage Centre AIT",
+    "value": "6048"
   },
   {
     "_id": "court_code_326",
     "_type": "option",
-    "value": "326",
-    "text": "Stratford Housing Centre"
+    "text": "Stratford Housing Centre",
+    "value": "326"
   },
   {
     "_id": "court_code_10329",
     "_type": "option",
-    "value": "10329",
-    "text": "Stratford Magistrates'"
+    "text": "Stratford Magistrates'",
+    "value": "10329"
   },
   {
     "_id": "court_code_343",
     "_type": "option",
-    "value": "343",
-    "text": "Sunderland County"
+    "text": "Sunderland County",
+    "value": "343"
   },
   {
     "_id": "court_code_10333",
     "_type": "option",
-    "value": "10333",
-    "text": "Sunderland Magistrates'"
+    "text": "Sunderland Magistrates'",
+    "value": "10333"
   },
   {
     "_id": "court_code_6035",
     "_type": "option",
-    "value": "6035",
-    "text": "Sussex, Kent and Surrey Enforcement "
+    "text": "Sussex, Kent and Surrey Enforcement ",
+    "value": "6035"
   },
   {
     "_id": "court_code_971",
     "_type": "option",
-    "value": "971",
-    "text": "Sutton SSCS"
+    "text": "Sutton SSCS",
+    "value": "971"
   },
   {
     "_id": "court_code_344",
     "_type": "option",
-    "value": "344",
-    "text": "Swansea Civil and Family Justice Centre"
+    "text": "Swansea Civil and Family Justice Centre",
+    "value": "344"
   },
   {
     "_id": "court_code_457",
     "_type": "option",
-    "value": "457",
-    "text": "Swansea Crown"
+    "text": "Swansea Crown",
+    "value": "457"
   },
   {
     "_id": "court_code_10337",
     "_type": "option",
-    "value": "10337",
-    "text": "Swansea Magistrates'"
+    "text": "Swansea Magistrates'",
+    "value": "10337"
   },
   {
     "_id": "court_code_345",
     "_type": "option",
-    "value": "345",
-    "text": "Swindon County"
+    "text": "Swindon County",
+    "value": "345"
   },
   {
     "_id": "court_code_458",
     "_type": "option",
-    "value": "458",
-    "text": "Swindon Crown"
+    "text": "Swindon Crown",
+    "value": "458"
   },
   {
     "_id": "court_code_10338",
     "_type": "option",
-    "value": "10338",
-    "text": "Swindon Magistrates'"
+    "text": "Swindon Magistrates'",
+    "value": "10338"
   },
   {
     "_id": "court_code_6036",
     "_type": "option",
-    "value": "6036",
-    "text": "Swindon Money Handling Unit"
+    "text": "Swindon Money Handling Unit",
+    "value": "6036"
   },
   {
     "_id": "court_code_10403",
     "_type": "option",
-    "value": "10403",
-    "text": "Tameside Magistrates'"
+    "text": "Tameside Magistrates'",
+    "value": "10403"
   },
   {
     "_id": "court_code_347",
     "_type": "option",
-    "value": "347",
-    "text": "Taunton County"
+    "text": "Taunton County",
+    "value": "347"
   },
   {
     "_id": "court_code_459",
     "_type": "option",
-    "value": "459",
-    "text": "Taunton Crown"
+    "text": "Taunton Crown",
+    "value": "459"
   },
   {
     "_id": "court_code_10340",
     "_type": "option",
-    "value": "10340",
-    "text": "Taunton Magistrates'"
+    "text": "Taunton Magistrates'",
+    "value": "10340"
   },
   {
     "_id": "court_code_951",
     "_type": "option",
-    "value": "951",
-    "text": "Taylor House FTTIAC"
+    "text": "Taylor House FTTIAC",
+    "value": "951"
   },
   {
     "_id": "court_code_625",
     "_type": "option",
-    "value": "625",
-    "text": "Technology and Construction Courts"
+    "text": "Technology and Construction Courts",
+    "value": "625"
   },
   {
     "_id": "court_code_270",
     "_type": "option",
-    "value": "270",
-    "text": "Teesside County"
+    "text": "Teesside County",
+    "value": "270"
   },
   {
     "_id": "court_code_460",
     "_type": "option",
-    "value": "460",
-    "text": "Teesside Crown"
+    "text": "Teesside Crown",
+    "value": "460"
   },
   {
     "_id": "court_code_10239",
     "_type": "option",
-    "value": "10239",
-    "text": "Teesside Magistrates'"
+    "text": "Teesside Magistrates'",
+    "value": "10239"
   },
   {
     "_id": "court_code_364",
     "_type": "option",
-    "value": "364",
-    "text": "Telford County"
+    "text": "Telford County",
+    "value": "364"
   },
   {
     "_id": "court_code_10341",
     "_type": "option",
-    "value": "10341",
-    "text": "Telford Magistrates'"
+    "text": "Telford Magistrates'",
+    "value": "10341"
   },
   {
     "_id": "court_code_10345",
     "_type": "option",
-    "value": "10345",
-    "text": "Thames Magistrates'"
+    "text": "Thames Magistrates'",
+    "value": "10345"
   },
   {
     "_id": "court_code_10232",
     "_type": "option",
-    "value": "10232",
-    "text": "Thanet (Margate) Magistrates'"
+    "text": "Thanet (Margate) Magistrates'",
+    "value": "10232"
   },
   {
     "_id": "court_code_348",
     "_type": "option",
-    "value": "348",
-    "text": "Thanet County"
+    "text": "Thanet County",
+    "value": "348"
   },
   {
     "_id": "court_code_352",
     "_type": "option",
-    "value": "352",
-    "text": "Torquay and Newton Abbot County"
+    "text": "Torquay and Newton Abbot County",
+    "value": "352"
   },
   {
     "_id": "court_code_354",
     "_type": "option",
-    "value": "354",
-    "text": "Truro County"
+    "text": "Truro County",
+    "value": "354"
   },
   {
     "_id": "court_code_477",
     "_type": "option",
-    "value": "477",
-    "text": "Truro Crown"
+    "text": "Truro Crown",
+    "value": "477"
   },
   {
     "_id": "court_code_10353",
     "_type": "option",
-    "value": "10353",
-    "text": "Truro Magistrates'"
+    "text": "Truro Magistrates'",
+    "value": "10353"
   },
   {
     "_id": "court_code_958",
     "_type": "option",
-    "value": "958",
-    "text": "Upper Tribunal (Lands Chamber)"
+    "text": "Upper Tribunal (Lands Chamber)",
+    "value": "958"
   },
   {
     "_id": "court_code_957",
     "_type": "option",
-    "value": "957",
-    "text": "Upper Tribunal (Tax and Chancery)"
+    "text": "Upper Tribunal (Tax and Chancery)",
+    "value": "957"
   },
   {
     "_id": "court_code_953",
     "_type": "option",
-    "value": "953",
-    "text": "Upper Tribunals Admin Appeals Chamber"
+    "text": "Upper Tribunals Admin Appeals Chamber",
+    "value": "953"
   },
   {
     "_id": "court_code_1013",
     "_type": "option",
-    "value": "1013",
-    "text": "Upper Tribunals Admin Appeals Chamber - Scotland"
+    "text": "Upper Tribunals Admin Appeals Chamber - Scotland",
+    "value": "1013"
   },
   {
     "_id": "court_code_356",
     "_type": "option",
-    "value": "356",
-    "text": "Uxbridge County"
+    "text": "Uxbridge County",
+    "value": "356"
   },
   {
     "_id": "court_code_10355",
     "_type": "option",
-    "value": "10355",
-    "text": "Uxbridge Magistrates'"
+    "text": "Uxbridge Magistrates'",
+    "value": "10355"
   },
   {
     "_id": "court_code_962",
     "_type": "option",
-    "value": "962",
-    "text": "Victory House ET"
+    "text": "Victory House ET",
+    "value": "962"
   },
   {
     "_id": "court_code_357",
     "_type": "option",
-    "value": "357",
-    "text": "Wakefield County"
+    "text": "Wakefield County",
+    "value": "357"
   },
   {
     "_id": "court_code_919",
     "_type": "option",
-    "value": "919",
-    "text": "Wales Employment Tribunal"
+    "text": "Wales Employment Tribunal",
+    "value": "919"
   },
   {
     "_id": "court_code_6002",
     "_type": "option",
-    "value": "6002",
-    "text": "Wales National Enforcement Office"
+    "text": "Wales National Enforcement Office",
+    "value": "6002"
   },
   {
     "_id": "court_code_6039",
     "_type": "option",
-    "value": "6039",
-    "text": "Wales and South West Confiscation Unit"
+    "text": "Wales and South West Confiscation Unit",
+    "value": "6039"
   },
   {
     "_id": "court_code_358",
     "_type": "option",
-    "value": "358",
-    "text": "Walsall County"
+    "text": "Walsall County",
+    "value": "358"
   },
   {
     "_id": "court_code_10359",
     "_type": "option",
-    "value": "10359",
-    "text": "Walsall Magistrates'"
+    "text": "Walsall Magistrates'",
+    "value": "10359"
   },
   {
     "_id": "court_code_359",
     "_type": "option",
-    "value": "359",
-    "text": "Wandsworth County"
+    "text": "Wandsworth County",
+    "value": "359"
   },
   {
     "_id": "court_code_954",
     "_type": "option",
-    "value": "954",
-    "text": "War Pensions & Armed Forces Chamber"
+    "text": "War Pensions & Armed Forces Chamber",
+    "value": "954"
   },
   {
     "_id": "court_code_1722",
     "_type": "option",
-    "value": "1722",
-    "text": "Warrington (Legh Street) Magistrates'"
+    "text": "Warrington (Legh Street) Magistrates'",
+    "value": "1722"
   },
   {
     "_id": "court_code_462",
     "_type": "option",
-    "value": "462",
-    "text": "Warrington Crown"
+    "text": "Warrington Crown",
+    "value": "462"
   },
   {
     "_id": "court_code_361",
     "_type": "option",
-    "value": "361",
-    "text": "Warwick County"
+    "text": "Warwick County",
+    "value": "361"
   },
   {
     "_id": "court_code_463",
     "_type": "option",
-    "value": "463",
-    "text": "Warwick Crown"
+    "text": "Warwick Crown",
+    "value": "463"
   },
   {
     "_id": "court_code_6040",
     "_type": "option",
-    "value": "6040",
-    "text": "Warwickshire Enforcement Unit"
+    "text": "Warwickshire Enforcement Unit",
+    "value": "6040"
   },
   {
     "_id": "court_code_362",
     "_type": "option",
-    "value": "362",
-    "text": "Watford County"
+    "text": "Watford County",
+    "value": "362"
   },
   {
     "_id": "court_code_947",
     "_type": "option",
-    "value": "947",
-    "text": "Watford ET"
+    "text": "Watford ET",
+    "value": "947"
   },
   {
     "_id": "court_code_10365",
     "_type": "option",
-    "value": "10365",
-    "text": "Watford Magistrates'"
+    "text": "Watford Magistrates'",
+    "value": "10365"
   },
   {
     "_id": "court_code_779559",
     "_type": "option",
-    "value": "779559",
-    "text": "Welch Language Unit"
+    "text": "Welch Language Unit",
+    "value": "779559"
   },
   {
     "_id": "court_code_1008",
     "_type": "option",
-    "value": "1008",
-    "text": "Welfare of Animals"
+    "text": "Welfare of Animals",
+    "value": "1008"
   },
   {
     "_id": "court_code_10366",
     "_type": "option",
-    "value": "10366",
-    "text": "Wellingborough Magistrates'"
+    "text": "Wellingborough Magistrates'",
+    "value": "10366"
   },
   {
     "_id": "court_code_366",
     "_type": "option",
-    "value": "366",
-    "text": "Welshpool County & Family Court"
+    "text": "Welshpool County & Family Court",
+    "value": "366"
   },
   {
     "_id": "court_code_10368",
     "_type": "option",
-    "value": "10368",
-    "text": "Welshpool Magistrates'"
+    "text": "Welshpool Magistrates'",
+    "value": "10368"
   },
   {
     "_id": "court_code_373",
     "_type": "option",
-    "value": "373",
-    "text": "West Cumbria County"
+    "text": "West Cumbria County",
+    "value": "373"
   },
   {
     "_id": "court_code_779329",
     "_type": "option",
-    "value": "779329",
-    "text": "West London Family Court"
+    "text": "West London Family Court",
+    "value": "779329"
   },
   {
     "_id": "court_code_6041",
     "_type": "option",
-    "value": "6041",
-    "text": "West Mercia Enforcement Office"
+    "text": "West Mercia Enforcement Office",
+    "value": "6041"
   },
   {
     "_id": "court_code_6042",
     "_type": "option",
-    "value": "6042",
-    "text": "West Midlands Central Finance Unit"
+    "text": "West Midlands Central Finance Unit",
+    "value": "6042"
   },
   {
     "_id": "court_code_6043",
     "_type": "option",
-    "value": "6043",
-    "text": "West Midlands Enforcement Office"
+    "text": "West Midlands Enforcement Office",
+    "value": "6043"
   },
   {
     "_id": "court_code_6044",
     "_type": "option",
-    "value": "6044",
-    "text": "West Yorkshire Enforcement Office"
+    "text": "West Yorkshire Enforcement Office",
+    "value": "6044"
   },
   {
     "_id": "court_code_10421",
     "_type": "option",
-    "value": "10421",
-    "text": "Westminster Magistrates'"
+    "text": "Westminster Magistrates'",
+    "value": "10421"
   },
   {
     "_id": "court_code_370",
     "_type": "option",
-    "value": "370",
-    "text": "Weston Super Mare County"
+    "text": "Weston Super Mare County",
+    "value": "370"
   },
   {
     "_id": "court_code_10371",
     "_type": "option",
-    "value": "10371",
-    "text": "Weston Super Mare Magistrates'"
+    "text": "Weston Super Mare Magistrates'",
+    "value": "10371"
   },
   {
     "_id": "court_code_371",
     "_type": "option",
-    "value": "371",
-    "text": "Weymouth County"
+    "text": "Weymouth County",
+    "value": "371"
   },
   {
     "_id": "court_code_10373",
     "_type": "option",
-    "value": "10373",
-    "text": "Weymouth Magistrates'"
+    "text": "Weymouth Magistrates'",
+    "value": "10373"
   },
   {
     "_id": "court_code_374",
     "_type": "option",
-    "value": "374",
-    "text": "Wigan County"
+    "text": "Wigan County",
+    "value": "374"
   },
   {
     "_id": "court_code_10378",
     "_type": "option",
-    "value": "10378",
-    "text": "Wigan Magistrates'"
+    "text": "Wigan Magistrates'",
+    "value": "10378"
   },
   {
     "_id": "court_code_10058",
     "_type": "option",
-    "value": "10058",
-    "text": "Willesden (Brent) Magistrates'"
+    "text": "Willesden (Brent) Magistrates'",
+    "value": "10058"
   },
   {
     "_id": "court_code_375",
     "_type": "option",
-    "value": "375",
-    "text": "Willesden County"
+    "text": "Willesden County",
+    "value": "375"
   },
   {
     "_id": "court_code_10379",
     "_type": "option",
-    "value": "10379",
-    "text": "Wimbledon Magistrates'"
+    "text": "Wimbledon Magistrates'",
+    "value": "10379"
   },
   {
     "_id": "court_code_376",
     "_type": "option",
-    "value": "376",
-    "text": "Winchester County"
+    "text": "Winchester County",
+    "value": "376"
   },
   {
     "_id": "court_code_465",
     "_type": "option",
-    "value": "465",
-    "text": "Winchester Crown"
+    "text": "Winchester Crown",
+    "value": "465"
   },
   {
     "_id": "court_code_5013",
     "_type": "option",
-    "value": "5013",
-    "text": "Winchester Probate"
+    "text": "Winchester Probate",
+    "value": "5013"
   },
   {
     "_id": "court_code_779544",
     "_type": "option",
-    "value": "779544",
-    "text": "Wirral Magistrates'"
+    "text": "Wirral Magistrates'",
+    "value": "779544"
   },
   {
     "_id": "court_code_378",
     "_type": "option",
-    "value": "378",
-    "text": "Wolverhampton County"
+    "text": "Wolverhampton County",
+    "value": "378"
   },
   {
     "_id": "court_code_421",
     "_type": "option",
-    "value": "421",
-    "text": "Wolverhampton Crown"
+    "text": "Wolverhampton Crown",
+    "value": "421"
   },
   {
     "_id": "court_code_10385",
     "_type": "option",
-    "value": "10385",
-    "text": "Wolverhampton Magistrates'"
+    "text": "Wolverhampton Magistrates'",
+    "value": "10385"
   },
   {
     "_id": "court_code_1003",
     "_type": "option",
-    "value": "1003",
-    "text": "Wolverhampton SSCS"
+    "text": "Wolverhampton SSCS",
+    "value": "1003"
   },
   {
     "_id": "court_code_469",
     "_type": "option",
-    "value": "469",
-    "text": "Wood Green Crown"
+    "text": "Wood Green Crown",
+    "value": "469"
   },
   {
     "_id": "court_code_472",
     "_type": "option",
-    "value": "472",
-    "text": "Woolwich Crown"
+    "text": "Woolwich Crown",
+    "value": "472"
   },
   {
     "_id": "court_code_380",
     "_type": "option",
-    "value": "380",
-    "text": "Worcester County"
+    "text": "Worcester County",
+    "value": "380"
   },
   {
     "_id": "court_code_466",
     "_type": "option",
-    "value": "466",
-    "text": "Worcester Crown"
+    "text": "Worcester Crown",
+    "value": "466"
   },
   {
     "_id": "court_code_10387",
     "_type": "option",
-    "value": "10387",
-    "text": "Worcester Magistrates'"
+    "text": "Worcester Magistrates'",
+    "value": "10387"
   },
   {
     "_id": "court_code_10388",
     "_type": "option",
-    "value": "10388",
-    "text": "Workington Magistrates'"
+    "text": "Workington Magistrates'",
+    "value": "10388"
   },
   {
     "_id": "court_code_383",
     "_type": "option",
-    "value": "383",
-    "text": "Worthing County"
+    "text": "Worthing County",
+    "value": "383"
   },
   {
     "_id": "court_code_10390",
     "_type": "option",
-    "value": "10390",
-    "text": "Worthing Magistrates'"
+    "text": "Worthing Magistrates'",
+    "value": "10390"
   },
   {
     "_id": "court_code_384",
     "_type": "option",
-    "value": "384",
-    "text": "Wrexham Civil & Family Court"
+    "text": "Wrexham Civil & Family Court",
+    "value": "384"
   },
   {
     "_id": "court_code_10750",
     "_type": "option",
-    "value": "10750",
-    "text": "Wrexham Magistrates'"
+    "text": "Wrexham Magistrates'",
+    "value": "10750"
   },
   {
     "_id": "court_code_10392",
     "_type": "option",
-    "value": "10392",
-    "text": "Wycombe Magistrates'"
+    "text": "Wycombe Magistrates'",
+    "value": "10392"
   },
   {
     "_id": "court_code_981",
     "_type": "option",
-    "value": "981",
-    "text": "Yarls Wood IA"
+    "text": "Yarls Wood IA",
+    "value": "981"
   },
   {
     "_id": "court_code_385",
     "_type": "option",
-    "value": "385",
-    "text": "Yeovil County"
+    "text": "Yeovil County",
+    "value": "385"
   },
   {
     "_id": "court_code_10394",
     "_type": "option",
-    "value": "10394",
-    "text": "Yeovil Magistrates'"
+    "text": "Yeovil Magistrates'",
+    "value": "10394"
   },
   {
     "_id": "court_code_386",
     "_type": "option",
-    "value": "386",
-    "text": "York County"
+    "text": "York County",
+    "value": "386"
   },
   {
     "_id": "court_code_467",
     "_type": "option",
-    "value": "467",
-    "text": "York Crown"
+    "text": "York Crown",
+    "value": "467"
   },
   {
     "_id": "court_code_10395",
     "_type": "option",
-    "value": "10395",
-    "text": "York Magistrates'"
+    "text": "York Magistrates'",
+    "value": "10395"
   }
 ]

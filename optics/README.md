@@ -13,3 +13,7 @@
 This will update the autocomplete items on the location page (`metadata/page/page.location.json`).
 
 NB. any changes will need to be manually committed to Git.
+
+## Excluding items
+
+Add any name and/or value of items to exclude to `OPTIC-exclude.txt`

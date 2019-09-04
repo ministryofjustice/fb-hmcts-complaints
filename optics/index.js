@@ -3,6 +3,10 @@ const path = require('path')
 const neatCsv = require('neat-csv')
 
 const processFile = async (file) => {
+  const excludes = fs.readFileSync('./OPTIC-exclude.txt').toString()
+    .split('\n')
+    .map(item => item.trim())
+
   let fileBuffer = fs.readFileSync(file).toString()
   fileBuffer = `,NAME,CODE,NOTES\n${fileBuffer}`
   const csvData = await neatCsv(fileBuffer)
@@ -20,12 +24,16 @@ const processFile = async (file) => {
       return false
     }
     return true
-  }).map(item => ({
-    _id: `court_code_${item.CODE.replace(/\s+/g, '_')}`,
-    _type: 'option',
-    value: item.CODE,
-    text: item.NAME
-  }))
+  })
+    .filter(item => {
+      return !excludes.includes(item.NAME) && !excludes.includes(item.CODE)
+    })
+    .map(item => ({
+      _id: `court_code_${item.CODE.replace(/\s+/g, '_')}`,
+      _type: 'option',
+      text: item.NAME,
+      value: item.CODE
+    }))
     .sort((a, b) => {
       if (a.text < b.text) {
         return -1
@@ -43,7 +51,7 @@ const processFile = async (file) => {
   courtsList.unshift({
     _id: 'court_code__default',
     _type: 'option',
-    text: 'Select a court',
+    text: 'Select a court or tribunal',
     value: ''
   })
 
