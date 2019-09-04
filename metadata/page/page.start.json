@@ -2,21 +2,11 @@
   "_id": "page.start",
   "_type": "page.start",
   "body": "You cannot use this form to complain about:\r\n\r\n* the result of a case\r\n* a judge, magistrate, coroner or member of a tribunal",
-  "extraComponents": [
-    {
-      "_id": "page.start--content",
-      "_type": "content",
-      "html": "Your complaint will not affect the result of your case."
-    }
-  ],
   "heading": "Complain about a court or tribunal service",
-  "lede": "Use this form to complain about a bad experience at a court or tribunal.",
+  "lede": "Your complaint will not affect the result of your case.",
   "steps": [
-    "page.your-name",
     "page.email",
     "page.address",
-    "page.do-you-have-a-case-number",
-    "page.case-number",
     "page.complaint",
     "page.location",
     "page.documents-to-support-your-complaint",

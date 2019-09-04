@@ -19,7 +19,7 @@
           "value": "complaint_evidence_no"
         }
       ],
-      "legend": "Do you want to send documents or photos to support your complaint?",
+      "legend": "Would you like to send any documents as part of your complaint?",
       "name": "complaint_evidence"
     }
   ],
