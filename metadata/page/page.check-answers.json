@@ -2,6 +2,5 @@
   "_id": "page.check-answers",
   "_type": "page.summary",
   "sendBody": "Make sure the information you've provided is correct.",
-  "sendHeading": "Send your complaint",
   "url": "check-answers"
 }
