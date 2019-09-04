@@ -1010,12 +1010,6 @@
           "value": "10111"
         },
         {
-          "_id": "court_code_MODELCT478747",
-          "_type": "option",
-          "text": "Customer Investigation Team",
-          "value": "MODELCT478747"
-        },
-        {
           "_id": "court_code_10113",
           "_type": "option",
           "text": "Cwmbran Magistrates'",
@@ -1038,12 +1032,6 @@
           "_type": "option",
           "text": "Dartford County",
           "value": "184"
-        },
-        {
-          "_id": "court_code_DATAINCIDENT",
-          "_type": "option",
-          "text": "Data Incident Team",
-          "value": "DATAINCIDENT"
         },
         {
           "_id": "court_code_185",
@@ -2150,18 +2138,6 @@
           "value": "779144"
         },
         {
-          "_id": "court_code_714",
-          "_type": "option",
-          "text": "National Taxing Team - Birmingham ",
-          "value": "714"
-        },
-        {
-          "_id": "court_code_715",
-          "_type": "option",
-          "text": "National Taxing Team - Manchester",
-          "value": "715"
-        },
-        {
           "_id": "court_code_910",
           "_type": "option",
           "text": "Newcastle ET",
@@ -2454,12 +2430,6 @@
           "_type": "option",
           "text": "PCOL",
           "value": "110"
-        },
-        {
-          "_id": "court_code_PECS",
-          "_type": "option",
-          "text": "PECS Team",
-          "value": "PECS"
         },
         {
           "_id": "court_code_999",
@@ -2784,12 +2754,6 @@
           "_type": "option",
           "text": "Senior Courts Costs Office",
           "value": "623"
-        },
-        {
-          "_id": "court_code_SERVASSURANCE",
-          "_type": "option",
-          "text": "Service Assurance Team",
-          "value": "SERVASSURANCE"
         },
         {
           "_id": "court_code_10303",

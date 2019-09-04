@@ -23,8 +23,8 @@ const processFile = async (file) => {
   }).map(item => ({
     _id: `court_code_${item.CODE.replace(/\s+/g, '_')}`,
     _type: 'option',
-    value: item.CODE,
-    text: item.NAME
+    text: item.NAME,
+    value: item.CODE
   }))
     .sort((a, b) => {
       if (a.text < b.text) {
@@ -43,7 +43,7 @@ const processFile = async (file) => {
   courtsList.unshift({
     _id: 'court_code__default',
     _type: 'option',
-    text: 'Select a court',
+    text: 'Select a court or tribunal',
     value: ''
   })
 
