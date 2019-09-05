@@ -10,6 +10,13 @@
       "name": "email_address"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.email--details",
+      "_type": "details",
+      "summary": "I do not have an email address"
+    }
+  ],
   "show": true,
   "url": "email"
 }
