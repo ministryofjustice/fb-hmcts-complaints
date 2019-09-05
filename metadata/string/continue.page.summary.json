@@ -2,6 +2,6 @@
   "_id": "continue.page.summary",
   "_type": "string",
   "description": "Default text for summary page primary action",
-  "value": "Send complaint",
+  "value": "Send your complaint",
   "value:cy": "Derbyn ac anfon cais"
 }
