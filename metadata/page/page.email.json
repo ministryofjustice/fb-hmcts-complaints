@@ -14,6 +14,7 @@
     {
       "_id": "page.email--details",
       "_type": "details",
+      "html": "[Contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly by phone or letter if you do not have an email address",
       "summary": "I do not have an email address"
     }
   ],
