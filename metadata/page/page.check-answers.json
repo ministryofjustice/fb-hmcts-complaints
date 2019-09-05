@@ -1,6 +1,7 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
+  "sendBody": "",
   "sendHeading": "",
   "url": "check-answers"
 }
