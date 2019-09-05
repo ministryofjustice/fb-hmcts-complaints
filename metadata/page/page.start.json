@@ -6,7 +6,6 @@
   "lede": "Your complaint will not affect the result of your case.",
   "steps": [
     "page.email",
-    "page.address",
     "page.complaint",
     "page.location",
     "page.documents-to-support-your-complaint",
