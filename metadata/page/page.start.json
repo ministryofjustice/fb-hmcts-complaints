@@ -13,6 +13,7 @@
     "page.address",
     "page.contact-address",
     "page.phone",
+    "page.phone-number",
     "page.check-answers",
     "page.complaint-sent"
   ],

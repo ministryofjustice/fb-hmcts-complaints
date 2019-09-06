@@ -1,0 +1,20 @@
+{
+  "_id": "page.phone-number",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.phone-number--text.auto_name__5",
+      "_type": "text",
+      "hint": "We'll only use this to contact you about your complaint",
+      "label": "Your phone number",
+      "name": "your_phone_number",
+      "widthClassInput": "20"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
+  "url": "phone-number"
+}

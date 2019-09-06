@@ -41,6 +41,7 @@
     }
   ],
   "heading": "Contact address",
+  "lede": "We'll only use this to contact you about your complaint",
   "show": {
     "identifier": "auto_name__3",
     "operator": "is",
