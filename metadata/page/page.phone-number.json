@@ -5,7 +5,6 @@
     {
       "_id": "page.phone-number--text.auto_name__5",
       "_type": "text",
-      "hint": "We'll only use this to contact you about your complaint",
       "label": "Your phone number",
       "name": "your_phone_number",
       "widthClassInput": "full"

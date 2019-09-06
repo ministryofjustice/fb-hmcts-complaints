@@ -40,8 +40,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "Contact address",
-  "lede": "We'll only use this to contact you about your complaint",
+  "heading": "Your address",
   "show": {
     "identifier": "auto_name__3",
     "operator": "is",
