@@ -23,5 +23,19 @@
       "name": "auto_name__4"
     }
   ],
+  "show": {
+    "all": [
+      {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "auto_value__2"
+      },
+      {
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__3"
+      }
+    ]
+  },
   "url": "phone"
 }

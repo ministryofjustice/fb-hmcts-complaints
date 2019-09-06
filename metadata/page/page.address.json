@@ -23,5 +23,10 @@
       "name": "auto_name__3"
     }
   ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
   "url": "address"
 }
