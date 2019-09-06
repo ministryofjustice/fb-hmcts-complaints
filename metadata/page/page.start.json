@@ -11,9 +11,9 @@
     "page.email",
     "page.email-address",
     "page.address",
+    "page.contact-address",
     "page.check-answers",
-    "page.complaint-sent",
-    "page.contact-address"
+    "page.complaint-sent"
   ],
   "url": "/"
 }

@@ -15,11 +15,11 @@
         {
           "_id": "page.email--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
-          "label": "No",
+          "label": "No, I don't have an email address",
           "value": "auto_value__2"
         }
       ],
-      "legend": "Do you have an email address to contact you about your complaint?",
+      "legend": "Should we contact you about your complaint by email?",
       "name": "auto_name__1"
     }
   ],
