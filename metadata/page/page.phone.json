@@ -1,0 +1,27 @@
+{
+  "_id": "page.phone",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.phone--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.phone--radios.auto_name__4--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.phone--radios.auto_name__4--radio.auto_value__5",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "Should we contact you about your complaint by phone?",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "phone"
+}
