@@ -5,7 +5,7 @@
     {
       "_id": "page.document-upload--fileupload.auto_name__1",
       "_type": "fileupload",
-      "hint": "You can upload your documents as scanned copies or photos of the originals.",
+      "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
       "maxFiles": 20,
       "minFiles": 1,
