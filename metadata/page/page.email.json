@@ -3,21 +3,25 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.email--email.auto_name__1",
-      "_type": "email",
-      "hint": "We'll only use this to contact you about your complaint",
-      "label": "Your email address",
-      "name": "email_address"
+      "_id": "page.email--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.email--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.email--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you have an email address to contact you about your complaint?",
+      "name": "auto_name__1"
     }
   ],
-  "extraComponents": [
-    {
-      "_id": "page.email--details",
-      "_type": "details",
-      "html": "[Contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly by phone or letter if you do not have an email address",
-      "summary": "I do not have an email address"
-    }
-  ],
-  "show": true,
   "url": "email"
 }

@@ -1,0 +1,27 @@
+{
+  "_id": "page.address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.address--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.address--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.address--radios.auto_name__3--radio.auto_value__3",
+          "_type": "radio",
+          "label": "No, I don't have a fixed or permanent address",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "Do you have an address to contact you about your complaint?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "address"
+}

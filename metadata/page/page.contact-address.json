@@ -1,0 +1,45 @@
+{
+  "_id": "page.contact-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.contact-address--text.auto_name__4",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "building_street"
+    },
+    {
+      "_id": "page.contact-address--text.auto_name__5",
+      "_type": "text",
+      "label": "Building and street line 2",
+      "labelhide": true,
+      "name": "building_street_2"
+    },
+    {
+      "_id": "page.contact-address--text.auto_name__4--2",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "town_city",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.contact-address--text.auto_name__5--2",
+      "_type": "text",
+      "label": "County",
+      "name": "county",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.contact-address--text.auto_name__6",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "postcode",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "Contact address",
+  "url": "contact-address"
+}

@@ -5,12 +5,15 @@
   "heading": "Complain about a court or tribunal service",
   "lede": "Your complaint will not affect the result of your case.",
   "steps": [
-    "page.email",
     "page.complaint",
     "page.location",
     "page.documents-to-support-your-complaint",
+    "page.email",
+    "page.email-address",
+    "page.address",
     "page.check-answers",
-    "page.complaint-sent"
+    "page.complaint-sent",
+    "page.contact-address"
   ],
   "url": "/"
 }

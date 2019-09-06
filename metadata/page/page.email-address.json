@@ -1,0 +1,18 @@
+{
+  "_id": "page.email-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.email-address--email.auto_name__2",
+      "_type": "email",
+      "label": "Your email address",
+      "name": "auto_name__2"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "email-address"
+}
