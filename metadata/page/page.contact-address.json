@@ -13,7 +13,10 @@
       "_type": "text",
       "label": "Building and street line 2",
       "labelhide": true,
-      "name": "building_street_2"
+      "name": "building_street_2",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.contact-address--text.auto_name__4--2",
