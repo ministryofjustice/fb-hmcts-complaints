@@ -1,7 +1,7 @@
 {
   "_id": "page.no-contact-method",
   "_type": "page.form",
-  "body": "You'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly to check the progress of your complaint.",
+  "body": "If you want to check the progress of your complaint, you'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly.",
   "heading": "We have no way of contacting you about your complaint",
   "show": {
     "all": [
