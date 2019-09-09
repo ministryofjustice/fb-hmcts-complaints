@@ -1,7 +1,7 @@
 {
   "_id": "page.complaint-sent",
   "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\n## What happens next\r\n\r\nWe try to respond to all complaints within 10 working days. \r\n\r\nTo check the progress of your complaint, [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) you're complaining about.",
+  "body": "We have sent you a confirmation email.\r\n\r\n## What happens next\r\n\r\nWe try to respond to all complaints within 10 working days. \r\n\r\nTo check the progress of your complaint, [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) your complaint is about.",
   "heading": "Complaint sent",
   "url": "complaint-sent"
 }
