@@ -3,12 +3,20 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.contact-address--text.auto_name__4",
       "_type": "text",
       "label": "Building and street",
       "name": "building_street"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.contact-address--text.auto_name__5",
       "_type": "text",
       "label": "Building and street line 2",
@@ -19,6 +27,10 @@
       }
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.contact-address--text.auto_name__4--2",
       "_type": "text",
       "label": "Town or city",
@@ -26,6 +38,10 @@
       "widthClassInput": "two-thirds"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.contact-address--text.auto_name__5--2",
       "_type": "text",
       "label": "County",
@@ -36,11 +52,22 @@
       "widthClassInput": "two-thirds"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.contact-address--text.auto_name__6",
       "_type": "text",
       "label": "Postcode",
       "name": "postcode",
       "widthClassInput": "10"
+    }
+  ],
+  "extraComponents": [
+    {
+      "_id": "page.contact-address--content",
+      "_type": "content",
+      "html": "[I do not have a fixed or permanent address](/phone-number)"
     }
   ],
   "heading": "Your address",
