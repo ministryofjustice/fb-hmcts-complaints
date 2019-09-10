@@ -1,6 +1,6 @@
 {
-  "_id": "page.no-way-to-contact",
-  "_type": "page.content",
+  "_id": "page.no-contact-method",
+  "_type": "page.exit",
   "body": "You'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) your complaint is about directly.",
   "heading": "We have no way of contacting you about your complaint",
   "show": {
@@ -22,5 +22,5 @@
       }
     ]
   },
-  "url": "no-way-to-contact"
+  "url": "no-contact-method"
 }
