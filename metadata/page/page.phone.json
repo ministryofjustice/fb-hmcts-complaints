@@ -15,7 +15,7 @@
         {
           "_id": "page.phone--radios.auto_name__4--radio.auto_value__5",
           "_type": "radio",
-          "label": "No",
+          "label": "No, I don't have a phone",
           "value": "auto_value__5"
         }
       ],
