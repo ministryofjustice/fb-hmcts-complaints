@@ -5,6 +5,11 @@
     {
       "_id": "page.email-address--email.auto_name__2",
       "_type": "email",
+      "errors": {
+        "required": {
+          "any": "Enter an email address {control}"
+        }
+      },
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your email address",
       "name": "auto_name__2"
