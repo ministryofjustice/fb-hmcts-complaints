@@ -12,12 +12,12 @@
     "page.contact-address",
     "page.phone",
     "page.phone-number",
+    "page.no-way-to-contact",
     "page.complaint",
     "page.location",
     "page.documents-to-support-your-complaint",
     "page.check-answers",
-    "page.complaint-sent",
-    "page.no-way-to-contact"
+    "page.complaint-sent"
   ],
   "url": "/"
 }
