@@ -16,10 +16,6 @@
       "html": "[I do not have an email address](/to/where/)"
     }
   ],
-  "show": {
-    "identifier": "auto_name__1",
-    "operator": "is",
-    "value": "auto_value__1"
-  },
+  "show": true,
   "url": "email-address"
 }

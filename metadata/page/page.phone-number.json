@@ -10,10 +10,6 @@
       "widthClassInput": "full"
     }
   ],
-  "show": {
-    "identifier": "auto_name__4",
-    "operator": "is",
-    "value": "auto_value__4"
-  },
+  "show": true,
   "url": "phone-number"
 }
