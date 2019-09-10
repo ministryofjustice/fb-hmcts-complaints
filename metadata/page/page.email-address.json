@@ -9,6 +9,13 @@
       "name": "auto_name__2"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.email-address--content",
+      "_type": "content",
+      "html": "[I do not have an email address](/to/where/)"
+    }
+  ],
   "show": {
     "identifier": "auto_name__1",
     "operator": "is",
