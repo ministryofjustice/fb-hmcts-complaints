@@ -71,6 +71,7 @@
     }
   ],
   "heading": "Your address",
+  "lede": "We'll only use this to contact you about your complaint",
   "show": true,
   "url": "address"
 }
