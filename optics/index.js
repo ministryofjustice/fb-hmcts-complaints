@@ -8,7 +8,7 @@ const processFile = async (file) => {
     .map(item => item.trim())
 
   let fileBuffer = fs.readFileSync(file).toString()
-  fileBuffer = `,NAME,CODE,NOTES\n${fileBuffer}`
+  fileBuffer = `,,CODE,NAME,NOTES,COMMENTS\n${fileBuffer}`
   const csvData = await neatCsv(fileBuffer)
   const courtsList = csvData.filter(item => {
     if (!item.NAME) {
@@ -21,6 +21,9 @@ const processFile = async (file) => {
       return false
     }
     if (item.NOTES.match(/deleted|removed/i)) {
+      return false
+    }
+    if (item.COMMENTS.match(/delete|remove/i)) {
       return false
     }
     return true
@@ -43,10 +46,6 @@ const processFile = async (file) => {
       }
       return 0
     })
-  // .map(item => {
-  //   item.text = item.text.replace(/Magistrates'/, 'Magistrates')
-  //   return item
-  // })
 
   courtsList.unshift({
     _id: 'court_code__default',
