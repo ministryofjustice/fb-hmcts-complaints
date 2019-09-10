@@ -3,7 +3,7 @@
   "_type": "page.start",
   "body": "You cannot use this form to complain about:\r\n\r\n* the result of a case\r\n* a judge, magistrate, coroner or member of a tribunal",
   "heading": "Complain about a court or tribunal service",
-  "lede": "Your complaint will not affect the result of your case.",
+  "lede": "Your complaint will not affect your case.",
   "steps": [
     "page.name",
     "page.email-address",
