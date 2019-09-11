@@ -12,7 +12,7 @@
       },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
-      "maxFiles": null,
+      "maxFiles": 0,
       "minFiles": 1,
       "name": "evidence_upload"
     }
