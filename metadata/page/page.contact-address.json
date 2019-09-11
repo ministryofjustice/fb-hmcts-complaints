@@ -88,7 +88,7 @@
   "heading": "Your address",
   "lede": "We'll only use this to contact you about your complaint",
   "show": {
-    "identifier": "auto_name__2",
+    "identifier": "email_address",
     "negated": true,
     "operator": "defined"
   },

@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your phone number",
-      "name": "your_phone_number",
+      "name": "phone_number",
       "widthClassInput": "full"
     }
   ],
@@ -21,7 +21,7 @@
   "show": {
     "all": [
       {
-        "identifier": "auto_name__2",
+        "identifier": "email_address",
         "negated": true,
         "operator": "defined"
       },

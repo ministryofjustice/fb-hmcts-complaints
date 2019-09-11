@@ -1,12 +1,12 @@
 {
   "_id": "page.no-contact-method",
   "_type": "page.exit",
-  "body": "You'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) where the problem happened.",
+  "body": "You'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly about your complaint.",
   "heading": "We have no way of contacting you about your complaint",
   "show": {
     "all": [
       {
-        "identifier": "auto_name__2",
+        "identifier": "email_address",
         "negated": true,
         "operator": "defined"
       },
@@ -36,7 +36,7 @@
         "operator": "defined"
       },
       {
-        "identifier": "your_phone_number",
+        "identifier": "phone_number",
         "negated": true,
         "operator": "defined"
       }

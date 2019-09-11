@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your full name",
-      "name": "auto_name__5"
+      "name": "full_name"
     }
   ],
   "url": "full-name"

@@ -13,7 +13,7 @@
       },
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your email address",
-      "name": "auto_name__2"
+      "name": "email_address"
     }
   ],
   "extraComponents": [
