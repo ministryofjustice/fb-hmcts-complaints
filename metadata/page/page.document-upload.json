@@ -18,9 +18,9 @@
     }
   ],
   "show": {
-    "identifier": "complaint_evidence",
+    "identifier": "complaint_support_documents",
     "operator": "is",
-    "value": "complaint_evidence_yes"
+    "value": "complaint_support_documents_yes"
   },
   "url": "upload-documents"
 }

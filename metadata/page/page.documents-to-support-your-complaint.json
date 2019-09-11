@@ -15,17 +15,17 @@
           "_id": "page.documents-to-support-your-complaint--radios.auto_name__4--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "complaint_evidence_yes"
+          "value": "complaint_support_documents_yes"
         },
         {
           "_id": "page.documents-to-support-your-complaint--radios.auto_name__4--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "complaint_evidence_no"
+          "value": "complaint_support_documents_no"
         }
       ],
       "legend": "Would you like to send any documents as part of your complaint?",
-      "name": "complaint_evidence"
+      "name": "complaint_support_documents"
     }
   ],
   "enableSteps": true,
