@@ -5,6 +5,7 @@
     {
       "_id": "page.document-upload--fileupload.auto_name__1",
       "_type": "fileupload",
+      "accept": "The selected file must be a JPG, BMP, PNG, TIF, PDF, DOC or DOCX",
       "errors": {
         "required": {
           "any": "Select a document"
