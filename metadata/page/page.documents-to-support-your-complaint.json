@@ -32,5 +32,5 @@
   "steps": [
     "page.document-upload"
   ],
-  "url": "documents-as-part-of-complaint"
+  "url": "complaint-documents"
 }

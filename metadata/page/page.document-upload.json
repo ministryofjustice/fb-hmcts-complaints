@@ -22,5 +22,5 @@
     "operator": "is",
     "value": "complaint_support_documents_yes"
   },
-  "url": "/upload-documents"
+  "url": "/upload"
 }
