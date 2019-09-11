@@ -18,6 +18,39 @@
       "html": "[I do not have a phone number](/we-have-no-way-to-contact-you)"
     }
   ],
-  "show": true,
+  "show": {
+    "all": [
+      {
+        "identifier": "auto_name__2",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "building_street",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "building_street_2",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "town_city",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "county",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "postcode",
+        "negated": true,
+        "operator": "defined"
+      }
+    ]
+  },
   "url": "phone-number"
 }
