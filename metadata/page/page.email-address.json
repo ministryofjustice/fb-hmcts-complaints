@@ -6,12 +6,9 @@
       "_id": "page.email-address--email.auto_name__2",
       "_type": "email",
       "errors": {
-        "format": {
-          "summary": "Enter an email address in the correct format, like name@example.com"
-        },
+        "format": {},
         "required": {
-          "any": "Enter an email address",
-          "summary": "Enter an email address"
+          "any": "Enter an email address"
         }
       },
       "hint": "We'll only use this to contact you about your complaint",

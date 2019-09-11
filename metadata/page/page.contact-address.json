@@ -9,6 +9,11 @@
       "$field": true,
       "_id": "page.contact-address--text.auto_name__4",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter a building and street"
+        }
+      },
       "label": "Building and street",
       "name": "building_street"
     },
