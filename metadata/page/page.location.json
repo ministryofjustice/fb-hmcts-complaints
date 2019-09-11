@@ -5,6 +5,11 @@
     {
       "_id": "page.location--text.auto_name__4",
       "_type": "autocomplete",
+      "errors": {
+        "required": {
+          "any": "Select a court or tribunal"
+        }
+      },
       "hint": "For example, Barnet County",
       "items": [
         {
