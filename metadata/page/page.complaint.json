@@ -5,6 +5,11 @@
     {
       "_id": "page.complaint--textarea.auto_name__3",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "any": "Enter a complaint"
+        }
+      },
       "hint": "Give as much detail as you can, including dates if you know them",
       "label": "Your complaint",
       "name": "complaint_details"
