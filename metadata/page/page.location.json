@@ -7,7 +7,7 @@
       "_type": "autocomplete",
       "errors": {
         "required": {
-          "any": "Select a court or tribunal"
+          "any": "Enter a court or tribunal"
         }
       },
       "hint": "For example, Barnet County",
@@ -3601,5 +3601,5 @@
       "name": "complaint_location"
     }
   ],
-  "url": "court-tribunal-name"
+  "url": "court-tribunal"
 }
