@@ -1,14 +1,20 @@
 {
   "_id": "page.name",
-  "_type": "page.singlequestion",
+  "_type": "page.form",
   "components": [
     {
-      "_id": "page.name--text.auto_name__5",
+      "_id": "page.name--text.auto_name__1",
       "_type": "text",
-      "hint": "We'll only use this to contact you about your complaint",
-      "label": "Your full name",
-      "name": "full_name"
+      "label": "First name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.name--text.auto_name__2",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__2"
     }
   ],
-  "url": "full-name"
+  "heading": "Your name",
+  "url": "name"
 }
