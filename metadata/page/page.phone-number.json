@@ -16,13 +16,6 @@
       "widthClassInput": "full"
     }
   ],
-  "extraComponents": [
-    {
-      "_id": "page.phone-number--content",
-      "_type": "content",
-      "html": "[I do not have a phone number](/no-way-to-contact-you)"
-    }
-  ],
   "show": {
     "all": [
       {

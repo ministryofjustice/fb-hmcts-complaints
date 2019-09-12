@@ -87,13 +87,6 @@
       "widthClassInput": "10"
     }
   ],
-  "extraComponents": [
-    {
-      "_id": "page.contact-address--content",
-      "_type": "content",
-      "html": "[I do not have a fixed or permanent address](/phone-number)"
-    }
-  ],
   "heading": "Your address",
   "lede": "We'll only use this to contact you about your complaint",
   "show": {
