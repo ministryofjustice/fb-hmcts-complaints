@@ -14,17 +14,9 @@
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your email address",
       "name": "email_address",
-      "optionalText": "&nbsp;",
       "validation": {
-        "required": false
+        "required": true
       }
-    }
-  ],
-  "extraComponents": [
-    {
-      "_id": "page.email-address--content",
-      "_type": "content",
-      "html": "[I do not have an email address](/address)"
     }
   ],
   "show": true,
