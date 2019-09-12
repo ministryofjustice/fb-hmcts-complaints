@@ -16,9 +16,8 @@
       },
       "label": "Building and street",
       "name": "building_street",
-      "optionalText": "&nbsp;",
       "validation": {
-        "required": false
+        "required": true
       }
     },
     {
@@ -49,9 +48,8 @@
       },
       "label": "Town or city",
       "name": "town_city",
-      "optionalText": "&nbsp;",
       "validation": {
-        "required": false
+        "required": true
       },
       "widthClassInput": "two-thirds"
     },
@@ -64,7 +62,6 @@
       "_type": "text",
       "label": "County",
       "name": "county",
-      "optionalText": "&nbsp;",
       "validation": {
         "required": false
       },
@@ -84,9 +81,8 @@
       },
       "label": "Postcode",
       "name": "postcode",
-      "optionalText": "&nbsp;",
       "validation": {
-        "required": false
+        "required": true
       },
       "widthClassInput": "10"
     }
