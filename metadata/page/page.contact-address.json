@@ -15,7 +15,10 @@
         }
       },
       "label": "Building and street",
-      "name": "building_street"
+      "name": "building_street",
+      "validation": {
+        "required": true
+      }
     },
     {
       "$component": true,
@@ -45,6 +48,9 @@
       },
       "label": "Town or city",
       "name": "town_city",
+      "validation": {
+        "required": true
+      },
       "widthClassInput": "two-thirds"
     },
     {
@@ -75,6 +81,9 @@
       },
       "label": "Postcode",
       "name": "postcode",
+      "validation": {
+        "required": true
+      },
       "widthClassInput": "10"
     }
   ],
