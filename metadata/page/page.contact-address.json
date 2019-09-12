@@ -16,12 +16,9 @@
       },
       "label": "Building and street",
       "name": "building_street",
+      "optionalText": "&nbsp;",
       "validation": {
-        "required": {
-          "identifier": "email_address",
-          "negated": true,
-          "operator": "defined"
-        }
+        "required": false
       }
     },
     {
@@ -35,11 +32,7 @@
       "labelhide": true,
       "name": "building_street_2",
       "validation": {
-        "required": {
-          "identifier": "email_address",
-          "negated": true,
-          "operator": "defined"
-        }
+        "required": false
       }
     },
     {
@@ -56,12 +49,9 @@
       },
       "label": "Town or city",
       "name": "town_city",
+      "optionalText": "&nbsp;",
       "validation": {
-        "required": {
-          "identifier": "email_address",
-          "negated": true,
-          "operator": "defined"
-        }
+        "required": false
       },
       "widthClassInput": "two-thirds"
     },
@@ -74,12 +64,9 @@
       "_type": "text",
       "label": "County",
       "name": "county",
+      "optionalText": "&nbsp;",
       "validation": {
-        "required": {
-          "identifier": "email_address",
-          "negated": true,
-          "operator": "defined"
-        }
+        "required": false
       },
       "widthClassInput": "two-thirds"
     },
@@ -97,12 +84,9 @@
       },
       "label": "Postcode",
       "name": "postcode",
+      "optionalText": "&nbsp;",
       "validation": {
-        "required": {
-          "identifier": "email_address",
-          "negated": true,
-          "operator": "defined"
-        }
+        "required": false
       },
       "widthClassInput": "10"
     }
