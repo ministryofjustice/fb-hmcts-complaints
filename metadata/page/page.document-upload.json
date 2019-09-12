@@ -16,10 +16,15 @@
       },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
+      "maxFiles": 10,
       "minFiles": 1,
       "name": "document_upload"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "complaint_support_documents",
+    "operator": "is",
+    "value": "complaint_support_documents_yes"
+  },
   "url": "/upload"
 }

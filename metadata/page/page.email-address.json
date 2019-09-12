@@ -19,6 +19,10 @@
       }
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "email_contact",
+    "operator": "is",
+    "value": "email_contact_yes"
+  },
   "url": "email-address"
 }

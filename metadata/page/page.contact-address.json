@@ -89,6 +89,10 @@
   ],
   "heading": "Your address",
   "lede": "We'll only use this to contact you about your complaint",
-  "show": true,
+  "show": {
+    "identifier": "post_contact",
+    "operator": "is",
+    "value": "post_contact_yes"
+  },
   "url": "address"
 }

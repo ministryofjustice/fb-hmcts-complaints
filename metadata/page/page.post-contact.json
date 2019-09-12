@@ -23,5 +23,6 @@
       "name": "post_contact"
     }
   ],
+  "show": true,
   "url": "post-contact"
 }

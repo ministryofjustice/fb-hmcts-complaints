@@ -3,6 +3,24 @@
   "_type": "page.exit",
   "body": "You'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly about your complaint.",
   "heading": "We have no way of contacting you about your complaint",
-  "show": true,
+  "show": {
+    "all": [
+      {
+        "identifier": "email_contact",
+        "operator": "is",
+        "value": "email_contact_no"
+      },
+      {
+        "identifier": "post_contact",
+        "operator": "is",
+        "value": "post_contact_no"
+      },
+      {
+        "identifier": "phone_contact",
+        "operator": "is",
+        "value": "phone_contact_no"
+      }
+    ]
+  },
   "url": "no-way-to-contact-you"
 }

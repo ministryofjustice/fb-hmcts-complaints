@@ -16,6 +16,10 @@
       "widthClassInput": "full"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "phone_contact",
+    "operator": "is",
+    "value": "phone_contact_yes"
+  },
   "url": "phone-number"
 }
