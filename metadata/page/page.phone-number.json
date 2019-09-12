@@ -15,7 +15,7 @@
     {
       "_id": "page.phone-number--content",
       "_type": "content",
-      "html": "[I do not have a phone number](/we-have-no-way-to-contact-you)"
+      "html": "[I do not have a phone number](/no-way-to-contact-you)"
     }
   ],
   "show": {
