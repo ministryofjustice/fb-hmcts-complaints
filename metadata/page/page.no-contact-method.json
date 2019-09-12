@@ -3,44 +3,6 @@
   "_type": "page.exit",
   "body": "You'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) directly about your complaint.",
   "heading": "We have no way of contacting you about your complaint",
-  "show": {
-    "all": [
-      {
-        "identifier": "email_address",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "building_street",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "building_street_2",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "town_city",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "county",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "postcode",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "phone_number",
-        "negated": true,
-        "operator": "defined"
-      }
-    ]
-  },
+  "show": true,
   "url": "no-way-to-contact-you"
 }

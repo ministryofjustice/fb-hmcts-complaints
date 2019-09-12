@@ -16,39 +16,6 @@
       "widthClassInput": "full"
     }
   ],
-  "show": {
-    "all": [
-      {
-        "identifier": "email_address",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "building_street",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "building_street_2",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "town_city",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "county",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "postcode",
-        "negated": true,
-        "operator": "defined"
-      }
-    ]
-  },
+  "show": true,
   "url": "phone-number"
 }

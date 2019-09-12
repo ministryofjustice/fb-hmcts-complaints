@@ -89,10 +89,6 @@
   ],
   "heading": "Your address",
   "lede": "We'll only use this to contact you about your complaint",
-  "show": {
-    "identifier": "email_address",
-    "negated": true,
-    "operator": "defined"
-  },
+  "show": true,
   "url": "address"
 }
