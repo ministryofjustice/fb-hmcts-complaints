@@ -15,5 +15,6 @@
       "name": "complaint_details"
     }
   ],
+  "show": true,
   "url": "your-complaint"
 }
