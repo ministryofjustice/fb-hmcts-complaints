@@ -15,7 +15,7 @@
       "label": "Your email address",
       "name": "email_address",
       "validation": {
-        "required": false
+        "required": true
       }
     }
   ],
