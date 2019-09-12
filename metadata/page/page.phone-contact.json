@@ -23,5 +23,20 @@
       "name": "phone_contact"
     }
   ],
+  "show": {
+    "all": [
+      {
+        "identifier": "email_contact",
+        "operator": "is",
+        "value": "email_contact_no"
+      },
+      {
+        "identifier": "post_contact",
+        "operator": "is",
+        "value": "post_contact_no"
+      }
+    ],
+    "conditionsType": "all"
+  },
   "url": "phone-contact"
 }

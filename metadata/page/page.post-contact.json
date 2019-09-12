@@ -23,6 +23,10 @@
       "name": "post_contact"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "email_contact",
+    "operator": "is",
+    "value": "email_contact_no"
+  },
   "url": "post-contact"
 }
