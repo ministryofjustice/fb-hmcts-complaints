@@ -14,8 +14,9 @@
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your email address",
       "name": "email_address",
+      "optionalText": "&nbsp;",
       "validation": {
-        "required": true
+        "required": false
       }
     }
   ],
