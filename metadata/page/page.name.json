@@ -13,9 +13,15 @@
       "_type": "text",
       "label": "Last name",
       "name": "last_name"
+    },
+    {
+      "_id": "page.name--text.auto_name__1--2",
+      "_type": "text",
+      "label": "Case number (if you have one)",
+      "name": "auto_name__1"
     }
   ],
-  "heading": "Your name",
+  "heading": "About you",
   "lede": "We'll only use this to contact you about your complaint",
   "url": "name"
 }
