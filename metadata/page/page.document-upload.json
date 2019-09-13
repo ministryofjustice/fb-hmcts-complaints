@@ -8,7 +8,7 @@
       "accept": [],
       "errors": {
         "fileupload.LIMIT_FILE_SIZE": {
-          "any": "File is too big"
+          "any": "The selected file must be smaller than 5MB"
         },
         "required": {
           "any": "Select a document"
