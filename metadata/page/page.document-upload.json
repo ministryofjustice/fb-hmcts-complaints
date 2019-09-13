@@ -8,7 +8,7 @@
       "accept": [],
       "errors": {
         "fileupload.LIMIT_FILE_SIZE": {
-          "any": "The selected file must be smaller than 5MB"
+          "any": "File is too big"
         },
         "required": {
           "any": "Select a document"
@@ -17,6 +17,7 @@
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
       "maxFiles": 10,
+      "maxSize": "5242880",
       "minFiles": 1,
       "name": "document_upload"
     }
