@@ -19,6 +19,7 @@
       "_type": "text",
       "label": "Case number",
       "name": "auto_name__1",
+      "optionalText": "(if you have one)",
       "validation": {
         "required": false
       }
