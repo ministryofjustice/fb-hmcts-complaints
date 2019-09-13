@@ -17,11 +17,13 @@
     {
       "_id": "page.name--text.auto_name__1--2",
       "_type": "text",
-      "label": "Case number (if you have one)",
-      "name": "auto_name__1"
+      "label": "Case number",
+      "name": "auto_name__1",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "About you",
-  "lede": "We'll only use this to contact you about your complaint",
   "url": "name"
 }
