@@ -10,7 +10,6 @@
           "any": "Enter a phone number"
         }
       },
-      "hint": "We'll only use this to contact you about your complaint",
       "label": "Your phone number",
       "name": "phone_number",
       "widthClassInput": "full"
