@@ -6,6 +6,7 @@
   "lede": "Your complaint will not affect your case.",
   "steps": [
     "page.name",
+    "page.do-you-have-a-case-number",
     "page.case-number",
     "page.email-contact",
     "page.email-address",
