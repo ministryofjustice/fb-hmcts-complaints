@@ -894,24 +894,6 @@
     "value": "390"
   },
   {
-    "_id": "court_code_804794",
-    "_type": "option",
-    "text": "County Court Money Claims Centre - Attachment of Earnings",
-    "value": "804794"
-  },
-  {
-    "_id": "court_code_804664",
-    "_type": "option",
-    "text": "County Court Money Claims Centre - Charging Orders",
-    "value": "804664"
-  },
-  {
-    "_id": "court_code_804679",
-    "_type": "option",
-    "text": "County Court Money Claims Centre - Help With Fee’s",
-    "value": "804679"
-  },
-  {
     "_id": "court_code_624",
     "_type": "option",
     "text": "Court Recording and Transcription Unit",
