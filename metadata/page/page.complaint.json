@@ -7,11 +7,14 @@
       "_type": "textarea",
       "errors": {
         "required": {
-          "any": "Enter a complaint"
+          "any": "Enter a complaint",
+          "any:cy": "WELSH: Enter a complaint"
         }
       },
       "hint": "Give as much detail as you can, including dates if you know them",
+      "hint:cy": "WELSH: Give as much detail as you can, including dates if you know them",
       "label": "Your complaint",
+      "label:cy": "WELSH: Your complaint",
       "name": "complaint_details"
     }
   ],

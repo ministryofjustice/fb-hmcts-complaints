@@ -8,14 +8,18 @@
       "accept": [],
       "errors": {
         "fileupload.LIMIT_FILE_SIZE": {
-          "any": "The selected file must be smaller than 5MB"
+          "any": "The selected file must be smaller than 5MB",
+          "any:cy": "WELSH: The selected file must be smaller than 5MB"
         },
         "required": {
-          "any": "Select a document"
+          "any": "Select a document",
+          "any:cy": "WELSH: Select a document"
         }
       },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
+      "hint:cy": "WELSH: You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
+      "label:cy": "WELSH: Upload documents",
       "maxFiles": 10,
       "maxSize": "5242880",
       "minFiles": 1,

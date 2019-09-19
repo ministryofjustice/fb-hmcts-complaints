@@ -7,10 +7,12 @@
       "_type": "text",
       "errors": {
         "required": {
-          "any": "Enter a phone number"
+          "any": "Enter a phone number",
+          "any:cy": "WELSH: Enter a phone number"
         }
       },
       "label": "Your phone number",
+      "label:cy": "WELSH: Your phone number",
       "name": "phone_number",
       "widthClassInput": "full"
     }

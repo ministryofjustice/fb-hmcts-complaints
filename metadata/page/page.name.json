@@ -10,6 +10,7 @@
       "_id": "page.name--text.auto_name__1",
       "_type": "text",
       "label": "First name",
+      "label:cy": "WELSH: First name",
       "name": "first_name"
     },
     {
@@ -20,9 +21,11 @@
       "_id": "page.name--text.auto_name__2",
       "_type": "text",
       "label": "Last name",
+      "label:cy": "WELSH: Last name",
       "name": "last_name"
     }
   ],
   "heading": "Your name",
+  "heading:cy": "WELSH: Your name",
   "url": "name"
 }
