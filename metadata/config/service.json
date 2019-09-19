@@ -3,6 +3,8 @@
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
   "name": "Complain about a court or tribunal service",
+  "name:cy": "WELSH: Complain about a court or tribunal service",
   "pdfHeading": "Complain about a court or tribunal service",
-  "phase": "none"
+  "phase": "none",
+  "languages": ["en", "cy"]
 }

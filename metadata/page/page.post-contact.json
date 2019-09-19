@@ -10,16 +10,19 @@
           "_id": "page.post-contact--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
+          "label:cy": "WELSH: Yes",
           "value": "post_contact_yes"
         },
         {
           "_id": "page.post-contact--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No, I do not have a fixed or permanent address",
+          "label": "WELSH: No, I do not have a fixed or permanent address",
           "value": "post_contact_no"
         }
       ],
       "legend": "Can we contact you about your complaint by post?",
+      "legend:cy": "WELSH: Can we contact you about your complaint by post?",
       "name": "post_contact"
     }
   ],

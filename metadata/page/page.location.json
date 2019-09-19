@@ -7,15 +7,18 @@
       "_type": "autocomplete",
       "errors": {
         "required": {
-          "any": "Enter a court or tribunal"
+          "any": "Enter a court or tribunal",
+          "any:cy": "WELSH: Enter a court or tribunal"
         }
       },
       "hint": "For example, Barnet County Court",
+      "hint:cy": "WELSH: For example, Barnet County Court",
       "items": [
         {
           "_id": "court_code__default",
           "_type": "option",
           "text": "Select a court or tribunal",
+          "text:cy": "WELSH: Select a court or tribunal",
           "value": ""
         },
         {
@@ -3572,6 +3575,7 @@
         }
       ],
       "label": "Court or tribunal your complaint is about",
+      "label:cy": "WELSH: Court or tribunal your complaint is about",
       "name": "complaint_location"
     }
   ],

@@ -8,10 +8,12 @@
       "errors": {
         "format": {},
         "required": {
-          "any": "Enter an email address"
+          "any": "Enter an email address",
+          "any:cy": "WELSH: Enter an email address"
         }
       },
       "label": "Your email address",
+      "label:cy": "WELSH: Your email address",
       "name": "email_address",
       "validation": {
         "required": true

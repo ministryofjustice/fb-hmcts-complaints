@@ -10,16 +10,19 @@
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
+          "label:cy": "WELSH: Yes",
           "value": "case_number_yes"
         },
         {
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
+          "label:cy": "WELSH: No",
           "value": "case_number_no"
         }
       ],
       "legend": "Do you have a case number?",
+      "legend:cy": "WELSH: Do you have a case number?",
       "name": "do_you_have_a_case_number"
     }
   ],
