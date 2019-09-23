@@ -10,19 +10,19 @@
           "_id": "page.phone-contact--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "label:cy": "WELSH: Yes",
+          "label:cy": "WELSH: Oes",
           "value": "yes"
         },
         {
           "_id": "page.phone-contact--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No, I do not have a phone",
-          "label:cy": "WELSH: No, I do not have a phone",
+          "label:cy": "WELSH: Nac oes, nid oes gennyf ffôn",
           "value": "no"
         }
       ],
       "legend": "Can we contact you about your complaint by phone?",
-      "legend:cy": "WELSH: Can we contact you about your complaint by phone?",
+      "legend:cy": "WELSH: A oes modd inni gysylltu â chi ar y ffôn i drafod eich cwyn?",
       "name": "has-phone"
     }
   ],
