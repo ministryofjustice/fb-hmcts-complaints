@@ -23,8 +23,8 @@
       ],
       "legend": "Do you have a case number?",
       "legend:cy": "WELSH: Do you have a case number?",
-      "name": "do_you_have_a_case_number"
+      "name": "has-case-number"
     }
   ],
-  "url": "do-you-have-a-case-number"
+  "url": "has-case-number"
 }
