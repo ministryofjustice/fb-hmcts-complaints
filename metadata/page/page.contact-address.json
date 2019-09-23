@@ -17,7 +17,7 @@
       },
       "label": "Building and street",
       "label:cy": "WELSH: Building and street",
-      "name": "building_street",
+      "name": "building-street",
       "validation": {
         "required": true
       }
@@ -32,7 +32,7 @@
       "label": "Building and street line 2",
       "label:cy": "WELSH: Building and street line 2",
       "labelhide": true,
-      "name": "building_street_2",
+      "name": "building-street-line-2",
       "validation": {
         "required": false
       }
@@ -98,9 +98,9 @@
   "heading": "Your address",
   "heading:cy": "WELSH: Your address",
   "show": {
-    "identifier": "post_contact",
+    "identifier": "has-fixed-address",
     "operator": "is",
-    "value": "post_contact_yes"
+    "value": "yes"
   },
   "url": "address"
 }

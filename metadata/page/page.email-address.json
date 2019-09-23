@@ -14,16 +14,16 @@
       },
       "label": "Your email address",
       "label:cy": "WELSH: Your email address",
-      "name": "email_address",
+      "name": "your-email-address",
       "validation": {
         "required": true
       }
     }
   ],
   "show": {
-    "identifier": "email_contact",
+    "identifier": "has-email",
     "operator": "is",
-    "value": "email_contact_yes"
+    "value": "yes"
   },
   "url": "email-address"
 }

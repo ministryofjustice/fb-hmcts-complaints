@@ -11,7 +11,7 @@
       "_type": "text",
       "label": "First name",
       "label:cy": "WELSH: First name",
-      "name": "first_name"
+      "name": "first-name"
     },
     {
       "$component": true,
@@ -22,7 +22,7 @@
       "_type": "text",
       "label": "Last name",
       "label:cy": "WELSH: Last name",
-      "name": "last_name"
+      "name": "last-name"
     }
   ],
   "heading": "Your name",

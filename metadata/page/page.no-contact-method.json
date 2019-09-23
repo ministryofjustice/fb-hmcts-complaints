@@ -8,14 +8,14 @@
   "show": {
     "all": [
       {
-        "identifier": "email_contact",
+        "identifier": "has-email",
         "operator": "is",
-        "value": "email_contact_no"
+        "value": "no"
       },
       {
-        "identifier": "post_contact",
+        "identifier": "has-fixed-address",
         "operator": "is",
-        "value": "post_contact_no"
+        "value": "no"
       },
       {
         "identifier": "phone_contact",

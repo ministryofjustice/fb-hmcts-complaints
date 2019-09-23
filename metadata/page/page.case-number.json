@@ -7,7 +7,7 @@
       "_type": "text",
       "label": "Case number",
       "label:cy": "WELSH: Case number",
-      "name": "case_number"
+      "name": "case-number"
     }
   ],
   "show": {
