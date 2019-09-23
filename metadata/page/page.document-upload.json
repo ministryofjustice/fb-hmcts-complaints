@@ -23,13 +23,13 @@
       "maxFiles": 10,
       "maxSize": "5242880",
       "minFiles": 1,
-      "name": "document_upload"
+      "name": "document-upload"
     }
   ],
   "show": {
-    "identifier": "complaint_support_documents",
+    "identifier": "has-complaint-documents",
     "operator": "is",
-    "value": "complaint_support_documents_yes"
+    "value": "yes"
   },
   "url": "/upload"
 }
