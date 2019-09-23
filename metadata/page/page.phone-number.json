@@ -12,7 +12,7 @@
         }
       },
       "label": "Your phone number",
-      "label:cy": "WELSH: Your phone number",
+      "label:cy": "WELSH: Eich rhif ffôn",
       "name": "phone-number",
       "widthClassInput": "full"
     }
