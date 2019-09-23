@@ -6,7 +6,7 @@
       "_id": "page.case-number--text.auto_name__2",
       "_type": "text",
       "label": "Case number",
-      "label:cy": "WELSH: Case number",
+      "label:cy": "WELSH: Rhif achos",
       "name": "case-number"
     }
   ],
