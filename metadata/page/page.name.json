@@ -10,7 +10,7 @@
       "_id": "page.name--text.auto_name__1",
       "_type": "text",
       "label": "First name",
-      "label:cy": "WELSH: First name",
+      "label:cy": "WELSH: Enw cyntaf",
       "name": "first-name"
     },
     {
@@ -21,11 +21,11 @@
       "_id": "page.name--text.auto_name__2",
       "_type": "text",
       "label": "Last name",
-      "label:cy": "WELSH: Last name",
+      "label:cy": "WELSH: Enw olaf",
       "name": "last-name"
     }
   ],
   "heading": "Your name",
-  "heading:cy": "WELSH: Your name",
+  "heading:cy": "WELSH: Eich enw",
   "url": "name"
 }
