@@ -2,9 +2,9 @@
   "_id": "page.no-contact-method",
   "_type": "page.exit",
   "body": "To make a complaint, you'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) where the issue happened.",
-  "body:cy": "WELSH: To make a complaint, you'll need to [contact the court or tribunal](https://courttribunalfinder.service.gov.uk/search/) where the issue happened.",
+  "body:cy": "WELSH: I wneud cwyn, bydd gofyn ichi [gysylltu â'r llys neu'r tribiwnlys](https://courttribunalfinder.service.gov.uk/search/) lle digwyddodd  y mater.",
   "heading": "We have no way of contacting you about your complaint",
-  "heading:cy": "WELSH: We have no way of contacting you about your complaint",
+  "heading:cy": "WELSH: Nid oes gennym ffordd i gysylltu â chi i drafod eich cwyn",
   "show": {
     "all": [
       {
