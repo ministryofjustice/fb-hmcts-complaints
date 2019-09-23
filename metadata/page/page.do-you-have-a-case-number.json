@@ -10,19 +10,19 @@
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "label:cy": "WELSH: Yes",
+          "label:cy": "WELSH: Oes",
           "value": "yes"
         },
         {
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "label:cy": "WELSH: No",
+          "label:cy": "WELSH: Nac oes",
           "value": "no"
         }
       ],
       "legend": "Do you have a case number?",
-      "legend:cy": "WELSH: Do you have a case number?",
+      "legend:cy": "WELSH: A oes gennych chi rif achos?",
       "name": "has-case-number"
     }
   ],
