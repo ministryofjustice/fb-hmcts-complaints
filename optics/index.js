@@ -34,7 +34,7 @@ const processFile = async (file) => {
     .map(item => ({
       _id: `court_code_${item.CODE.replace(/\s+/g, '_')}`,
       _type: 'option',
-      text: item.NAME,
+      text: `${item.NAME.replace(/&/g, 'and')}`,
       value: item.CODE
     }))
     .sort((a, b) => {

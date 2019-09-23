@@ -128,7 +128,7 @@
   {
     "_id": "court_code_6000",
     "_type": "option",
-    "text": "Avon & Somerset Central Enforcement",
+    "text": "Avon and Somerset Central Enforcement",
     "value": "6000"
   },
   {
@@ -668,7 +668,7 @@
   {
     "_id": "court_code_920",
     "_type": "option",
-    "text": "Cardiff Social Security & Child Support Tribunal ",
+    "text": "Cardiff Social Security and Child Support Tribunal ",
     "value": "920"
   },
   {
@@ -770,7 +770,7 @@
   {
     "_id": "court_code_6003",
     "_type": "option",
-    "text": "Cheshire & Merseyside Payments & Enforcement Centre",
+    "text": "Cheshire and Merseyside Payments and Enforcement Centre",
     "value": "6003"
   },
   {
@@ -842,7 +842,7 @@
   {
     "_id": "court_code_321",
     "_type": "option",
-    "text": "Clerkenwell & Shoreditch County Court",
+    "text": "Clerkenwell and Shoreditch County Court",
     "value": "321"
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "_id": "court_code_6006",
     "_type": "option",
-    "text": "Devon & Cornwall Central Fines & Enforcement",
+    "text": "Devon and Cornwall Central Fines and Enforcement",
     "value": "6006"
   },
   {
@@ -1130,7 +1130,7 @@
   {
     "_id": "court_code_996",
     "_type": "option",
-    "text": "Electronic Communications & Postal Services",
+    "text": "Electronic Communications and Postal Services",
     "value": "996"
   },
   {
@@ -1292,7 +1292,7 @@
   {
     "_id": "court_code_6012",
     "_type": "option",
-    "text": "Gloucestershire Fines & Enforcement Office",
+    "text": "Gloucestershire Fines and Enforcement Office",
     "value": "6012"
   },
   {
@@ -1386,16 +1386,16 @@
     "value": "10532"
   },
   {
-    "_id": "court_code_1001",
-    "_type": "option",
-    "text": "Hatton Cross & Harmondsworth (Immigration and Asylum Chamber)",
-    "value": "1001"
-  },
-  {
     "_id": "court_code_969",
     "_type": "option",
     "text": "Hatton Cross Asylum and Immigration Tribunal",
     "value": "969"
+  },
+  {
+    "_id": "court_code_1001",
+    "_type": "option",
+    "text": "Hatton Cross and Harmondsworth (Immigration and Asylum Chamber)",
+    "value": "1001"
   },
   {
     "_id": "court_code_10276-A",
@@ -1406,7 +1406,7 @@
   {
     "_id": "court_code_217",
     "_type": "option",
-    "text": "Haverfordwest County & Family Court",
+    "text": "Haverfordwest County and Family Court",
     "value": "217"
   },
   {
@@ -1514,7 +1514,7 @@
   {
     "_id": "court_code_6015",
     "_type": "option",
-    "text": "Humber & South Yorkshire Enforcement",
+    "text": "Humber and South Yorkshire Enforcement",
     "value": "6015"
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "_id": "court_code_243-A",
     "_type": "option",
-    "text": "Leeds Civil & Family Hearing Centre",
+    "text": "Leeds Civil and Family Hearing Centre",
     "value": "243-A"
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "_id": "court_code_10215",
     "_type": "option",
-    "text": "Llandrindod Wells Magistrates' & Family Court",
+    "text": "Llandrindod Wells Magistrates' and Family Court",
     "value": "10215"
   },
   {
@@ -1870,12 +1870,6 @@
     "_type": "option",
     "text": "Llanelli Magistrates' Court",
     "value": "10217"
-  },
-  {
-    "_id": "court_code_107",
-    "_type": "option",
-    "text": "London & SE Divorce Centre",
-    "value": "107"
   },
   {
     "_id": "court_code_6019",
@@ -1906,6 +1900,12 @@
     "_type": "option",
     "text": "London Probate",
     "value": "5002"
+  },
+  {
+    "_id": "court_code_107",
+    "_type": "option",
+    "text": "London and SE Divorce Centre",
+    "value": "107"
   },
   {
     "_id": "court_code_10221",
@@ -2018,7 +2018,7 @@
   {
     "_id": "court_code_266",
     "_type": "option",
-    "text": "Mayors & City County Court",
+    "text": "Mayors and City County Court",
     "value": "266"
   },
   {
@@ -2096,7 +2096,7 @@
   {
     "_id": "court_code_779144",
     "_type": "option",
-    "text": "National Maintenance Business Centre (Englans & Wales)",
+    "text": "National Maintenance Business Centre (Englans and Wales)",
     "value": "779144"
   },
   {
@@ -2168,7 +2168,7 @@
   {
     "_id": "court_code_280",
     "_type": "option",
-    "text": "Newport (South Wales) County & Family Court",
+    "text": "Newport (South Wales) County and Family Court",
     "value": "280"
   },
   {
@@ -2180,7 +2180,7 @@
   {
     "_id": "court_code_921",
     "_type": "option",
-    "text": "Newport (South Wales) Immigration & Asylum Tribunal ",
+    "text": "Newport (South Wales) Immigration and Asylum Tribunal ",
     "value": "921"
   },
   {
@@ -3224,7 +3224,7 @@
   {
     "_id": "court_code_954",
     "_type": "option",
-    "text": "War Pensions & Armed Forces Chamber",
+    "text": "War Pensions and Armed Forces Chamber",
     "value": "954"
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "_id": "court_code_366",
     "_type": "option",
-    "text": "Welshpool County & Family Court",
+    "text": "Welshpool County and Family Court",
     "value": "366"
   },
   {
@@ -3500,7 +3500,7 @@
   {
     "_id": "court_code_384",
     "_type": "option",
-    "text": "Wrexham Civil & Family Court",
+    "text": "Wrexham Civil and Family Court",
     "value": "384"
   },
   {
