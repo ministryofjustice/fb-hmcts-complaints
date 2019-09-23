@@ -11,14 +11,14 @@
           "_type": "radio",
           "label": "Yes",
           "label:cy": "WELSH: Yes",
-          "value": "case_number_yes"
+          "value": "yes"
         },
         {
           "_id": "page.do-you-have-a-case-number--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
           "label:cy": "WELSH: No",
-          "value": "case_number_no"
+          "value": "no"
         }
       ],
       "legend": "Do you have a case number?",

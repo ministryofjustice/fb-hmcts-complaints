@@ -13,7 +13,7 @@
   "show": {
     "identifier": "has-case-number",
     "operator": "is",
-    "value": "case_number_yes"
+    "value": "yes"
   },
   "url": "case-number"
 }
