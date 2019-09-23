@@ -12,9 +12,9 @@
         }
       },
       "hint": "Give as much detail as you can, including dates if you know them",
-      "hint:cy": "WELSH: Give as much detail as you can, including dates if you know them",
+      "hint:cy": "WELSH: Rhowch gymaint o fanylion â phosib, yn cynnwys dyddiadau os ydynt yn hysbys ichi",
       "label": "Your complaint",
-      "label:cy": "WELSH: Your complaint",
+      "label:cy": "WELSH: Eich cwyn",
       "name": "complaint-details"
     }
   ],
