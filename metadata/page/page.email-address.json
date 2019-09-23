@@ -13,7 +13,7 @@
         }
       },
       "label": "Your email address",
-      "label:cy": "WELSH: Your email address",
+      "label:cy": "WELSH: Eich cyfeiriad e-bost",
       "name": "your-email-address",
       "validation": {
         "required": true
