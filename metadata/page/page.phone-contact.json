@@ -11,19 +11,19 @@
           "_type": "radio",
           "label": "Yes",
           "label:cy": "WELSH: Yes",
-          "value": "phone_contact_yes"
+          "value": "yes"
         },
         {
           "_id": "page.phone-contact--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No, I do not have a phone",
           "label:cy": "WELSH: No, I do not have a phone",
-          "value": "phone_contact_no"
+          "value": "no"
         }
       ],
       "legend": "Can we contact you about your complaint by phone?",
       "legend:cy": "WELSH: Can we contact you about your complaint by phone?",
-      "name": "phone_contact"
+      "name": "has-phone"
     }
   ],
   "show": {

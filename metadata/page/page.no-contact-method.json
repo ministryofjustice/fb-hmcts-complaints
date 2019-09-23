@@ -18,9 +18,9 @@
         "value": "no"
       },
       {
-        "identifier": "phone_contact",
+        "identifier": "has-phone",
         "operator": "is",
-        "value": "phone_contact_no"
+        "value": "no"
       }
     ]
   },

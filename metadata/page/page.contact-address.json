@@ -52,7 +52,7 @@
       },
       "label": "Town or city",
       "label:cy": "WELSH: Town or city",
-      "name": "town_city",
+      "name": "town-city",
       "validation": {
         "required": true
       },

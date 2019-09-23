@@ -13,14 +13,14 @@
       },
       "label": "Your phone number",
       "label:cy": "WELSH: Your phone number",
-      "name": "phone_number",
+      "name": "phone-number",
       "widthClassInput": "full"
     }
   ],
   "show": {
-    "identifier": "phone_contact",
+    "identifier": "has-phone",
     "operator": "is",
-    "value": "phone_contact_yes"
+    "value": "yes"
   },
   "url": "phone-number"
 }

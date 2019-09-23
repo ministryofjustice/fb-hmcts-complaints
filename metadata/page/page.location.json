@@ -3576,7 +3576,7 @@
       ],
       "label": "Court or tribunal your complaint is about",
       "label:cy": "WELSH: Court or tribunal your complaint is about",
-      "name": "complaint_location"
+      "name": "complaint-location"
     }
   ],
   "url": "court-tribunal"

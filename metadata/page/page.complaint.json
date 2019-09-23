@@ -15,7 +15,7 @@
       "hint:cy": "WELSH: Give as much detail as you can, including dates if you know them",
       "label": "Your complaint",
       "label:cy": "WELSH: Your complaint",
-      "name": "complaint_details"
+      "name": "complaint-details"
     }
   ],
   "show": true,
