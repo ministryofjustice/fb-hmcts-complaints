@@ -16,7 +16,8 @@
         {
           "_id": "page.post-contact--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
-          "label": "Nac oes, nid oes gennyf gyfeiriad parhaol",
+          "label": "No, I do not have a fixed or permanent address",
+          "label:cy": "Nac oes, nid oes gennyf gyfeiriad parhaol",
           "value": "no"
         }
       ],
