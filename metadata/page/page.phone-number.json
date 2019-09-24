@@ -8,11 +8,11 @@
       "errors": {
         "required": {
           "any": "Enter a phone number",
-          "any:cy": "WELSH: Enter a phone number"
+          "any:cy": "Enter a phone number"
         }
       },
       "label": "Your phone number",
-      "label:cy": "WELSH: Eich rhif ffôn",
+      "label:cy": "Eich rhif ffôn",
       "name": "phone-number",
       "widthClassInput": "full"
     }
