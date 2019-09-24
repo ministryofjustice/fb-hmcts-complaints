@@ -2,7 +2,7 @@
   "_id": "page.check-answers",
   "_type": "page.summary",
   "heading": "Check your answers",
-  "heading:cy": "WELSH: Gwirio eich atebion",
+  "heading:cy": "Gwirio eich atebion",
   "sendBody": "",
   "sendHeading": "",
   "url": "check-answers"
