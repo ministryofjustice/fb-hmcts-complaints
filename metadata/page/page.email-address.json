@@ -9,11 +9,11 @@
         "format": {},
         "required": {
           "any": "Enter an email address",
-          "any:cy": "WELSH: Enter an email address"
+          "any:cy": "Enter an email address"
         }
       },
       "label": "Your email address",
-      "label:cy": "WELSH: Eich cyfeiriad e-bost",
+      "label:cy": "Eich cyfeiriad e-bost",
       "name": "your-email-address",
       "validation": {
         "required": true
