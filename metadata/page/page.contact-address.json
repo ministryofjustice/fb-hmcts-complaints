@@ -12,11 +12,11 @@
       "errors": {
         "required": {
           "any": "Enter a building and street",
-          "any:cy": "WELSH: Enter a building and street"
+          "any:cy": "Enter a building and street"
         }
       },
       "label": "Building and street",
-      "label:cy": "WELSH: Adeilad a stryd",
+      "label:cy": "Adeilad a stryd",
       "name": "building-street",
       "validation": {
         "required": true
@@ -30,7 +30,7 @@
       "_id": "page.contact-address--text.auto_name__5",
       "_type": "text",
       "label": "Building and street line 2",
-      "label:cy": "WELSH: Building and street line 2",
+      "label:cy": "Building and street line 2",
       "labelhide": true,
       "name": "building-street-line-2",
       "validation": {
@@ -47,11 +47,11 @@
       "errors": {
         "required": {
           "any": "Enter a town or city",
-          "any:cy": "WELSH: Enter a town or city"
+          "any:cy": "Rhowch enw tref neu ddinas yn y blwch"
         }
       },
       "label": "Town or city",
-      "label:cy": "WELSH: Tref neu ddinas",
+      "label:cy": "Tref neu ddinas",
       "name": "town-city",
       "validation": {
         "required": true
@@ -66,7 +66,7 @@
       "_id": "page.contact-address--text.auto_name__5--2",
       "_type": "text",
       "label": "County",
-      "label:cy": "WELSH: Sir",
+      "label:cy": "Sir",
       "name": "county",
       "validation": {
         "required": false
@@ -83,11 +83,11 @@
       "errors": {
         "required": {
           "any": "Enter a postcode",
-          "any:cy": "WELSH: Enter a postcode"
+          "any:cy": "Rhowch god post yn y blwch"
         }
       },
       "label": "Postcode",
-      "label:cy": "WELSH: Cod post",
+      "label:cy": "Cod post",
       "name": "postcode",
       "validation": {
         "required": true
@@ -96,7 +96,7 @@
     }
   ],
   "heading": "Your address",
-  "heading:cy": "WELSH: Eich cyfeiriad",
+  "heading:cy": "Eich cyfeiriad",
   "show": {
     "identifier": "has-fixed-address",
     "operator": "is",
