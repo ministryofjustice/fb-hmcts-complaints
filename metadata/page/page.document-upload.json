@@ -9,17 +9,17 @@
       "errors": {
         "fileupload.LIMIT_FILE_SIZE": {
           "any": "The selected file must be smaller than 5MB",
-          "any:cy": "WELSH: Rhaid i'r ffeil fod yn llai na 5MB"
+          "any:cy": "Rhaid i'r ffeil fod yn llai na 5MB"
         },
         "required": {
           "any": "Select a document",
-          "any:cy": "WELSH: Dewiswch ddogfen"
+          "any:cy": "Dewiswch ddogfen"
         }
       },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
-      "hint:cy": "WELSH: Gallwch lwytho eich dogfennau fel copïau wedi eu sganio neu luniau o'r gwreiddiol",
+      "hint:cy": "Gallwch lwytho eich dogfennau fel copïau wedi eu sganio neu luniau o'r gwreiddiol",
       "label": "Upload documents",
-      "label:cy": "WELSH: Llwytho dogfennau",
+      "label:cy": "Llwytho dogfennau",
       "maxFiles": 10,
       "maxSize": "5242880",
       "minFiles": 1,
