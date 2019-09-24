@@ -10,7 +10,7 @@
           "_id": "page.post-contact--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "label:cy": "WELSH: Oes",
+          "label:cy": "Oes",
           "value": "yes"
         },
         {
@@ -21,7 +21,7 @@
         }
       ],
       "legend": "Can we contact you about your complaint by post?",
-      "legend:cy": "WELSH: A oes modd inni gysylltu â chi drwy'r post i drafod eich cwyn?",
+      "legend:cy": "A oes modd inni gysylltu â chi drwy'r post i drafod eich cwyn?",
       "name": "has-fixed-address"
     }
   ],
