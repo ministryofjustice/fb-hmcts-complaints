@@ -8,13 +8,13 @@
       "errors": {
         "required": {
           "any": "Enter a complaint",
-          "any:cy": "WELSH: Enter a complaint"
+          "any:cy": "Enter a complaint"
         }
       },
       "hint": "Give as much detail as you can, including dates if you know them",
-      "hint:cy": "WELSH: Rhowch gymaint o fanylion â phosib, yn cynnwys dyddiadau os ydynt yn hysbys ichi",
+      "hint:cy": "Rhowch gymaint o fanylion â phosib, yn cynnwys dyddiadau os ydynt yn hysbys ichi",
       "label": "Your complaint",
-      "label:cy": "WELSH: Eich cwyn",
+      "label:cy": "Eich cwyn",
       "name": "complaint-details"
     }
   ],
