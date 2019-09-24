@@ -8,7 +8,7 @@
       "errors": {
         "required": {
           "any": "Select yes if you would like to send any documents as part of your complaint",
-          "any:cy": "WELSH: Dewisiwch 'oes' os oes arnoch eisiau anfon unrhyw ddogfennau yn rhan o'ch cwyn"
+          "any:cy": "Dewisiwch 'oes' os oes arnoch eisiau anfon unrhyw ddogfennau yn rhan o'ch cwyn"
         }
       },
       "items": [
@@ -16,19 +16,19 @@
           "_id": "page.documents-to-support-your-complaint--radios.auto_name__4--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "label:cy": "WELSH: Oes",
+          "label:cy": "Oes",
           "value": "yes"
         },
         {
           "_id": "page.documents-to-support-your-complaint--radios.auto_name__4--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "label:cy": "WELSH: Nac oes",
+          "label:cy": "Nac oes",
           "value": "no"
         }
       ],
       "legend": "Would you like to send any documents as part of your complaint?",
-      "legend:cy": "WELSH: A oes arnoch eisiau anfon unrhyw ddogfennau yn rhan o'ch cwyn?",
+      "legend:cy": "A oes arnoch eisiau anfon unrhyw ddogfennau yn rhan o'ch cwyn?",
       "name": "has-complaint-documents"
     }
   ],
