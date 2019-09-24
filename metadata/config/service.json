@@ -3,7 +3,7 @@
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
   "name": "Complain about a court or tribunal service",
-  "name:cy": "WELSH: Gwneud cwyn am un o wasanaethau'r llysoedd neu'r tribiwnlysoedd",
+  "name:cy": "Gwneud cwyn am un o wasanaethau'r llysoedd neu'r tribiwnlysoedd",
   "pdfHeading": "Complain about a court or tribunal service",
   "phase": "none",
   "languages": ["en", "cy"]
