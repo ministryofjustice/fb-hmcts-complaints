@@ -16,7 +16,7 @@
         {
           "_id": "page.post-contact--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
-          "label": "WELSH: Nac oes, nid oes gennyf gyfeiriad parhaol",
+          "label": "Nac oes, nid oes gennyf gyfeiriad parhaol",
           "value": "no"
         }
       ],
