@@ -12,7 +12,7 @@
       "errors": {
         "required": {
           "any": "Enter a building and street",
-          "any:cy": "Enter a building and street"
+          "any:cy": "Rhowch enw adeilad a stryd yn y blwch"
         }
       },
       "label": "Building and street",
