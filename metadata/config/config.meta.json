@@ -17,7 +17,8 @@
     {
       "_id": "config.meta--link--3",
       "_type": "link",
-      "text": "/accessibility"
+      "href": "/accessibility",
+      "text": "Accessibility"
     }
   ]
 }
