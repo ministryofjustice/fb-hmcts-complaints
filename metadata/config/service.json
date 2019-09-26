@@ -2,9 +2,12 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "Complain about a court or tribunal service",
+  "languages": [
+    "en",
+    "cy"
+  ],
+  "name": "Complain about a court or tribunal",
   "name:cy": "Gwneud cwyn am un o wasanaethau'r llysoedd neu'r tribiwnlysoedd",
-  "pdfHeading": "Complain about a court or tribunal service",
-  "phase": "none",
-  "languages": ["en", "cy"]
+  "pdfHeading": "Complain about a court or tribunal",
+  "phase": "none"
 }
