@@ -8,7 +8,7 @@
       "errors": {
         "required": {
           "any": "Enter a complaint",
-          "any:cy": "Enter a complaint"
+          "any:cy": "Teipiwch eich cwyn yn y blwch"
         }
       },
       "hint": "Give as much detail as you can, including dates if you know them",
