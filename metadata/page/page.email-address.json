@@ -9,7 +9,7 @@
         "format": {},
         "required": {
           "any": "Enter an email address",
-          "any:cy": "Enter an email address"
+          "any:cy": "Rhowch gyfeiriad e-bost yn y blwch"
         }
       },
       "label": "Your email address",
