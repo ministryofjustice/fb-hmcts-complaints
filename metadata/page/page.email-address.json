@@ -14,7 +14,7 @@
       },
       "label": "Your email address",
       "label:cy": "Eich cyfeiriad e-bost",
-      "name": "your-email-address",
+      "name": "email_address",
       "validation": {
         "required": true
       }

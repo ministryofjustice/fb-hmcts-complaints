@@ -17,7 +17,7 @@
       },
       "label": "Building and street",
       "label:cy": "Adeilad a stryd",
-      "name": "building-street",
+      "name": "building_street",
       "validation": {
         "required": true
       }
@@ -32,7 +32,7 @@
       "label": "Building and street line 2",
       "label:cy": "Building and street line 2",
       "labelhide": true,
-      "name": "building-street-line-2",
+      "name": "building_street_2",
       "validation": {
         "required": false
       }
@@ -52,7 +52,7 @@
       },
       "label": "Town or city",
       "label:cy": "Tref neu ddinas",
-      "name": "town-city",
+      "name": "town_city",
       "validation": {
         "required": true
       },

@@ -7,7 +7,7 @@
       "_type": "text",
       "label": "Case number",
       "label:cy": "Rhif achos",
-      "name": "case-number"
+      "name": "case_number"
     }
   ],
   "show": {
