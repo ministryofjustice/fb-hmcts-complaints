@@ -3576,7 +3576,7 @@
       ],
       "label": "Court or tribunal your complaint is about",
       "label:cy": "Y llys neu'r tribiwnlys yr ydych yn gwneud cwyn amdano",
-      "name": "complaint-location"
+      "name": "complaint_location"
     }
   ],
   "url": "court-tribunal"

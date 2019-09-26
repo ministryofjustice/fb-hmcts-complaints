@@ -11,7 +11,7 @@
       "_type": "text",
       "label": "First name",
       "label:cy": "Enw cyntaf",
-      "name": "first-name"
+      "name": "first_name"
     },
     {
       "$component": true,
@@ -22,7 +22,7 @@
       "_type": "text",
       "label": "Last name",
       "label:cy": "Enw olaf",
-      "name": "last-name"
+      "name": "last_name"
     }
   ],
   "heading": "Your name",
