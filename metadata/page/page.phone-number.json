@@ -8,7 +8,7 @@
       "errors": {
         "required": {
           "any": "Enter a phone number",
-          "any:cy": "Enter a phone number"
+          "any:cy": "Nodwch rif ffôn"
         }
       },
       "label": "Your phone number",
