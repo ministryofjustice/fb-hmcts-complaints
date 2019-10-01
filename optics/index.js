@@ -34,7 +34,7 @@ const processFile = async (file) => {
     .map(item => ({
       _id: `court_code_${item.CODE.replace(/\s+/g, '_')}`,
       _type: 'option',
-      text: `${item.NAME.replace(/&/g, 'and')}`,
+      text: `${item.NAME.replace(/&/g, 'and').replace('RCJ', 'Royal Courts of Justice').replace('ASC', 'Administrative Support Centre')}`,
       value: item.CODE
     }))
     .sort((a, b) => {
@@ -51,6 +51,7 @@ const processFile = async (file) => {
     _id: 'court_code__default',
     _type: 'option',
     text: 'Select a court or tribunal',
+    'text:cy': 'Rhowch enw llys neu dribiwnlys yn y blwch',
     value: ''
   })
 
