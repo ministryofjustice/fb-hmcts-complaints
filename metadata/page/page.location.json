@@ -22,66 +22,6 @@
           "value": ""
         },
         {
-          "_id": "court_code_982",
-          "_type": "option",
-          "text": "ASC Hagley Road",
-          "value": "982"
-        },
-        {
-          "_id": "court_code_940",
-          "_type": "option",
-          "text": "ASC Leicestershire (Immigration and Asylum Chamber)",
-          "value": "940"
-        },
-        {
-          "_id": "court_code_932",
-          "_type": "option",
-          "text": "ASC Leicestershire Charity",
-          "value": "932"
-        },
-        {
-          "_id": "court_code_934",
-          "_type": "option",
-          "text": "ASC Leicestershire Environment",
-          "value": "934"
-        },
-        {
-          "_id": "court_code_935",
-          "_type": "option",
-          "text": "ASC Leicestershire Estate Agents Appeals",
-          "value": "935"
-        },
-        {
-          "_id": "court_code_936",
-          "_type": "option",
-          "text": "ASC Leicestershire Gambling Appeals",
-          "value": "936"
-        },
-        {
-          "_id": "court_code_937",
-          "_type": "option",
-          "text": "ASC Leicestershire Gender Recognition",
-          "value": "937"
-        },
-        {
-          "_id": "court_code_938",
-          "_type": "option",
-          "text": "ASC Leicestershire Information Rights",
-          "value": "938"
-        },
-        {
-          "_id": "court_code_939",
-          "_type": "option",
-          "text": "ASC Leicestershire Mental Health",
-          "value": "939"
-        },
-        {
-          "_id": "court_code_941",
-          "_type": "option",
-          "text": "ASC Leicestershire Social Security and Child Support Tribunal",
-          "value": "941"
-        },
-        {
           "_id": "court_code_973",
           "_type": "option",
           "text": "Aberdeen Employment Tribunal",
@@ -104,6 +44,66 @@
           "_type": "option",
           "text": "Administrative Court",
           "value": "601"
+        },
+        {
+          "_id": "court_code_982",
+          "_type": "option",
+          "text": "Administrative Support Centre Hagley Road",
+          "value": "982"
+        },
+        {
+          "_id": "court_code_940",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire (Immigration and Asylum Chamber)",
+          "value": "940"
+        },
+        {
+          "_id": "court_code_932",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Charity",
+          "value": "932"
+        },
+        {
+          "_id": "court_code_934",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Environment",
+          "value": "934"
+        },
+        {
+          "_id": "court_code_935",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Estate Agents Appeals",
+          "value": "935"
+        },
+        {
+          "_id": "court_code_936",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Gambling Appeals",
+          "value": "936"
+        },
+        {
+          "_id": "court_code_937",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Gender Recognition",
+          "value": "937"
+        },
+        {
+          "_id": "court_code_938",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Information Rights",
+          "value": "938"
+        },
+        {
+          "_id": "court_code_939",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Mental Health",
+          "value": "939"
+        },
+        {
+          "_id": "court_code_941",
+          "_type": "option",
+          "text": "Administrative Support Centre Leicestershire Social Security and Child Support Tribunal",
+          "value": "941"
         },
         {
           "_id": "court_code_603",
@@ -2572,30 +2572,6 @@
           "value": "611"
         },
         {
-          "_id": "court_code_626",
-          "_type": "option",
-          "text": "RCJ Judges' Clerks",
-          "value": "626"
-        },
-        {
-          "_id": "court_code_619",
-          "_type": "option",
-          "text": "RCJ Security",
-          "value": "619"
-        },
-        {
-          "_id": "court_code_627",
-          "_type": "option",
-          "text": "RCJ Superintendent's Office",
-          "value": "627"
-        },
-        {
-          "_id": "court_code_620",
-          "_type": "option",
-          "text": "RCJ Tipstaff",
-          "value": "620"
-        },
-        {
           "_id": "court_code_305",
           "_type": "option",
           "text": "Reading County Court",
@@ -2678,6 +2654,30 @@
           "_type": "option",
           "text": "Romford County Court",
           "value": "387"
+        },
+        {
+          "_id": "court_code_626",
+          "_type": "option",
+          "text": "Royal Courts of Justice Judges' Clerks",
+          "value": "626"
+        },
+        {
+          "_id": "court_code_619",
+          "_type": "option",
+          "text": "Royal Courts of Justice Security",
+          "value": "619"
+        },
+        {
+          "_id": "court_code_627",
+          "_type": "option",
+          "text": "Royal Courts of Justice Superintendent's Office",
+          "value": "627"
+        },
+        {
+          "_id": "court_code_620",
+          "_type": "option",
+          "text": "Royal Courts of Justice Tipstaff",
+          "value": "620"
         },
         {
           "_id": "court_code_6031",
