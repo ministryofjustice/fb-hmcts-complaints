@@ -5,7 +5,16 @@
     {
       "_id": "page.document-upload--fileupload.auto_name__1",
       "_type": "fileupload",
-      "accept": [],
+      "accept": [
+        "image/jpeg",
+        "image/bmp",
+        "image/x-ms-bmp",
+        "image/png",
+        "image/tiff",
+        "application/pdf",
+        "application/msword",
+        "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      ],
       "errors": {
         "fileupload.LIMIT_FILE_SIZE": {
           "any": "The selected file must be smaller than 5MB",
