@@ -8,6 +8,7 @@
       "accept": [
         "image/jpeg",
         "image/bmp",
+        "image/x-ms-bmp",
         "image/png",
         "image/tiff",
         "application/pdf",
