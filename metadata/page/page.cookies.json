@@ -178,7 +178,7 @@
             "scope": "row"
           },
           {
-            "html": "Like _ga, this lets us know how many of our visitors are new to Claim for costs of a child’s funeral or to a certain page"
+            "html": "Like _ga, this lets us know how many of our visitors are new to this online form or to a certain page"
           },
           {
             "html": "2 years"
@@ -190,7 +190,7 @@
             "scope": "row"
           },
           {
-            "html": "This works with _utmc to calculate the average length of time you spend on Claim for costs of a child’s funeral"
+            "html": "This works with _utmc to calculate the average length of time you spend on this online form"
           },
           {
             "html": "30 minutes"
@@ -214,7 +214,7 @@
             "scope": "row"
           },
           {
-            "html": "This tells us how you reached Claim for costs of a child’s funeral (for example from another website or a search engine)"
+            "html": "This tells us how you reached this online form (for example from another website or a search engine)"
           },
           {
             "html": "6 months"
