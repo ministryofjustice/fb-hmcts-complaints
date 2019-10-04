@@ -8,7 +8,7 @@
       "$definition": true,
       "_id": "page.cookies--content",
       "_type": "content",
-      "html": "This online form puts small files (known as ‘cookies’) onto your computer to collect information about how you browse the site.\r\n\r\nCookies are used to:\r\n\r\n- remember your progress\r\n- measure how you use the website so it can be updated and improved based on your needs\r\n\r\nThe cookies on this online form aren't used to identify you personally.\r\n\r\nYou'll normally see a message on the site before we store a cookie on your computer.\r\n\r\nFind out more about [how to manage cookies](https://www.aboutcookies.org/)."
+      "html": "This online form puts small files (known as ‘cookies’) onto your computer to collect information about how you browse the site.\r\n\r\nCookies are used to:\r\n\r\n- remember your progress\r\n- measure how you use the website so it can be updated and improved based on your needs\r\n\r\nThis online form's cookies aren't used to identify you personally.\r\n\r\nYou'll normally see a message on the site before we store a cookie on your computer.\r\n\r\nFind out more about [how to manage cookies](https://www.aboutcookies.org/)."
     },
     {
       "$component": true,
@@ -16,7 +16,7 @@
       "$definition": true,
       "_id": "page.cookies--content--2",
       "_type": "content",
-      "html": "## How cookies are used on Claim for costs of a child’s funeral\r\n\r\nWe will store a cookie to remember your application progress in this computer and to expire your session after 30 minutes of inactivity or when you close your browser."
+      "html": "## How cookies are used on this online form\r\n\r\nWe will store a cookie to remember your progress in this computer and to expire your session after 30 minutes of inactivity or when you close your browser."
     },
     {
       "$component": true,
@@ -64,7 +64,7 @@
       "$definition": true,
       "_id": "page.cookies--content--4",
       "_type": "content",
-      "html": "## Measuring website usage (Google Analytics)\r\n\r\nWe use Google Analytics software to collect information about how you use Claim for costs of a child’s funeral. We do this to help make sure the online form is meeting the needs of its users and to help us make improvements.\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page \r\n- how you got to the site\r\n- what you click on while you’re visiting the site\r\n\r\nWe do not collect or store your personal information (for example your name or address) so this information can't be used to identify who you are.\r\n\r\nWe do not allow Google to use or share our analytics data.\r\n\r\nGoogle Analytics sets the following cookies:"
+      "html": "## Measuring website usage (Google Analytics)\r\n\r\nWe use Google Analytics software to collect information about how you use this online form. We do this to help make sure this online form is meeting the needs of its users and to help us make improvements.\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page \r\n- how you got to the site\r\n- what you click on while you’re visiting the site\r\n\r\nWe do not collect or store your personal information (for example your name or address) so this information can't be used to identify who you are.\r\n\r\nWe do not allow Google to use or share our analytics data.\r\n\r\nGoogle Analytics sets the following cookies:"
     },
     {
       "$component": true,
