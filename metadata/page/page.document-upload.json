@@ -5,24 +5,10 @@
     {
       "_id": "page.document-upload--fileupload.auto_name__1",
       "_type": "fileupload",
-      "accept": [
-        "image/jpeg",
-        "image/bmp",
-        "image/x-ms-bmp",
-        "image/png",
-        "image/tiff",
-        "application/pdf",
-        "application/msword",
-        "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-      ],
       "errors": {
         "accept": {
           "any": "The selected file must be a JPG, BMP, PNG, TIF, PDF, DOC or DOCX",
           "any:cy": "Rhaid i'r ffeil fod yn JPG, BMP, PNG, TIF, PDF, DOC neu DOCX"
-        },
-        "fileupload.LIMIT_FILE_SIZE": {
-          "any": "The selected file must be smaller than 5MB",
-          "any:cy": "Rhaid i'r ffeil fod yn llai na 5MB"
         },
         "maxSize": {
           "any": "The selected file must be smaller than 5MB",
@@ -38,7 +24,6 @@
       "label": "Upload documents",
       "label:cy": "Llwytho dogfennau",
       "maxFiles": 10,
-      "maxSize": "5242880",
       "minFiles": 1,
       "name": "document-upload",
       "validation": {
