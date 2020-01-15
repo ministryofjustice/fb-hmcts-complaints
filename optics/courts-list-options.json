@@ -337,12 +337,6 @@
     "value": "10039"
   },
   {
-    "_id": "court_code_5003",
-    "_type": "option",
-    "text": "Birmingham Probate",
-    "value": "5003"
-  },
-  {
     "_id": "court_code_930",
     "_type": "option",
     "text": "Birmingham Social Security and Child Support Tribunal",
@@ -359,12 +353,6 @@
     "_type": "option",
     "text": "Blackburn Magistrates' Court",
     "value": "10043"
-  },
-  {
-    "_id": "court_code_428",
-    "_type": "option",
-    "text": "Blackfriars Crown Court ",
-    "value": "428"
   },
   {
     "_id": "court_code_131",
@@ -885,7 +873,7 @@
   {
     "_id": "court_code_335",
     "_type": "option",
-    "text": "County Court Business Centre",
+    "text": "County Court Business Centre - Traffic Enforcement",
     "value": "335"
   },
   {
@@ -2099,12 +2087,6 @@
     "_type": "option",
     "text": "National Maintenance Business Centre (Englans and Wales)",
     "value": "779144"
-  },
-  {
-    "_id": "court_code_274-A",
-    "_type": "option",
-    "text": "Neath Divorce Unit",
-    "value": "274-A"
   },
   {
     "_id": "court_code_910",
@@ -3325,12 +3307,6 @@
     "value": "6042"
   },
   {
-    "_id": "court_code_135",
-    "_type": "option",
-    "text": "West Midlands Divorce Unit",
-    "value": "135"
-  },
-  {
     "_id": "court_code_6043",
     "_type": "option",
     "text": "West Midlands Enforcement Office",
@@ -3503,12 +3479,6 @@
     "_type": "option",
     "text": "Wrexham Civil and Family Court",
     "value": "384"
-  },
-  {
-    "_id": "court_code_384-A",
-    "_type": "option",
-    "text": "Wrexham Divorce Unit",
-    "value": "384-A"
   },
   {
     "_id": "court_code_10750",
