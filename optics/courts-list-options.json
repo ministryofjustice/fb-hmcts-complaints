@@ -655,6 +655,12 @@
     "value": "10082"
   },
   {
+    "_id": "court_code_5009",
+    "_type": "option",
+    "text": "Cardiff Probate Registry of Wales",
+    "value": "5009"
+  },
+  {
     "_id": "court_code_920",
     "_type": "option",
     "text": "Cardiff Social Security and Child Support Tribunal ",
@@ -893,6 +899,30 @@
     "_type": "option",
     "text": "Court of Protection",
     "value": "199"
+  },
+  {
+    "_id": "court_code_1023213",
+    "_type": "option",
+    "text": "Courts and Tribunal Service Centre - Divorce",
+    "value": "1023213"
+  },
+  {
+    "_id": "court_code_1023313",
+    "_type": "option",
+    "text": "Courts and Tribunal Service Centre - Single Justice Service",
+    "value": "1023313"
+  },
+  {
+    "_id": "court_code_1023228",
+    "_type": "option",
+    "text": "Courts and Tribunal Service Centre - Social Security and Child Support",
+    "value": "1023228"
+  },
+  {
+    "_id": "court_code_1023113",
+    "_type": "option",
+    "text": "Courts and Tribunal Service Centre – Probate",
+    "value": "1023113"
   },
   {
     "_id": "court_code_180",
@@ -1831,12 +1861,6 @@
     "value": "918"
   },
   {
-    "_id": "court_code_5009",
-    "_type": "option",
-    "text": "Llandaff Probate",
-    "value": "5009"
-  },
-  {
     "_id": "court_code_10215",
     "_type": "option",
     "text": "Llandrindod Wells Magistrates' and Family Court",
@@ -1895,6 +1919,12 @@
     "_type": "option",
     "text": "London and SE Divorce Centre",
     "value": "107"
+  },
+  {
+    "_id": "court_code_1027513",
+    "_type": "option",
+    "text": "Loughborough Courts and Tribunal Service Centre",
+    "value": "1027513"
   },
   {
     "_id": "court_code_10221",
