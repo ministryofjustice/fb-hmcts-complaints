@@ -85,12 +85,6 @@
     "value": "939"
   },
   {
-    "_id": "court_code_941",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Social Security and Child Support Tribunal",
-    "value": "941"
-  },
-  {
     "_id": "court_code_603",
     "_type": "option",
     "text": "Admiralty and Commercial Courts",
@@ -557,6 +551,12 @@
     "_type": "option",
     "text": "Bury St Edmunds County Court",
     "value": "157"
+  },
+  {
+    "_id": "court_code_107",
+    "_type": "option",
+    "text": "Bury St Edmunds Divorce Unit (London and SE)",
+    "value": "107"
   },
   {
     "_id": "court_code_949",
@@ -1363,12 +1363,6 @@
     "value": "10162"
   },
   {
-    "_id": "court_code_10166",
-    "_type": "option",
-    "text": "Harlow Magistrates' Court",
-    "value": "10166"
-  },
-  {
     "_id": "court_code_214",
     "_type": "option",
     "text": "Harrogate County Court",
@@ -1913,12 +1907,6 @@
     "_type": "option",
     "text": "London Probate",
     "value": "5002"
-  },
-  {
-    "_id": "court_code_107",
-    "_type": "option",
-    "text": "London and SE Divorce Centre",
-    "value": "107"
   },
   {
     "_id": "court_code_1027513",
@@ -2543,12 +2531,6 @@
     "_type": "option",
     "text": "Primary Health Lists",
     "value": "909"
-  },
-  {
-    "_id": "court_code_5001",
-    "_type": "option",
-    "text": "Probate GBO",
-    "value": "5001"
   },
   {
     "_id": "court_code_991",
