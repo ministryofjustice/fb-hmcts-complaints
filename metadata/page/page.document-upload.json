@@ -4,7 +4,7 @@
   "components": [
     {
       "_id": "page.document-upload--fileupload.auto_name__1",
-      "_type": "fileupload",
+      "_type": "upload",
       "errors": {
         "accept": {
           "any": "The selected file must be a JPG, BMP, PNG, TIF, PDF, DOC or DOCX",
@@ -47,4 +47,9 @@
     "value": "yes"
   },
   "url": "/upload"
+  "url": "/upload",
+  "steps": [
+    "page.document-upload-check",
+    "page.document-upload-summary"
+  ]
 }

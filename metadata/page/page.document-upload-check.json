@@ -1,0 +1,6 @@
+{
+  "_id": "page.document-upload-check",
+  "_type": "page.uploadCheck",
+  "heading": "Check your upload",
+  "url": "/upload-check"
+}

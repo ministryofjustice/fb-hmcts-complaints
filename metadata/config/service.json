@@ -9,5 +9,6 @@
   "name": "Complain about a court or tribunal",
   "name:cy": "Gwneud cwyn am lys neu dribiwnlys",
   "pdfHeading": "Complain about a court or tribunal",
-  "phase": "none"
+  "phase": "none",
+  "sessionDuration": 60
 }
