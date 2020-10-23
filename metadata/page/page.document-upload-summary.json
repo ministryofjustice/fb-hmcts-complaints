@@ -1,6 +1,0 @@
-{
-  "_id": "page.document-upload-summary",
-  "_type": "page.uploadSummary",
-  "heading": "Documents uploaded",
-  "url": "/upload-summary"
-}
