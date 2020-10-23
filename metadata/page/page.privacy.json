@@ -1,6 +1,7 @@
 {
   "_id": "page.privacy",
   "_type": "page.content",
+  "body": "## Privacy notice",
   "heading": "HMCTS Feedback System (OPTIC)",
   "url": "privacy"
 }
