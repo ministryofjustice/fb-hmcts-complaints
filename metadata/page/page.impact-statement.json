@@ -1,0 +1,21 @@
+{
+  "_id": "page.impact-statement",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.impact-statement--textarea.auto_name__1",
+      "_type": "textarea",
+      "hint": "e.g. loss of income, affected your health or mental health",
+      "label": "How has this issue affected you?",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.impact-statement--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "What action would you like us to take to resolve your issue?",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "Tell us more about your complaint",
+  "url": "impact-statement"
+}

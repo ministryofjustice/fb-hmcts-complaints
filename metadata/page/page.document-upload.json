@@ -48,7 +48,7 @@
   },
   "url": "/upload",
   "steps": [
-    "page.document-upload-upload-check",
-    "page.document-upload-upload-summary"
+    "page.document-upload-check",
+    "page.document-upload-summary"
   ]
 }
