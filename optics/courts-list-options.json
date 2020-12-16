@@ -37,12 +37,6 @@
     "value": "982"
   },
   {
-    "_id": "court_code_940",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire (Immigration and Asylum Chamber)",
-    "value": "940"
-  },
-  {
     "_id": "court_code_932",
     "_type": "option",
     "text": "Administrative Support Centre Leicestershire Charity",
@@ -823,12 +817,6 @@
     "value": "609"
   },
   {
-    "_id": "court_code_990",
-    "_type": "option",
-    "text": "Claims Management Services",
-    "value": "990"
-  },
-  {
     "_id": "court_code_321",
     "_type": "option",
     "text": "Clerkenwell and Shoreditch County Court",
@@ -1555,12 +1543,6 @@
     "value": "10194"
   },
   {
-    "_id": "court_code_5006",
-    "_type": "option",
-    "text": "Ipswich Probate",
-    "value": "5006"
-  },
-  {
     "_id": "court_code_933722",
     "_type": "option",
     "text": "Ipswich Social Security and Child Support Tribunal",
@@ -1883,12 +1865,6 @@
     "_type": "option",
     "text": "London Maintenance Enforcement Business Centre (LMEBC)",
     "value": "934621"
-  },
-  {
-    "_id": "court_code_5002",
-    "_type": "option",
-    "text": "London Probate",
-    "value": "5002"
   },
   {
     "_id": "court_code_107",
@@ -2513,12 +2489,6 @@
     "_type": "option",
     "text": "Primary Health Lists",
     "value": "909"
-  },
-  {
-    "_id": "court_code_5001",
-    "_type": "option",
-    "text": "Probate GBO",
-    "value": "5001"
   },
   {
     "_id": "court_code_991",
