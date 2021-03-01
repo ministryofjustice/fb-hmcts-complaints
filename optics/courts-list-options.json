@@ -829,12 +829,6 @@
     "value": "6001"
   },
   {
-    "_id": "court_code_176",
-    "_type": "option",
-    "text": "Colchester County Court",
-    "value": "176"
-  },
-  {
     "_id": "court_code_10103",
     "_type": "option",
     "text": "Colchester Magistrates' Court",
