@@ -478,6 +478,12 @@
           "value": "10062"
         },
         {
+          "_id": "court_code_1294897",
+          "_type": "option",
+          "text": "Brighton SSCS",
+          "value": "1294897"
+        },
+        {
           "_id": "court_code_150",
           "_type": "option",
           "text": "Brighton County Court",
@@ -1824,7 +1830,7 @@
         {
           "_id": "court_code_5009",
           "_type": "option",
-          "text": "Llandaff Probate",
+          "text": "Cardiff Probate",
           "value": "5009"
         },
         {
@@ -2654,6 +2660,12 @@
           "_type": "option",
           "text": "Salisbury Crown Court",
           "value": "480"
+        },
+        {
+          "_id": "court_code_1288401",
+          "_type": "option",
+          "text": "Salford Courts and Tribunal Service Centre",
+          "value": "1288401"
         },
         {
           "_id": "court_code_318",
