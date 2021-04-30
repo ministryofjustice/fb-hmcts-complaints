@@ -862,12 +862,6 @@
           "value": "989"
         },
         {
-          "_id": "court_code_250",
-          "_type": "option",
-          "text": "Contact Centre Loughborough",
-          "value": "250"
-        },
-        {
           "_id": "court_code_997",
           "_type": "option",
           "text": "Copyright Licensing",
@@ -896,6 +890,12 @@
           "_type": "option",
           "text": "Court of Protection",
           "value": "199"
+        },
+        {
+          "_id": "court_code_1331081",
+          "_type": "option",
+          "text": "Courts and Tribunal Service Centre (VHS)",
+          "value": "1331081"
         },
         {
           "_id": "court_code_180",
