@@ -532,12 +532,6 @@
           "value": "10065"
         },
         {
-          "_id": "court_code_5005",
-          "_type": "option",
-          "text": "Bristol Probate",
-          "value": "5005"
-        },
-        {
           "_id": "court_code_152",
           "_type": "option",
           "text": "Bromley County Court",
