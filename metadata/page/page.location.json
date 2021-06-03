@@ -700,6 +700,12 @@
           "value": "166"
         },
         {
+          "_id": "court_code_335",
+          "_type": "option",
+          "text": "CCBC - Traffic enforcement",
+          "value": "335"
+        },
+        {
           "_id": "court_code_413",
           "_type": "option",
           "text": "Central Criminal Court",
@@ -2234,6 +2240,12 @@
           "_type": "option",
           "text": "Northallerton Magistrates' Court",
           "value": "10255"
+        },
+        {
+          "_id": "court_code_335",
+          "_type": "option",
+          "text": "Northampton CCBC - Traffic enforcement",
+          "value": "335"
         },
         {
           "_id": "court_code_282",
