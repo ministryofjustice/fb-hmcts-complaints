@@ -2164,12 +2164,6 @@
           "value": "10722"
         },
         {
-          "_id": "court_code_280-A",
-          "_type": "option",
-          "text": "Newport Divorce Unit",
-          "value": "280-A"
-        },
-        {
           "_id": "court_code_10252",
           "_type": "option",
           "text": "Newton Abbot Magistrates' Court",
