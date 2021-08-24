@@ -702,7 +702,7 @@
         {
           "_id": "court_code_335",
           "_type": "option",
-          "text": "CCBC - Traffic enforcement",
+          "text": "County Court Bulk Centre in Northampton – Traffic Enforcement Centre",
           "value": "335"
         },
         {
@@ -870,7 +870,7 @@
         {
           "_id": "court_code_335",
           "_type": "option",
-          "text": "County Court Business Centre - Traffic Enforcement",
+          "text": "County Court Bulk Centre in Northampton – Traffic Enforcement Centre",
           "value": "335"
         },
         {
@@ -2238,7 +2238,7 @@
         {
           "_id": "court_code_335",
           "_type": "option",
-          "text": "Northampton CCBC - Traffic enforcement",
+          "text": "County Court Bulk Centre in Northampton – Traffic Enforcement Centre",
           "value": "335"
         },
         {
