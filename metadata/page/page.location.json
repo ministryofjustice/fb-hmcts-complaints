@@ -700,12 +700,6 @@
           "value": "166"
         },
         {
-          "_id": "court_code_335",
-          "_type": "option",
-          "text": "County Court Bulk Centre in Northampton – Traffic Enforcement Centre",
-          "value": "335"
-        },
-        {
           "_id": "court_code_413",
           "_type": "option",
           "text": "Central Criminal Court",
@@ -2234,12 +2228,6 @@
           "_type": "option",
           "text": "Northallerton Magistrates' Court",
           "value": "10255"
-        },
-        {
-          "_id": "court_code_335",
-          "_type": "option",
-          "text": "County Court Bulk Centre in Northampton – Traffic Enforcement Centre",
-          "value": "335"
         },
         {
           "_id": "court_code_282",
