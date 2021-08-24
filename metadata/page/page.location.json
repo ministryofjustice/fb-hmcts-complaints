@@ -864,7 +864,7 @@
         {
           "_id": "court_code_335",
           "_type": "option",
-          "text": "County Court Business Centre - Traffic Enforcement",
+          "text": "County Court Bulk Centre in Northampton – Traffic Enforcement Centre",
           "value": "335"
         },
         {
@@ -2156,12 +2156,6 @@
           "_type": "option",
           "text": "Newport (South Wales) Magistrates' Court",
           "value": "10722"
-        },
-        {
-          "_id": "court_code_280-A",
-          "_type": "option",
-          "text": "Newport Divorce Unit",
-          "value": "280-A"
         },
         {
           "_id": "court_code_10252",
