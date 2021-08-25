@@ -886,6 +886,12 @@
           "value": "199"
         },
         {
+          "_id": "court_code_1027413",
+          "_type": "option",
+          "text": "Courts and Tribunals Service Centre (Crime)",
+          "value": "1027413"
+        },
+        {
           "_id": "court_code_1331081",
           "_type": "option",
           "text": "Courts and Tribunal Service Centre (VHS)",
@@ -962,6 +968,30 @@
           "_type": "option",
           "text": "Croydon Magistrates' Court",
           "value": "10111"
+        },
+        {
+          "_id": "court_code_1023113",
+          "_type": "option",
+          "text": "CTSC – Probate",
+          "value": "1023113"
+        },
+        {
+          "_id": "court_code_1023213",
+          "_type": "option",
+          "text": "CTSC – Divorce",
+          "value": "1023213"
+        },
+        {
+          "_id": "court_code_1023313",
+          "_type": "option",
+          "text": "CTSC – SJS",
+          "value": "1023313"
+        },
+        {
+          "_id": "court_code_1023228",
+          "_type": "option",
+          "text": "CTSC – SSCS",
+          "value": "1023228"
         },
         {
           "_id": "court_code_10113",
@@ -1094,12 +1124,6 @@
           "_type": "option",
           "text": "East London Tribunal Centre",
           "value": "968"
-        },
-        {
-          "_id": "court_code_134",
-          "_type": "option",
-          "text": "East Midlands Divorce Unit",
-          "value": "134"
         },
         {
           "_id": "court_code_976",
@@ -1330,12 +1354,6 @@
           "value": "10162"
         },
         {
-          "_id": "court_code_10166",
-          "_type": "option",
-          "text": "Harlow Magistrates' Court",
-          "value": "10166"
-        },
-        {
           "_id": "court_code_214",
           "_type": "option",
           "text": "Harrogate County Court",
@@ -1430,12 +1448,6 @@
           "_type": "option",
           "text": "Hertford County Court",
           "value": "221"
-        },
-        {
-          "_id": "court_code_10178",
-          "_type": "option",
-          "text": "Hertford Magistrates' Court",
-          "value": "10178"
         },
         {
           "_id": "court_code_6014",
@@ -1882,6 +1894,12 @@
           "value": "107"
         },
         {
+          "_id": "court_code_1027513",
+          "_type": "option",
+          "text": "Loughborough Court and Tribunal Service Centre",
+          "value": "1027513"
+        },
+        {
           "_id": "court_code_10221",
           "_type": "option",
           "text": "Loughborough Magistrates' Court ",
@@ -2062,6 +2080,12 @@
           "value": "438"
         },
         {
+          "_id": "court_code_778629",
+          "_type": "option",
+          "text": "Mold Magistrates",
+          "value": "778629"
+        },
+        {
           "_id": "court_code_6002-A",
           "_type": "option",
           "text": "National Compliance and Enforcement Services Cwmbran Contact Centre",
@@ -2174,12 +2198,6 @@
           "_type": "option",
           "text": "Nitrates Vulnerable Zones",
           "value": "1012"
-        },
-        {
-          "_id": "court_code_141-A",
-          "_type": "option",
-          "text": "North East Divorce Unit",
-          "value": "141-A"
         },
         {
           "_id": "court_code_6023",
@@ -2740,12 +2758,6 @@
           "value": "323"
         },
         {
-          "_id": "court_code_87-A",
-          "_type": "option",
-          "text": "Small Claims Mediation - Administration",
-          "value": "87-A"
-        },
-        {
           "_id": "court_code_453",
           "_type": "option",
           "text": "Snaresbrook Crown Court",
@@ -3232,12 +3244,6 @@
           "value": "947"
         },
         {
-          "_id": "court_code_10365",
-          "_type": "option",
-          "text": "Watford Magistrates' Court",
-          "value": "10365"
-        },
-        {
           "_id": "court_code_1008",
           "_type": "option",
           "text": "Welfare of Animals",
@@ -3284,12 +3290,6 @@
           "_type": "option",
           "text": "West Midlands Central Finance Unit",
           "value": "6042"
-        },
-        {
-          "_id": "court_code_6043",
-          "_type": "option",
-          "text": "West Midlands Enforcement Office",
-          "value": "6043"
         },
         {
           "_id": "court_code_6044",
