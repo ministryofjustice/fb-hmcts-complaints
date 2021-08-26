@@ -94,12 +94,6 @@
           "value": "939"
         },
         {
-          "_id": "court_code_941",
-          "_type": "option",
-          "text": "Administrative Support Centre Leicestershire Social Security and Child Support Tribunal",
-          "value": "941"
-        },
-        {
           "_id": "court_code_603",
           "_type": "option",
           "text": "Admiralty and Commercial Courts",
