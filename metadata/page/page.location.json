@@ -2224,12 +2224,6 @@
           "value": "10254"
         },
         {
-          "_id": "court_code_251-A",
-          "_type": "option",
-          "text": "North West Divorce Unit",
-          "value": "251-A"
-        },
-        {
           "_id": "court_code_6025",
           "_type": "option",
           "text": "North West Regional Confiscation Unit",
