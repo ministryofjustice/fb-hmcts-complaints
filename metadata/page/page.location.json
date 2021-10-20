@@ -1726,6 +1726,12 @@
           "value": "244"
         },
         {
+          "_id": "court_code_1476685",
+          "_type": "option",
+          "text": "Leicester Contact Centre",
+          "value": "1476685"
+        },
+        {
           "_id": "court_code_430",
           "_type": "option",
           "text": "Leicester Crown Court",
