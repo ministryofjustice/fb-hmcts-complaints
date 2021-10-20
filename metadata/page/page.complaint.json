@@ -6,6 +6,9 @@
       "_id": "page.complaint--textarea.auto_name__3",
       "_type": "textarea",
       "errors": {
+        "maxLength": {
+          "any": "You have exceeded the maximum limit of 5000 words. Please upload a document containing the full complaint when prompted."
+        },
         "required": {
           "any": "Enter a complaint",
           "any:cy": "Teipiwch eich cwyn yn y blwch"
@@ -15,7 +18,10 @@
       "hint:cy": "Rhowch gymaint o fanylion â phosib, yn cynnwys dyddiadau os ydynt yn hysbys ichi",
       "label": "Your complaint",
       "label:cy": "Eich cwyn",
-      "name": "complaint_details"
+      "name": "complaint_details",
+      "validation": {
+        "maxLength": 5000
+      }
     }
   ],
   "show": true,
