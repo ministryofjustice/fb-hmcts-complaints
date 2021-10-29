@@ -6,7 +6,7 @@
       "_id": "page.what-can-we-do-to-put-this-right--textarea.auto_name__4",
       "_type": "textarea",
       "label": "What can we do to put this right?",
-      "name": "auto_name__4",
+      "name": "action_requested",
       "validation": {
         "maxLength": 30000
       }
