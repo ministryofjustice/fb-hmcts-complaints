@@ -6,7 +6,7 @@
       "_id": "page.how-has-this-affected-you--textarea.auto_name__3",
       "_type": "textarea",
       "label": "How has this affected you?",
-      "name": "auto_name__3",
+      "name": "impact",
       "validation": {
         "maxLength": 30000
       }
