@@ -1,0 +1,16 @@
+{
+  "_id": "page.how-has-this-affected-you",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.how-has-this-affected-you--textarea.auto_name__3",
+      "_type": "textarea",
+      "label": "How has this affected you?",
+      "name": "impact",
+      "validation": {
+        "maxLength": 30000
+      }
+    }
+  ],
+  "url": "how-has-this-affected-you"
+}
