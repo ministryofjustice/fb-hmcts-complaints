@@ -7,7 +7,7 @@
       "_type": "textarea",
       "errors": {
         "maxLength": {
-          "any": "You have exceeded the maximum limit of 5000 words. Please upload a document containing the full complaint when prompted."
+          "any": "You have exceeded the maximum limit of 30000 words. Please upload a document containing the full complaint when prompted."
         },
         "required": {
           "any": "Enter a complaint",
@@ -20,7 +20,7 @@
       "label:cy": "Eich cwyn",
       "name": "complaint_details",
       "validation": {
-        "maxLength": 5000
+        "maxLength": 30000
       }
     }
   ],
