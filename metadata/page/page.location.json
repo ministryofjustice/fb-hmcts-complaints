@@ -2092,6 +2092,12 @@
           "value": "778629"
         },
         {
+          "_id": "court_code_1572633",
+          "_type": "option",
+          "text": "MyHMCTS (Legal professional users portal)",
+          "value": "1572633"
+        },
+        {
           "_id": "court_code_6002-A",
           "_type": "option",
           "text": "National Compliance and Enforcement Services Cwmbran Contact Centre",
