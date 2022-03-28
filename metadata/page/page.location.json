@@ -1678,12 +1678,6 @@
           "value": "10205"
         },
         {
-          "_id": "court_code_243-A",
-          "_type": "option",
-          "text": "Leeds Civil and Family Hearing Centre",
-          "value": "243-A"
-        },
-        {
           "_id": "court_code_243",
           "_type": "option",
           "text": "Leeds County Court",
