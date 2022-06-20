@@ -16,7 +16,7 @@
       "$definition": true,
       "_id": "page.cookies--content--2",
       "_type": "content",
-      "html": "## How cookies are used on this online form\r\n\r\nWe will store a cookie to remember your progress in this computer and to expire your session after 30 minutes of inactivity or when you close your browser."
+      "html": "## Essential cookies\r\n\r\nEssential cookies are required to make this form work and keep your information secure while you use it."
     },
     {
       "$component": true,
@@ -46,14 +46,26 @@
       "rows": [
         [
           {
-            "html": "_sessionId",
+            "html": "sessionId",
             "scope": "row"
           },
           {
-            "html": "Saves your current progress in this computer and tracks inactivity periods"
+            "html": "Saves your current progress on this computer and tracks inactivity periods"
           },
           {
-            "html": "After 30 minutes of inactivity or when you close your browser"
+            "html": "After 20 minutes of inactivity or when you close your browser"
+          }
+        ],
+        [
+          {
+            "html": "analytics",
+            "scope": "row"
+          },
+          {
+            "html": "Remembers whether you accept or reject analytics cookies on this form"
+          },
+          {
+            "html": "After 1 year"
           }
         ]
       ]
@@ -64,7 +76,7 @@
       "$definition": true,
       "_id": "page.cookies--content--4",
       "_type": "content",
-      "html": "## Measuring website usage (Google Analytics)\r\n\r\nWe use Google Analytics software to collect information about how you use this online form. We do this to help make sure this online form is meeting the needs of its users and to help us make improvements.\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page \r\n- how you got to the site\r\n- what you click on while you’re visiting the site\r\n\r\nWe do not collect or store your personal information (for example your name or address) so this information can't be used to identify who you are.\r\n\r\nWe do not allow Google to use or share our analytics data.\r\n\r\nGoogle Analytics sets the following cookies:"
+      "html": "## Analytics cookies\r\n\r\nWe use Google Analytics software to collect information about how you use this online form. We do this to help make sure this online form is meeting the needs of its users and to help us make improvements.\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page \r\n- how you got to the site\r\n- what you click on while you’re visiting the site\r\n\r\nWe do not collect or store your personal information (for example your name or address) so this information can't be used to identify who you are.\r\n\r\nWe do not allow Google to use or share our analytics data.\r\n\r\nGoogle Analytics sets the following cookies:"
     },
     {
       "$component": true,
