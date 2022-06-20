@@ -574,10 +574,16 @@
           "value": "755"
         },
         {
-          "_id": "court_code_159",
+          "_id": "court_code_755",
           "_type": "option",
-          "text": "Caernarfon Justice Centre",
-          "value": "159"
+          "text": "Caernarfon Crown Court",
+          "value": "755"
+        },
+        {
+          "_id": "court_code_1612401",
+          "_type": "option",
+          "text": "C100 centralised on-line team",
+          "value": "1612401"
         },
         {
           "_id": "court_code_10073",
@@ -1630,12 +1636,6 @@
           "value": "10189"
         },
         {
-          "_id": "court_code_241-A",
-          "_type": "option",
-          "text": "Lambeth County Court",
-          "value": "241-A"
-        },
-        {
           "_id": "court_code_6016",
           "_type": "option",
           "text": "Lancashire and Cumbria Enforcement Office",
@@ -2642,12 +2642,6 @@
           "_type": "option",
           "text": "Rugeley Central Finance Office",
           "value": "6031"
-        },
-        {
-          "_id": "court_code_133-A",
-          "_type": "option",
-          "text": "SW Regional Divorce Centre",
-          "value": "133-A"
         },
         {
           "_id": "court_code_10299",
