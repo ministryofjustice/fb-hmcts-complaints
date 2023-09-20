@@ -8,24 +8,7 @@
   "lede": "Your complaint will not affect your case.",
   "lede:cy": "Ni fydd eich cwyn yn effeithio ar eich achos.",
   "steps": [
-    "page.name",
-    "page.do-you-have-a-case-number",
-    "page.case-number",
-    "page.email-contact",
-    "page.email-address",
-    "page.post-contact",
-    "page.contact-address",
-    "page.phone-contact",
-    "page.phone-number",
-    "page.no-contact-method",
-    "page.complaint",
-    "page.how-has-this-affected-you",
-    "page.what-can-we-do-to-put-this-right",
-    "page.location",
-    "page.northampton-county-court-confirmation",
-    "page.documents-to-support-your-complaint",
-    "page.check-answers",
-    "page.complaint-sent"
+
   ],
   "url": "/"
 }
